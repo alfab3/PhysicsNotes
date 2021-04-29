@@ -1,0 +1,3 @@
+In mathematics, any vector space $V$ has a corresponding dual vector space (or just dual space for short) consisting of all linear forms on $V$, together with the vector space structure of pointwise addition and scalar multiplication by constants.
+
+The dual space as defined above is defined for all vector spaces, and to avoid ambiguity may also be called the algebraic dual space. When defined for a topological vector space, there is a subspace of the dual space, corresponding to continuous linear functionals, called the continuous dual space.

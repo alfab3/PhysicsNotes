@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "81cf5bf0875a2751",
+    "type": "split",
+    "children": [
+      {
+        "id": "d62abc6944c2f0ce",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "deed43158aa1883b",
+    "type": "split",
+    "children": [
+      {
+        "id": "9afc8b6743a16a97",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "21b365c7169d382b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "4578f0f6dba73a9e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "863f615f124e0a34",
+    "type": "split",
+    "children": [
+      {
+        "id": "c768318f2d46f952",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6144e9520cb55148",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d62abc6944c2f0ce",
+  "lastOpenFiles": [
+    "Linear Algebra/Span.md",
+    "Math Methods/Vector Spaces/Subspace.md",
+    "Math Methods/Vector Spaces/Untitled.md",
+    "Math Methods/Vector Spaces/Linear Vector Spaces.md",
+    "Linear Algebra/Determinant.md",
+    "Linear Algebra/Cramer's Rule.md",
+    "Linear Algebra/Change of Basis.md",
+    "Linear Algebra/Basis Vectors.md",
+    "Math Methods/Untitled.md",
+    "Linear Algebra/Abstract Vector Spaces.md"
+  ]
+}

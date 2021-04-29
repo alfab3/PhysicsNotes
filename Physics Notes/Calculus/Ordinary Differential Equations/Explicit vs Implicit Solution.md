@@ -1,0 +1,1 @@
+An explicit solution is any solution that is given in the form $y=y(t)$. In other words, the only place that $y$ actually shows up is once on the left side and only raised to the first power. An implict solution is any colution that isn't in explicit form. 
