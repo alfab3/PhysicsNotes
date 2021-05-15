@@ -1,0 +1,1 @@
+Repetitive variation, typically in time, of some measure about a central value (often a point of equilibrium) or betwen two or more different states. The term vibration is percisely used to describe mechanical oscillation.

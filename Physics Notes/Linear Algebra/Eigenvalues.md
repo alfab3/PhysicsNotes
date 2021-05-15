@@ -3,4 +3,7 @@ If we look at one particular vector when then transformation occurs the vector g
 $$\begin{align}
     A \vec{v} = \lambda \vec{v}
 \end{align}$$
-Where $A$ is the transformation matrix, and $\vec{v}$ is the eigenvector(([[Eigenvectors]]), and $\lambda$ is the corresponding eigenvalue([[Eigenvalues]]).
+Where $A$ is the transformation matrix, and $\vec{v}$ is the eigenvector(([[Eigenvectors]]), and $\lambda$ is the corresponding eigenvalue. 
+
+
+

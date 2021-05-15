@@ -1,4 +1,4 @@
-An ordinary differential equation (ODE) is an equation that involes one or more unknown functions of a single variable as well as their [[derivatives]] up to a finite order. For a single unknown $y(t)$, the ODE takes the general form: 
+An ordinary differential equation (ODE) is an equation that involes one or more unknown functions of a single variable as well as their [[Derivative]] up to a finite order. For a single unknown $y(t)$, the ODE takes the general form: 
 $$F(y(t), \; y'(t), \;..., \;y^{(n)}(t); \;(t)) = 0$$
 where $n$ is the order of the ODE. 
 

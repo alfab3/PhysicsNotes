@@ -23,3 +23,6 @@ $$\sum^\infty_{i=1} |x_i|^2 < \infty $$ So with this confition we can now work w
 What is the advantage of writing a basis?
 
 Well if you start with an arbitrary basis (one that is not orthonormal) you can make it orthonormal. To do this you would take their set and project one on the other and draw a line from the two projects. This forms an orthonormal set. This is called [[Gram-Schmidt Orthonormalization]].
+
+[[Einstein Summation Convention]]: If we have a basis: $\{\ket{e_1}, ... \ket{e_n}\}$ of $V$, we can decompose each vector $\ket{v}$ into components:
+$$\ket{v}=v^\mu \ket{e_\mu}$$ where: $v^\mu \in F \times F \times ... \times F = F^n$ 

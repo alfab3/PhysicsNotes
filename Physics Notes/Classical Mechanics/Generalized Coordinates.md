@@ -1,0 +1,1 @@
+In analytical mechanics, the parameters that descrive the configuration of the system relative to some reference configuration. These parameters must uniquely define the configuration of the system relative to the reference configuration. The generalized [[Velocity]] are the time derivatives of the generalized coordinates of the system.

@@ -3,3 +3,6 @@ The "span" of $\vec{v}$ and $\vec{w}$ is the set of all their [[Linear Combinati
 Now in the case where the third vector is on the span of the first two or with 2 vectors if they're sat on top of each other. We know that one of these vectors is redundant when it comes to span because you can remove one and the span won't change, this is referred to as them being linearly dependent. Basically one of the vectors can be expressed as a [[Linear Combination]] of the others, because its already in the span of the others. Meanwhile, if a vector really does another dimension to the span then it is referred to as linearly independent because it cannot be expressed as a linear combination of the other vectors.
 
 A set of vectors in a [[Linear Vector Spaces]] is said to span a space, if every vector can be written as a linear combination of these vectors. So if we have $\ket{\phi_1},...,\ket{\phi_n}$ span the linear vector space $V$ iff any vector in $V$ can be written as a [[linear combination]] of $\ket{\phi_1},...,\ket{\phi_n}$ any vector in this space can be written as a [[linear combination]]. 
+
+The span of the vectors $\ket{v_1}, \ket{v_2}, ..., \ket{v_n}$ is the set of vectors of the form $\lambda^1\ket{v_1}+...+\lambda^n\ket{v_n}$ where $\lambda^1,...,\lambda^n$ take all possible values in F. 
+

@@ -1,0 +1,1 @@
+Fundamental space of classical geometry. Originally it was the three-dimensional space of Euclidean geonetry, but in modern mathematics there are Euclidean spaces of any nonnegative integer dimension, including the three-dimensional space and the Euclidean plane (dimension 2)

@@ -8,11 +8,11 @@ We have: $\braket{\phi_1 | \psi} = v_1$, but if you want to produce the whole th
 $$\ket{\phi_1}\braket{\phi_1|\psi} = \ket{\phi_1}v_1 = v_1\ket{\phi_1}$$
  Where $\ket{\phi_1} \bra{\phi_1}$ is the projection operator. Originally they would use: $\hat{i} \hat{i} \cdot \vec{v} = v_1\hat{i}$ which used to be called the dyadic. 
  Properties:
- $$p_n = \ket{|phi_n} \bra{\phi_n}$$
- $$p_n^2 = \ket{|phi_n} \braket{\phi_n | \phi_n} \bra{\phi_n} = \ket{|phi_n} \bra{\phi_n} = p_n$$.
+ $$p_n = \ket{\phi_n} \bra{\phi_n}$$
+ $$p_n^2 = \ket{\phi_n} \braket{\phi_n | \phi_n} \bra{\phi_n} = \ket{\phi_n} \bra{\phi_n} = p_n$$.
  
  If you have an orthonormal basis formed from these vectors? 
- $$\sum_n \ket{|phi_n} \bra{\phi_n} = \mathbb{I}$$ 
+ $$\sum_n \ket{\phi_n} \bra{\phi_n} = \mathbb{I}$$ 
  Which is the unit operator, the unit operator, when acting ona  vector, does nothing at all. 
  
  $$p_n(p_n - \mathbb{I}) = 0$$

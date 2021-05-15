@@ -9,3 +9,6 @@ $$\begin{align}
     ad - bc
 \end{align}$$
 If a determinant is 0, this means the transformation represented my the matrix squishes space into a smaller dimension.
+
+Given a Linear operator L with components $L^\mu_\nu \; (i.e., \; L\ket{e_\mu} = L^\nu_\mu \ket{e}$ then the determinant of $L$ is 
+$$det(L) = det(L^\nu_\mu)$$ 

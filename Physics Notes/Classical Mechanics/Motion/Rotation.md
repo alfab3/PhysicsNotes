@@ -1,0 +1,1 @@
+A rotation is a circular movement of an object around a center (or point of rotation). The geometric place along which the rotation occurs is called the rotation planem and the imaginary line extending from the center and perpendicular to the rotation place is called the rotation axis. A three - dimensional object can always be rotated about an infinite number of rotation axes. 

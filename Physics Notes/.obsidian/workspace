@@ -7,9 +7,25 @@
         "id": "d62abc6944c2f0ce",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
+            "mode": "source"
+          }
+        },
+        "group": "84b65af7f96c05ee"
+      },
+      {
+        "id": "c03abf52a2569a87",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
+            "mode": "preview"
+          }
+        },
+        "group": "84b65af7f96c05ee"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Linear Algebra/Span.md",
-    "Math Methods/Vector Spaces/Subspace.md",
-    "Math Methods/Vector Spaces/Untitled.md",
-    "Math Methods/Vector Spaces/Linear Vector Spaces.md",
-    "Linear Algebra/Determinant.md",
-    "Linear Algebra/Cramer's Rule.md",
-    "Linear Algebra/Change of Basis.md",
-    "Linear Algebra/Basis Vectors.md",
-    "Math Methods/Untitled.md",
-    "Linear Algebra/Abstract Vector Spaces.md"
+    "Classical Mechanics/Lagrangian Mechanics/Action.md",
+    "Math Methods/Calculus of Variations/Functionals.md",
+    "Math Methods/Calculus of Variations/Functional Derivative.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian.md",
+    "Classical Mechanics/Lagrangian Mechanics/Noether's Theorem.md",
+    "Classical Mechanics/Lagrangian Mechanics/Principle of least action.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
+    "Classical Mechanics/Lagrangian Mechanics/Untitled.md",
+    "Classical Mechanics/Motion/Equations of Motion.md"
   ]
 }

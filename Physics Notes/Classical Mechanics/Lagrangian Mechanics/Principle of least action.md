@@ -1,0 +1,1 @@
+Also known as the stationary action principle, is a variational principle that, when applied to the action of a mechanical system, yields the [[Equations of Motion]] for that system. The principle states that the trajectories (i.e.) the solutions of the equations of motion are stationary points (a.k.a. critical points) of the system's action functional. 
