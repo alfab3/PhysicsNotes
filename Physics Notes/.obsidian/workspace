@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
+            "file": "Examples/Calculus of Variations/Example 3 - Length of a line in a surface.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
+            "file": "Examples/Calculus of Variations/Example 3 - Length of a line in a surface.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 331.5036334991455
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Lagrangian Mechanics/Action.md",
+                "file": "Examples/Calculus of Variations/Example 3 - Length of a line in a surface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d62abc6944c2f0ce",
+  "active": "c03abf52a2569a87",
   "lastOpenFiles": [
-    "Classical Mechanics/Lagrangian Mechanics/Action.md",
-    "Math Methods/Calculus of Variations/Functionals.md",
+    "Examples/Calculus of Variations/Example 3 - Length of a line in a surface.md",
+    "Examples/Calculus of Variations/Example 2 - PE of a flexible cable suspended from two fixed points.md",
+    "Examples/Calculus of Variations/Untitled.md",
+    "Examples/Calculus of Variations/Example 1 - Length of line on a string.md",
+    "Math Methods/Calculus of Variations/Functional.md",
+    "Math Methods/Calculus of Variations/Untitled.md",
+    "Math Methods/Calculus of Variations/Euler's Equation.md",
     "Math Methods/Calculus of Variations/Functional Derivative.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian.md",
-    "Classical Mechanics/Lagrangian Mechanics/Noether's Theorem.md",
-    "Classical Mechanics/Lagrangian Mechanics/Principle of least action.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
-    "Classical Mechanics/Lagrangian Mechanics/Untitled.md",
-    "Classical Mechanics/Motion/Equations of Motion.md"
+    "Math Methods/Calculus of Variations/Noether's Theorem.md",
+    "Math Methods/Calculus of Variations/Principle of least action.md"
   ]
 }

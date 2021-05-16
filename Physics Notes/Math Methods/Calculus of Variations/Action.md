@@ -9,7 +9,7 @@ $$
 where the integrand $L$ is called the [[Lagrangian]]
 
 In classical physics the term action has a number of meanings. 
-Action [[Functionals]]
+Action [[Functional]]
 Most commonly the term used for a functional $S$ which takes a function of time and (for fields) space as input and return a scalar. In classical mechanics, the input function is the evolution $q(t)$ of the system between two times $t_1$ and $t_2$, where $\vec{q}$ represents the generalized coordinates. The action $S[q(t)]$ is defined as the integral of the [[Lagrangian]] $L$ for an input evolution between the two times:
 $$
 S[q(t)] = \int^{t_2}_{t_1} L(\vec{q}(t),\dot{\vec{q}}(t),t)dt

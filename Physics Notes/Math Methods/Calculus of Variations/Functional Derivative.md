@@ -1,6 +1,6 @@
 We restrict ourselves to expressions of the form 
 $$J[y] = \int^{x_2}_{x_1} f(x, y, y', y'', ..., y^{(n)})dx$$
-where $f$ depends on the value of $y(x)$ and only finitely many of its [[Derivative]]. Such [[functionals]] are said to be local in $x$.
+where $f$ depends on the value of $y(x)$ and only finitely many of its [[Derivative]]. Such [[Functional]] are said to be local in $x$.
 
 Consider first a functional $J = \int fdx$ in which $f$ depends only $x,y$ and $y'$. Make a change $y(x)\rightarrow y(x) + \epsilon \eta(x)$, where $\epsilon$ is a small $x$-independent constant. The resultant change in $J$ is
 
