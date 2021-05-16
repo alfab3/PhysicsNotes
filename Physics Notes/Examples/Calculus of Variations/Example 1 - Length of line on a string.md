@@ -4,7 +4,7 @@ y = f(x)
 $$
 The length of the line is a functional of $f$ of the form. Indeed
 $$
-l[f] = \int dl \int \sqrt{(dx)^2+(dy)^2} = \int \sqrt{(dx)^2+(f_xdx)^2} = \int^{x_b}_{x_a} \sqrt{1+(f_x)^2}dx
+l[f] = \int dl = \int \sqrt{(dx)^2+(dy)^2} = \int \sqrt{(dx)^2+(f_xdx)^2} = \int^{x_b}_{x_a} \sqrt{1+(f_x)^2}dx
 $$
 
 We see that $l[f]$ has the form:
