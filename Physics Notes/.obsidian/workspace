@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Differential Calculus/Derivative.md",
+            "file": "Math Methods/Function Spaces/Cauchy Sequences.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calculus/Differential Calculus/Derivative.md",
+            "file": "Math Methods/Function Spaces/Cauchy Sequences.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Calculus/Differential Calculus/Derivative.md",
+                "file": "Math Methods/Function Spaces/Cauchy Sequences.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84f06cfdedda0e56",
+  "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Calculus/Differential Calculus/Derivative.md",
-    "Examples/Calculus of Variations/Example 2 - PE of a flexible cable suspended from two fixed points.md",
-    "Examples/Calculus of Variations/Example 1 - Length of line on a string.md",
-    "Differential Geometry/Riemannian Manifold.md",
-    "Classical Mechanics/Velocity.md",
-    "Classical Mechanics/Potential Energy.md",
-    "Classical Mechanics/Position.md",
-    "Classical Mechanics/Newton's Laws of Motion.md",
-    "Classical Mechanics/Kinetic Energy.md",
-    "Classical Mechanics/Generalized Coordinates.md"
+    "Math Methods/Function Spaces/Cauchy Sequences.md",
+    "Math Methods/Function Spaces/Convergence.md",
+    "Math Methods/Function Spaces/Untitled.md",
+    "Math Methods/Vector Spaces/Norm.md",
+    "Quantum Mechanics/Projection Operator.md",
+    "Quantum Mechanics/Hermitian Adjoint.md",
+    "Quantum Mechanics/Commutator.md",
+    "Relativity/Curved Spaces.md",
+    "Relativity/Spacetime.md",
+    "Classical Mechanics/Newtonian Dynamics/Acceleration.md"
   ]
 }
