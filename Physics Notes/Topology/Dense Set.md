@@ -1,0 +1,1 @@
+A subset $A$ of a [[Topological Space]] $X$ is called dense if every point $x$ in $X$ either belongs to $A$ or is a limit point of $A$; that is, the closure of $A$ constitutes the whole set $X$.

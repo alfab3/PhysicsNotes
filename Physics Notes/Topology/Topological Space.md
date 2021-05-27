@@ -1,0 +1,1 @@
+A Geometic space in which closeness is defined but, generally, cannot be measured by a numeric distance.
