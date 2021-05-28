@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Commutator.md",
+            "file": "Homework/Math Methods/Homework 1.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Commutator.md",
+            "file": "Homework/Math Methods/Homework 1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Commutator.md",
+                "file": "Homework/Math Methods/Homework 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Homework/Math Methods/Homework 1.md",
+    "Math Methods/Sequences and Series/Untitled.md",
+    "Math Methods/Sequences and Series/D'Alembert (or Cauchy) Ratio Test.md",
+    "Math Methods/Sequences and Series/Comparison Test.md",
     "Quantum Mechanics/Commutator.md",
     "Quantum Mechanics/Projection Operator.md",
     "Quantum Mechanics/Hermitian Adjoint.md",
     "Differential Geometry/Riemannian Manifold.md",
     "Linear Algebra/Inverse Matrices.md",
-    "Linear Algebra/Eigenvectors.md",
-    "Linear Algebra/Eigenbasis.md",
-    "Linear Algebra/Dirac Notation.md",
-    "Linear Algebra/Cramer's Rule.md",
-    "Linear Algebra/Arithmetic of Vectors.md"
+    "Linear Algebra/Eigenvectors.md"
   ]
 }
