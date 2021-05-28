@@ -22,7 +22,7 @@ In going from the first to the second, we observe that
 $$
 \delta(\phi_\mu(x)) = \frac{\partial}{\partial x^\mu}
 $$
-and used the [[divergence theorem]], 
+and used the [[Divergence Theorem]], 
 $$
 \int_\Omega \frac{\partial A^\mu }{\partial x^\mu}d^{n+1}x = \int_{\partial \Omega} A^\mu n_\mu DS.
 $$

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
+            "file": "Quantum Mechanics/Commutator.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
+            "file": "Quantum Mechanics/Commutator.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
+                "file": "Quantum Mechanics/Commutator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Math Methods/Function Spaces/Hilbert Space Basis.md",
-    "Topology/Dense Set.md",
-    "Topology/Untitled.md",
-    "Math Methods/Function Spaces/Hilbert Space.md",
-    "Math Methods/Function Spaces/Function Space Basis.md",
-    "Math Methods/Function Spaces/Untitled.md",
-    "Math Methods/Function Spaces/Basis.md",
-    "Math Methods/Function Spaces/Dense.md",
-    "Math Methods/Uniqueness.md",
-    "Math Methods/Function Spaces/Completeness.md"
+    "Quantum Mechanics/Commutator.md",
+    "Quantum Mechanics/Projection Operator.md",
+    "Quantum Mechanics/Hermitian Adjoint.md",
+    "Differential Geometry/Riemannian Manifold.md",
+    "Linear Algebra/Inverse Matrices.md",
+    "Linear Algebra/Eigenvectors.md",
+    "Linear Algebra/Eigenbasis.md",
+    "Linear Algebra/Dirac Notation.md",
+    "Linear Algebra/Cramer's Rule.md",
+    "Linear Algebra/Arithmetic of Vectors.md"
   ]
 }
