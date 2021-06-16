@@ -1,16 +1,24 @@
-An ordinary differential equation (ODE) is an equation that involes one or more unknown functions of a single variable as well as their [[Derivative]] up to a finite order. For a single unknown $y(t)$, the ODE takes the general form: 
-$$F(y(t), \; y'(t), \;..., \;y^{(n)}(t); \;(t)) = 0$$
-where $n$ is the order of the ODE. 
+To start we note that the taking of a derivative is a linear operation meaning that 
+$$
+\frac{d}{dx}(a\phi(x)+b\psi(x))=a\frac{d\phi}{dx}+b\frac{d\psi}{dx}
+$$
+and the derivative operation can be viewed as defining a linear operator: $\mathcal{L}=d/dx$ Higher derivatives are also linear operators. 
 
-The ODE is explicit if it takes the form: 
-$$y^{(n)}(t) = G(y(t), \; y'(t), \;..., \;y^{(n)}(t); \;(t))$$
-otherwise it is implicit. ([[Explicit vs Implicit Solution]]).
+Linear differential operators include those of the form
+$$
+\mathcal{L}\equiv\sum^n_{v=0}p_v(x)\Bigl(\frac{d^v}{dx^v}\Big)
+$$
+where the functions $p_v(x)$ are arbitrary
 
-An $n-th$ order ODE can be rewritten as a system of $n$ first order ODEs as follows: 
-define: $$y_i(t) = y^{i-1} \;\;\; i = 1, ..., n$$
-So that:
-$$y_i(t) = y(t); \; \; y_1'(t) = y_2(t); \; \; y_2'(t) = y_3(t)$$
+An ODE is termed homogeneous if the dependent variable occurs to the same power in all its terms. and inhomogeneous if otherwise; it is termed linear if it can be written in the form 
+$$
+\mathcal{L}\phi(x)=F(x)
+$$
+where $\mathcal{L}$ is a linear differential operator and $F(x)$ is an algebraic function of $x$. An important class of ODEs are those that are both linear and homogeneous, and thereby of the form $\mathcal{L}_\phi = 0$.
 
-and finally:
-$$y_n'(t) = G(y_0(t), y_1(t),...,y_n(t);t)$$
+The solutions to ODEs are in general are not unique and if there are multiplie solutions it is useful to identify those that are linearly independent [[Linear Independence]]. Homogeneous linear ODEs have the general property that any multiple of a solution is also a solution, and that if there are multiple linearly independent solutions, any linear combination of those solutions will also solve the ODE. This statement is equivalent to noting that if $\mathcal{L}$ is linear, then for all $a$ and $b$.
+$$
+\mathcal{L}_\phi=0 \; and \; \mathcal{L}_\psi = 0 \rightarrow \mathcal{L}(a\phi+b\psi)=0
+$$
 
+Further terms used to classify ODEs include their order - highest derivative therein, and degree - power to which the highest derivative appears after the ODE is rationalized.

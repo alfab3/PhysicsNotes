@@ -13,7 +13,17 @@ Proof:
 Suppose $\ket{0}, \ket{0'}$ both satisfy axiom 3
 Then: $$\ket{0} = \ket{0'} + \ket{0} = \ket{0} + \ket{0'} = \ket{0'} $$
 b) $\forall\ket{\nu} \in V, \ket{\nu}$ is unique
+Proof:
+Let $\ket{u}$ and $\ket{v}$ be elements of a vector space $V$. Then there exists a unique element $\ket{x}$ of $V$ satisifying $\ket{x} + \ket{v} = \ket{u}$
+The vector space axioms ensure the existence of an element $\ket{v}$ of $V$ with the property $\ket{v} + \ket{-v} =0$, where 0 is the zero element of $V$. The identity $\ket{x} + \ket{v} = \ket{u}$ is satisfied when $\ket{x} = \ket{-v} + \ket{u}$ since
+$$
+(\ket{u} + \ket{-v}) + \ket{v} = \ket{u} + (\ket{-v} + \ket{v}) = \ket{u} + 0 = \ket{u}
+$$
+If now $\ket{x}$ is any element of $V$ satisfying $\ket{x} + \ket{v} = \ket{u}$
 c) $\forall \ket{\nu} \in V, 0 \cdot \ket{\nu} = \ket{0}$
+Proof:
+Let $V$ be a Vector space over a field $K$. Then c0=0 and 0$\ket{v}$ =0 for all 
+
 d) $\forall \lambda \in F, \lambda \cdot \ket{0} = \ket{0}$
 e) if $\lambda \cdot \ket{\nu} = \ket{0}$ then $\lambda = 0$ or $\ket{\nu} = 0$
 f) $\forall \ket{\nu} \in V, -1 \cdot \ket{\nu} = \ket{-\nu}$
