@@ -14,3 +14,21 @@ Rewriting our equation from newton's law:
 $$
 \frac{m}{b}\dot{v}=v_0^2-v^2
 $$
+
+This equation is separable, and we write it in the form 
+$$
+\frac{dv}{v_0^2-v^2} = \frac{b}{m}dt
+$$
+Using partial fractions to write
+$$
+\frac{1}{v_0^2-v^2}=\frac{1}{2v_0}\bigg( \frac{1}{v+v_0}-\frac{1}{v-v_0}\bigg)
+$$
+it is straightforward to integrate both sides: 
+$$
+\frac{1}{2v_0}\ln\frac{v_0+v}{v_0-v}=\frac{b}{m}t
+$$
+Solving for the velocity we have
+$$
+v = \frac{e^{2t/T}-1}{e^{2t/T}-1}v_0=v_0\frac{\sinh(t/T)}{\cosh(t/T)} = v_0\tanh\bigg(\frac{t}{T}\bigg)
+$$
+where $T=\sqrt{m/gb}$ is the time constant governing the asymptotic approach of velocity to its limiting value, $v_0$.
