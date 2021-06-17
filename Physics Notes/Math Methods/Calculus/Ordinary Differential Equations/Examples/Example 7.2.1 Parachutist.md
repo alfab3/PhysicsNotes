@@ -31,4 +31,5 @@ Solving for the velocity we have
 $$
 v = \frac{e^{2t/T}-1}{e^{2t/T}-1}v_0=v_0\frac{\sinh(t/T)}{\cosh(t/T)} = v_0\tanh\bigg(\frac{t}{T}\bigg)
 $$
-where $T=\sqrt{m/gb}$ is the time constant governing the asymptotic approach of velocity to its limiting value, $v_0$.
+where $T=\sqrt{m/gb}$ is the time constant governing the asymptotic approach of velocity to its limiting value, $v_0$. 
+

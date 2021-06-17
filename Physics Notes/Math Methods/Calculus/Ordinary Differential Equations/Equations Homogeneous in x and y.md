@@ -1,0 +1,3 @@
+An [[Ordinary Differential Equation]] is said to be homogeneous in $x$ and $y$ if the combined powers of $x$ and $y$ add to $n$ in all the terms of $P(x,y)$ amd $Q(x,y)$ when the ODE is written in the general form. Note that the use of this term "homogeneous" has a different meaning than when it was used to describe a linear ODE as given with the term $F(x)=0$ because it now applies to the combined power of $x$ and $y$
+
+A first-order ODE, which is homogenous of order $n$ in the oresent sense, can be made separable by substitution $y=xv$ with $dy = xdv + vdx$. This substitution causes the $x$ dependence of all the terms of the equation containing $dv$ to be $x^{n+1}$. The variables $x$ and $v$ can then be separated. 
