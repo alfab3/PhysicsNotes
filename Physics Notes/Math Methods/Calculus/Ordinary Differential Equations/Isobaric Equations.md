@@ -1,0 +1,3 @@
+A generalization of preceding subsection is to modify the definition of homogeneity by assigning different weights to $x$ and $y$. If assigning unit weight to each instanve of $x$ or $dx$ and a weight $m$ to each instance of $y$ or $dy$ makes the [[Ordinary Differential Equation]] homogeneous as defined here, then the substitution $y=x^mv will make the equation separable. 
+
+[[Example 7.2.4 An Isobaric ODE]]

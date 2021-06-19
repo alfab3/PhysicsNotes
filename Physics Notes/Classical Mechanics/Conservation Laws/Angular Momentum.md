@@ -8,7 +8,7 @@ The total angular momentum is conserved by any theory satisfying Eqs (2), (4), (
 $$
 \dot{L}=0
 $$
-When proving this it is crucial to take into account the force being equal to the derivative of the potential as well as some other vector properties. The details of the proof are as follows
+When proving this it is crucial to take into account the force being equal to the derivative of the [[Potential Energy]] as well as some other vector properties. The details of the proof are as follows
 $$
 \sum^N_{i=1} m_i \vec{r_i} \times \ddot{\vec{r}} = \sum_{i,j} \vec{r_i}\times \vec{F_{i,j}}
 $$

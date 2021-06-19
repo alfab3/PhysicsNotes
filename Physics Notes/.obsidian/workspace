@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.3 An ODE Homogeneous in x and y.md",
+            "file": "Classical Mechanics/Newtonian Dynamics/Force Newtonian Dynamics.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.3 An ODE Homogeneous in x and y.md",
+            "file": "Classical Mechanics/Newtonian Dynamics/Force Newtonian Dynamics.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.3 An ODE Homogeneous in x and y.md",
+                "file": "Classical Mechanics/Newtonian Dynamics/Force Newtonian Dynamics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Untitled.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Untitled.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.2 A Nonseparable Exact ODE.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/7.2.2 A Nonseparable Exact ODE.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Exact Differentials.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Linear Ordinary Differential Equation.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.1 Parachutist.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.2.1.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Ordinary Differential Equation.md"
+    "Classical Mechanics/Newtonian Dynamics/Force Newtonian Dynamics.md",
+    "Classical Mechanics/Newtonian Dynamics/Galilean Invariance - Relativity.md",
+    "Classical Mechanics/Newtonian Dynamics/Coulomb Potential.md",
+    "Classical Mechanics/Newtonian Dynamics/Acceleration.md",
+    "Classical Mechanics/Motion/Translation.md",
+    "Classical Mechanics/Motion/Rotation.md",
+    "Classical Mechanics/Motion/Oscillation.md",
+    "Classical Mechanics/Motion/Equations of Motion.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md"
   ]
 }

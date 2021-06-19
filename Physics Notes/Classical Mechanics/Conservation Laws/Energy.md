@@ -4,12 +4,12 @@ E = \sum^N_{i=1}\frac{m_i\vec{v_i}^2}{2}+\sum_{i<j}U_{ij}(|\vec{r_i}-\vec{r_j}|)
 $$
 is called the energy of the system; it is conserved in any theory satisfying Eqs. 2,4,5. To get an idea of the consequences of the energy conservation, consider separately the two terms of equation up top.
 
-Kinetic Energy:
+[[Kinetic Energy]]:
 $$
 E_{kin} = \sum^N_{i=1}\frac{m_i\vec{v_i}^2}{2}
 $$
 
-Potential energy:
+[[Potential energy]]:
 $$
 E_{pot} = \sum_{i<j}U_{ij}(|\vec{r_i}-\vec{r_j}|)
 $$

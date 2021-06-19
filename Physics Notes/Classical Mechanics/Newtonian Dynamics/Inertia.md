@@ -1,0 +1,1 @@
+The resistance of any physical object to any change in its [[Velocity]]. This includes changes to the object's speed, or direction of motion. An aspect of this property is the tendency of objects to keep moving in a straight line at a constant speed, when no forces act upon them.
