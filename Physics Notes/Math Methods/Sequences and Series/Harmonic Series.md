@@ -1,8 +1,8 @@
-Consider the harmonic series 
+Consider the harmonic series ([[Infinite Series]])
 $$
 \sum^\infty_{n=1} \frac{1}{n}=1+\frac{1}{2}+\frac{1}{3}+\frac{1}{4}+...+\frac{1}{n}+...
 $$
-The terms approach zero for large $n$ i.e., $\lim_{n\to\infty} 1/n =0$ but this is not sufficient to guarantee convergence. If we group the terms as 
+The terms approach zero for large $n$ i.e., $\lim_{n\to\infty} 1/n =0$ but this is not sufficient to guarantee [[Convergence]]. If we group the terms as 
 $$
 1 + \frac{1}{2}+(\frac{1}{3}+\frac{1}{4}) + ...
 $$

@@ -1,3 +1,3 @@
-The idea of rotational symmetry is very close to that of translational symmetry.
+The idea of rotational symmetry is very close to that of [[translational symmetry]].
 It is the invariance with respect to rotation of all the coordinates around some axis. We
 take some solution fri(t)g of the problem (2), (4), (5) and construct a new set of functions, $\{\vec{r_i}'(t)\}$,by rotating all radius vectors around some fixed axis by one and the same angle. The rotational symmetry means that $\{\vec{r_i}'(t)\}$ satisfies (2), (4), (5)
