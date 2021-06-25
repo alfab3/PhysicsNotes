@@ -6,7 +6,7 @@ In this section we develop (at least) one solution of this equation by expansion
 $$
 y(x)=c_1y_1(x)+c_2y_2(x)
 $$
-Our physical problem may lead to a nonhomogeneous, linearm second-order ODE
+Our physical problem may lead to a nonhomogeneous, linear second-order ODE
 $$
 \frac{d^2y}{dx^2}+P(x)\frac{dy}{dx}+Q(x)y=F(x)
 $$

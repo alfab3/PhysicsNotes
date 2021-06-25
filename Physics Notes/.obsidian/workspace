@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Linear Oscillator.md",
+            "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Linear Oscillator.md",
+            "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Ordinary Differential Equations/Linear Oscillator.md",
+                "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Series Solutions - Frobenius' Method.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.3.1 Hooke's Law Spring.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Equations Homogeneous in x and y.md",
     "Math Methods/Calculus/Ordinary Differential Equations/Linear Oscillator.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Untitled.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Untitled.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/7.3.1.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Untitled.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Linear Ordinary Differential Equation.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Linear First-Order ODEs.md",
     "Math Methods/Calculus/Ordinary Differential Equations/Isobaric Equations.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.2.2.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.2.1.md"
+    "Math Methods/Calculus/Ordinary Differential Equations/Initial Value Problem.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/First Order Differential Equations.md"
   ]
 }
