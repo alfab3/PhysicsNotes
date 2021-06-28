@@ -36,3 +36,8 @@ s(s-1)=0
 $$
 This equation, coming from the coefficient of the lowest power of $x$, is called the indicial equation. The indicial equation and its roots are of critical importance to our analysis. Clearly, in this example  it informs us that either $s=0$ or $s=1$ so that our series solution must start either with an $x^0$ or an $x^1$ term.
 
+Looking further at the substituted equation we see that the next lowest power of x, namely $x^{s-1}$, also occurs uniquely. Setting the coefficient of $x^{s-1}$ to zero we have 
+$$
+a_1(s+1)s = 0
+$$
+This shows that if $s=1$, we must have $a_1 = 0$. However, if $s=0$, this equation imposes no requirement on the coefficient set. 

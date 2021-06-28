@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
+            "file": "Topology/Dense Set.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
+            "file": "Topology/Dense Set.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
+                "file": "Topology/Dense Set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d62abc6944c2f0ce",
+  "active": "84f06cfdedda0e56",
   "lastOpenFiles": [
-    "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Linear Oscillator.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Series Solutions - Frobenius' Method/Series Solutions - Frobenius' Method.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.3.1 Hooke's Law Spring.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Equations Homogeneous in x and y.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Linear Oscillator.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Linear Ordinary Differential Equation.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Linear First-Order ODEs.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Isobaric Equations.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Initial Value Problem.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/First Order Differential Equations.md"
+    "Topology/Dense Set.md",
+    "Topology/Topological Space.md",
+    "Linear Algebra/Dual.md",
+    "Linear Algebra/Cross Product.md",
+    "Linear Algebra/Inverse Matrices.md",
+    "Linear Algebra/Eigenbasis.md",
+    "Linear Algebra/Change of Basis.md",
+    "Linear Algebra/Arithmetic of Vectors.md",
+    "Images/series.png",
+    "Classical Mechanics/Harmonic Oscillator/Harmonic Oscillator.md"
   ]
 }
