@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Two Body Problem/Basics.md",
+            "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Two Body Problem/Basics.md",
+            "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Two Body Problem/Basics.md",
+                "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
+    "Classical Mechanics/Conservation Laws/Angular Momentum.md",
+    "Homework/Classical Mechanics/Homework 1/Untitled.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 5.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 2.md",
     "Classical Mechanics/Two Body Problem/Untitled.md",
+    "Classical Mechanics/Two Body Problem/Basics.md",
     "Classical Mechanics/Symmetries/Rotational Symmetry.md",
-    "Topology/Dense Set.md",
-    "Topology/Topological Space.md",
-    "Linear Algebra/Dual.md",
-    "Linear Algebra/Cross Product.md",
-    "Linear Algebra/Inverse Matrices.md",
-    "Linear Algebra/Eigenbasis.md",
-    "Linear Algebra/Change of Basis.md",
-    "Linear Algebra/Arithmetic of Vectors.md"
+    "Topology/Dense Set.md"
   ]
 }
