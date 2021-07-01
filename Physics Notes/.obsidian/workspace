@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topology/Dense Set.md",
+            "file": "Classical Mechanics/Two Body Problem/Basics.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topology/Dense Set.md",
+            "file": "Classical Mechanics/Two Body Problem/Basics.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topology/Dense Set.md",
+                "file": "Classical Mechanics/Two Body Problem/Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84f06cfdedda0e56",
+  "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Classical Mechanics/Two Body Problem/Untitled.md",
+    "Classical Mechanics/Symmetries/Rotational Symmetry.md",
     "Topology/Dense Set.md",
     "Topology/Topological Space.md",
     "Linear Algebra/Dual.md",
@@ -108,8 +110,6 @@
     "Linear Algebra/Inverse Matrices.md",
     "Linear Algebra/Eigenbasis.md",
     "Linear Algebra/Change of Basis.md",
-    "Linear Algebra/Arithmetic of Vectors.md",
-    "Images/series.png",
-    "Classical Mechanics/Harmonic Oscillator/Harmonic Oscillator.md"
+    "Linear Algebra/Arithmetic of Vectors.md"
   ]
 }
