@@ -1,0 +1,1 @@
+The solutions of the linear oscillator equation ([[Linear Oscillator]]) are $\phi_1 = \sin\omega x, \phi_2 = \cos \omega x$

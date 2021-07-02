@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
+            "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.1 Linear Independence.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
+            "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.1 Linear Independence.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
+                "file": "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.1 Linear Independence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Classical Mechanics/Two Body Problem/Particle in a Central Potential.md",
-    "Classical Mechanics/Conservation Laws/Angular Momentum.md",
-    "Homework/Classical Mechanics/Homework 1/Untitled.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 5.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 2.md",
-    "Classical Mechanics/Two Body Problem/Untitled.md",
-    "Classical Mechanics/Two Body Problem/Basics.md",
-    "Classical Mechanics/Symmetries/Rotational Symmetry.md",
-    "Topology/Dense Set.md"
+    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.1 Linear Independence.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Other Solutions/Linear Independence of Solutions.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Untitled.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Other Solutions/Untitled.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/ODEs with Constant Coefficients.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Linear Ordinary Differential Equation.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/First Order Differential Equations.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Exact Differentials.md"
   ]
 }
