@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
+            "file": "Math Methods/Calculus/Integral Calculus/Dirac Delta Function.md",
             "mode": "source"
           }
         },
-        "group": "03644b4807695260"
+        "group": "dc3e7a071efff485"
       },
       {
-        "id": "84f06cfdedda0e56",
+        "id": "9a092527946f50c0",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
+            "file": "Math Methods/Calculus/Integral Calculus/Dirac Delta Function.md",
             "mode": "preview"
           }
         },
-        "group": "03644b4807695260"
+        "group": "dc3e7a071efff485"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
+                "file": "Math Methods/Calculus/Integral Calculus/Dirac Delta Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.2 Linear Dependence.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Example 7.6.1 Linear Independence.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Other Solutions/Linear Independence of Solutions.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Examples/Untitled.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Other Solutions/Untitled.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/ODEs with Constant Coefficients.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Linear Ordinary Differential Equation.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/First Order Differential Equations.md"
+    "Math Methods/Calculus/Integral Calculus/Dirac Delta Function.md",
+    "Math Methods/Vector Spaces/Unitary.md",
+    "Math Methods/Vector Spaces/Tensor Products.md",
+    "Math Methods/Vector Spaces/Tensor.md",
+    "Math Methods/Vector Spaces/Subspace.md",
+    "Math Methods/Vector Spaces/Norm.md",
+    "Math Methods/Vector Spaces/Minkowski Metric.md",
+    "Math Methods/Vector Spaces/Minimal Polynomial.md",
+    "Math Methods/Vector Spaces/Metric.md",
+    "Math Methods/Vector Spaces/Linear Vector Spaces.md"
   ]
 }
