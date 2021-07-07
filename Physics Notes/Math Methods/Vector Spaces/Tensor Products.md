@@ -2,7 +2,7 @@ Given two vector spaces ([[Linear Vector Spaces]]) $V$ and $W$, the tensor produ
 
 1) $\forall \ket{v}  \in V, \ket{w} \in W$ a decomposable element of $V \otimes W$ is the vector $$ \ket{v} \otimes \ket{w} $$ not all elements of $V \otimes W$ are decomposable
 2) The tensor product is bilinear, i.e., $$(\ket{v_1}+\lambda\ket{v_2}) \otimes \ket{w} = \ket{v_1} \otimes \ket{w} + \lambda\ket{v_2} \otimes \ket{w}\ket{v} \otimes (\ket{w_1} + \lambda\ket{w_2}) = \ket{v}\otimes\ket{w_1} + \lambda\ket{v} \otimes \ket{w_2}$$
-3) the full tensor product space is the [[span]] of it decomposable elements: $$V \otimes W = span\{\ket{v} \otimes \ket{w} | \ket{v}\in V, \ket{w} \in W \}$$
+3) the full tensor product space is the [[Span]] of it decomposable elements: $$V \otimes W = span\{\ket{v} \otimes \ket{w} | \ket{v}\in V, \ket{w} \in W \}$$
 
 The last property allows to construct a [[Basis Set]] of $V \times W$ as follows:
 if $\{\ket{e_1},...,\ket{e_n}\}$ is a basis of $V$ and $\{\ket{e_1'},...,\ket{e_m'}\}$ is a basis of $W$ then 

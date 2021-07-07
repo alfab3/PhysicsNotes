@@ -113,9 +113,9 @@ $$\begin{align}
     (\phi,a\psi) = a(\phi,\psi)\\
     (\phi, \psi + \chi) = (\phi, \psi) + (\phi, \chi)
 \end{align}$$
-For every element with these properties, you can find a scalar. The set of all the scalars form a linear vector space. The set of linear functionals $\{S_{\chi}[\psi],...\}$ is a [[Linear Vector Spaces]], the [[dual]] $\tilde{V}$ of $V$. So [[linear vector spaces]] come in pairs.
+For every element with these properties, you can find a scalar. The set of all the scalars form a linear vector space. The set of linear functionals $\{S_{\chi}[\psi],...\}$ is a [[Linear Vector Spaces]], the [[Dual]] $\tilde{V}$ of $V$. So [[linear vector spaces]] come in pairs.
 
-What is the use of this? There is a natural way to associate a scalar with a vector which is called the [[dot product]]. It is a bi-linear operation. The vector space $(\phi,\psi) = \{S_{\phi}[\psi]\}$ which consists of the set of elements shown before, is represented by $\ket{\psi} \in V$, and the $\phi$ is represented by $\bra{\phi}$, which is a different kind of vector which lives in the "[[dual]]" space.  So if we have $(\phi, \psi)$ this is written as $\braket{\phi|\psi}$
+What is the use of this? There is a natural way to associate a scalar with a vector which is called the [[Dot Product]]. It is a bi-linear operation. The vector space $(\phi,\psi) = \{S_{\phi}[\psi]\}$ which consists of the set of elements shown before, is represented by $\ket{\psi} \in V$, and the $\phi$ is represented by $\bra{\phi}$, which is a different kind of vector which lives in the "[[Dual]]" space.  So if we have $(\phi, \psi)$ this is written as $\braket{\phi|\psi}$
 $$\begin{align}
     \begin{bmatrix}
     x_1\\
@@ -125,7 +125,7 @@ $$\begin{align}
     \end{bmatrix}
     \in \mathbb{R}^n
 \end{align}$$
-If we construct the corresponding row vector, all the row vectors are elements of the [[dual]] of the column vector.
+If we construct the corresponding row vector, all the row vectors are elements of the [[Dual]] of the column vector.
 $$\begin{align}
     (x_1, x_2, ..., x_n) \in \tilde{\mathbb{R}}^n
 \end{align}$$

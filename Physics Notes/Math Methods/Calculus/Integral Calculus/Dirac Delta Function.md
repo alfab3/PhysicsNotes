@@ -26,4 +26,4 @@ Properties of $\delta(x)$
 5) Derivative of delta function: $$\begin{align} \int^\infty_{-\infty} f(x) \delta'(x-x_0)dx = -\int^\infty_{-\infty} f'(x)\delta(x-x_0)dx = -f'(x_0)\end{align}$$ Defining the dericative $\delta'(x)$; it is evaluated by performing integration by parts on any of the sequences defining the delta function.
 6) In three dimensions the delta function $\delta(\vec{r})$ is interpreted as $\delta(x)\delta(y)\delta(z)$, so it describes a function localized at the origin and with unit integrated weight, irrespective of the coordinate system in use. Thus, in spherical polar coordinates$$\begin{align} \int \int \int f(\vec{r_2}) \delta(\vec{r_2}-\vec{r_1})r^2_2dr_2\sin \theta_2d\theta_2d\phi_2 = f(\vec{r_1}) \end{align}$$
 7) $$\begin{align} \delta(t-x) = \frac{1}{2\pi}\int^\infty_{-\infty} exp(i\omega(t-x))d\omega \end{align}$$ with the understanding that this has meaning only when under an integral sign in that context it is extremely useful for the simplification of fourier integrals
-8) Expansions of $\delta{x}$
+8) Expansions of $\delta(x)$

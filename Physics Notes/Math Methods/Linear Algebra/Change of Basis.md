@@ -16,7 +16,7 @@ $$\begin{align}
         1/3
     \end{bmatrix}
 \end{align}$$
-Which can be written in the other basis as: $(5/3)\vec{b_1}+(1/3)\vec{b_2}$. The [[basis vectors]] in the alternative basis can be though of in our basis as:
+Which can be written in the other basis as: $(5/3)\vec{b_1}+(1/3)\vec{b_2}$. The [[Basis Vectors]] in the alternative basis can be though of in our basis as:
 $$\begin{align}
     \vec{b_1} \rightarrow
     \begin{bmatrix}
@@ -45,7 +45,7 @@ $$\begin{align}
     \end{bmatrix}
 \end{align}$$
 The origin will always line up. 
-How do we translate between coordinate systems? If a vector in the alternative coordinate system is described as: $-1\vec{b_1}+2\vec{b_2}$ what would that be in our coordinate system? From out perspective, the alternative [[basis vectors]] are described as written in eq. 1.33. So we can compute: 
+How do we translate between coordinate systems? If a vector in the alternative coordinate system is described as: $-1\vec{b_1}+2\vec{b_2}$ what would that be in our coordinate system? From out perspective, the alternative [[Basis Vectors]] are described as written in eq. 1.33. So we can compute: 
 $$\begin{align}
     \begin{bmatrix}
         ?\\
@@ -68,7 +68,7 @@ $$\begin{align}
         1
     \end{bmatrix}
 \end{align}$$
-So in the original basis the vector $-1\vec{b_1}+2\vec{b_2}$ would be described as $-4\hat{i}+1\hat{j}$. This shows that the way to transform from the alternative basis to the original, you would do matrix multiplication where the transformation matrix consists of columns of the [[basis vectors]] of the alternative basis in out basis: 
+So in the original basis the vector $-1\vec{b_1}+2\vec{b_2}$ would be described as $-4\hat{i}+1\hat{j}$. This shows that the way to transform from the alternative basis to the original, you would do matrix multiplication where the transformation matrix consists of columns of the [[Basis Vectors]] of the alternative basis in out basis: 
 $$\begin{align}
     \begin{bmatrix}
         2\;\;-1\\

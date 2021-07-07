@@ -1,4 +1,4 @@
-If a transformation takes some input vector to some output vector, we imagine that input vector "moving" to the output vector. A linear transformation has two properties, all lines must remain lines without getting curved and the origin must remain fixed in place. Grid lines remain parallel and evenly spaced. To perform these transformations you only need to record where the two basis [[vectors]] (in our case $\hat{i}$ and $\hat{j}$) land. For example, imagine the vector:
+If a transformation takes some input vector to some output vector, we imagine that input vector "moving" to the output vector. A linear transformation has two properties, all lines must remain lines without getting curved and the origin must remain fixed in place. Grid lines remain parallel and evenly spaced. To perform these transformations you only need to record where the two basis [[Vectors]] (in our case $\hat{i}$ and $\hat{j}$) land. For example, imagine the vector:
 $$\begin{align}
     \vec{v} = 
     \begin{bmatrix}
@@ -10,7 +10,7 @@ Which can also be written as $\vec{v} = -1\hat{i}+2\hat{j}$. Once this is transf
 $$\begin{equation}
     Transformed \; \vec{v} = -1(Transformed \; \hat{i}) + 2(Transformed \; \hat{j})
 \end{equation}$$
-It ends up as the same [[linear combination]] it started with before the transformation. Which means you can deduce where $\vec{v}$ must go based on where $\hat{i}$ and $\hat{j}$ will land. In the transformed plane, the [[basis vectors]] $\hat{i}$ and $\hat{j}$ end up at $[1, -2]$ and $[3,0]$ respectively. Which means the new transformed final vector has the equation:
+It ends up as the same [[Linear Combination]] it started with before the transformation. Which means you can deduce where $\vec{v}$ must go based on where $\hat{i}$ and $\hat{j}$ will land. In the transformed plane, the [[Basis Vectors]] $\hat{i}$ and $\hat{j}$ end up at $[1, -2]$ and $[3,0]$ respectively. Which means the new transformed final vector has the equation:
 $$\begin{align}
     -1\begin{bmatrix}
     1\\

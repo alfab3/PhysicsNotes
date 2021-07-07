@@ -1,2 +1,0 @@
-If you have [[Basis Vectors]] of $\vec{v}$ and $\vec{w}$. It is called a linear combination because if you fix one of the scalars and allow the other to move freely the tip of the resulting vector draws straight lines. If you let both vectors transform freely. For most pairs of vectors you will be able to reach any point in the plane. Unless the [[vectors]] are sat right on top of each other, or zero. 
-

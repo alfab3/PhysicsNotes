@@ -1,4 +1,4 @@
-Contains a set of elements ("[[vectors]]"), using notation - $\ket{\psi},\ket{\phi},\ket{\chi} \in V$. Among which there are operations:
+Contains a set of elements ("[[Vectors]]"), using notation - $\ket{\psi},\ket{\phi},\ket{\chi} \in V$. Among which there are operations:
 Addition - $\ket{\psi} + \ket{\phi} \in V$
 Associative Addition - $(\ket{\psi} + \ket{\phi}) + \ket{\chi} = \ket{\psi} + (\ket{\phi}+\ket{\chi})$
 Commutative Addition - $\ket{\psi} + \ket{\phi} \in V, \ket{\phi} + \ket{\psi} \in V$

@@ -1,4 +1,4 @@
-Consider some linear transformation in 2D that moves the [[basis vectors]] $\hat{i}$ a and $\hat{j}$ to:
+Consider some linear transformation in 2D that moves the [[Basis Vectors]] $\hat{i}$ a and $\hat{j}$ to:
 $$\begin{align}
     \begin{bmatrix}
         3\\
@@ -10,13 +10,13 @@ $$\begin{align}
         2
     \end{bmatrix}
 \end{align}$$
-If we look at one particular vector when then transformation ([[Linear Transformations and Matrices]])occurs the vector gets knocked off the span. Some special vectors remain on their [[span]], they just get stretched or squished. In this special case the $x$ component of the vector [[span]]s the x-axis. So the two [[vectors]] that exhibit this property are [[vectors]] along the x,y = -1 diagonal and the line x = 0. These special vectors are called the [[eigenvectors]] of the transformation, and each have associated with it whats called an eigenvalue. Which is just the factor by which it is stretched or squished to remain on the span. [[Eigenvalues]] can be positive or negative. 
+If we look at one particular vector when then transformation ([[Linear Transformations and Matrices]])occurs the vector gets knocked off the span. Some special vectors remain on their [[Span]], they just get stretched or squished. In this special case the $x$ component of the vector [[Span]]s the x-axis. So the two [[Vectors]] that exhibit this property are [[Vectors]] along the x,y = -1 diagonal and the line x = 0. These special vectors are called the [[Eigenvectors]] of the transformation, and each have associated with it whats called an eigenvalue. Which is just the factor by which it is stretched or squished to remain on the span. [[Eigenvalues]] can be positive or negative. 
 So the original way to do these transformations is to think where each basis vector lands once the transformation is applied. A better way to do this is to find the eigenvectors and eigenvalues. Symbolically here is what an eigenvector looks like:
 $$\begin{align}
     A \vec{v} = \lambda \vec{v}
 \end{align}$$
 Where $A$ is the transformation matrix, and $\vec{v}$ is the eigenvector([[Eigenvectors]]), and $\lambda$ is the corresponding eigenvalue([[Eigenvalues]]). What this means conceptually is that the Matrix vector multiplication gives the same answer as the scalar multiplication of the eigenvalue and eigenvector. 
-Scaling by $\lambda$ = [[matrix multiplication]]:
+Scaling by $\lambda$ = [[Matrix Multiplication]]:
 $$\begin{align}
     \begin{bmatrix}
         \lambda \; \; 0 \; \; 0\\
@@ -36,7 +36,7 @@ We want a nonzero $\vec{v}$. We need:
 $$\begin{align}
     det(A-\lambda I) = 0
 \end{align}$$
-Because when the [[determinant]] is equal to zero we know the transformation squishes into a smaller dimension. There are cases when there are no eigenvectors, such as in cases of rotation. A rotation would cause the [[eigenvalues]] to become complex. 
+Because when the [[Determinant]] is equal to zero we know the transformation squishes into a smaller dimension. There are cases when there are no eigenvectors, such as in cases of rotation. A rotation would cause the [[Eigenvalues]] to become complex. 
 
 $\ket{x}$ is an eigenvector of a linear operator L if there is a $\lambda \in F$, such that $L\ket{x} = \lambda\ket{x}$. $\lambda$ is called the associated eigenvalue. Then it is possible to show that if $\lambda$ is an [[Eigenvalues]] of $L$,
 then 
@@ -48,7 +48,7 @@ is a polynomial of degree n, called the characteristic polynomial. Since every p
 
 >$$P_n(\lambda) = (-1)^n \Pi^n_{i=1}(\lambda-\lambda_i)$$
 
-So that the $\lambda_i$s are the [[eigenvalues]] of $L$.
+So that the $\lambda_i$s are the [[Eigenvalues]] of $L$.
 
 Now it is possible to show that the [[Eigenvalues]] of $L$ are the roots of the [[Minimal Polynomial]].
 

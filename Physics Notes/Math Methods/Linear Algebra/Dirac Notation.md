@@ -5,7 +5,7 @@ $$\vec{v} =
         y\\
 		z
     \end{bmatrix}$$
-With [[Basis vectors]] in 3 Dimensional space defined generally as: 
+With [[Basis Vectors]] in 3 Dimensional space defined generally as: 
 $$\vec{e_1} = 
 \begin{bmatrix}
         1\\
@@ -27,7 +27,7 @@ $$\vec{e_i} =
 		1
 \end{bmatrix}$$
 
-This means any vector can be decomposed into a [[linear combination]] of [[basis vectors]]... $$\vec{v} = \sum_i v_i e_i = xe_1 + ye_y + ze_3$$
+This means any vector can be decomposed into a [[Linear Combination]] of [[Basis Vectors]]... $$\vec{v} = \sum_i v_i e_i = xe_1 + ye_y + ze_3$$
 
 Similarly using Dirac notation, $$\vec{v} = \ket{v} = 
 \begin{bmatrix}
@@ -58,7 +58,7 @@ $$\ket{i} =
 		i
 \end{bmatrix}$$
 
-This means any vector can be decomposed into a [[linear combination]] of [[basis vectors]]... $$\vec{v} = \sum_i v_i \ket{i} = x\ket{1} + y\ket{2} + z\ket{3}$$
+This means any vector can be decomposed into a [[Linear Combination]] of [[Basis Vectors]]... $$\vec{v} = \sum_i v_i \ket{i} = x\ket{1} + y\ket{2} + z\ket{3}$$
 
 Bras - Let's consider the same vector in 3Dimensional space but let's take the transpose and complex conjugate of our original vector: 
 $$\vec{v}^*_T = [x \; \; y \; \; z]$$
