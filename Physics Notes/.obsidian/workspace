@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+            "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+            "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+                "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a092527946f50c0",
+  "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
+    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Untitled.md",
+    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Constant Multiple Rule.md",
+    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques.md",
+    "Math Methods/Calculus/Differential Calculus/Untitled.md",
     "Homework/Classical Mechanics/Homework 1/Problem 1.md",
     "Homework/Classical Mechanics/Homework 1/Problem 2.md",
     "Homework/Classical Mechanics/Homework 1/Problem 3.md",
     "Homework/Classical Mechanics/Homework 1/Problem 5.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 6.md",
-    "Math Methods/Calculus/Integral Calculus/Dirac Delta Function.md",
-    "Math Methods/Vector Spaces/Unitary.md",
-    "Math Methods/Vector Spaces/Tensor Products.md",
-    "Math Methods/Vector Spaces/Tensor.md",
-    "Math Methods/Vector Spaces/Subspace.md"
+    "Homework/Classical Mechanics/Homework 1/Problem 6.md"
   ]
 }
