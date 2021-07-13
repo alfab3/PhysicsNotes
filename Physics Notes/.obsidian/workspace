@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
+            "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
+            "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
+                "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
+    "Math Methods/Calculus/Vector Calculus/Derivatives/Untitled.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration Techniques.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Untitled.md",
     "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
     "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Untitled.md",
     "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Constant Multiple Rule.md",
     "Math Methods/Calculus/Differential Calculus/Differentiation Techniques.md",
     "Math Methods/Calculus/Differential Calculus/Untitled.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 2.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 3.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 5.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 6.md"
+    "Homework/Classical Mechanics/Homework 1/Problem 1.md"
   ]
 }

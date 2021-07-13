@@ -1,0 +1,2 @@
+In Cartesian Coordinates
+$$\begin{align} \text{div} \vec{F} = \nabla \cdot \vec{F} = \left(\frac{\partial}{\partial x},\frac{\partial}{\partial y},\frac{\partial}{\partial z}\right)\cdot(F_x,F_y,F_z) = \frac{\partial F_x}{\partial x} +\frac{\partial F_y}{\partial y} + \frac{\partial F_z}{\partial z}\end{align}$$

@@ -1,0 +1,3 @@
+The directional derivative of a scalar function 
+$$\begin{align} f(\vec{x}) = f(x_1,x_2,...,x_n) \end{align}$$
+along a vector $v = (v_1,...,v_n)$ is the function $\nabla_v f$ defined by the limit $$\begin{align} \nabla_vf(x) = \lim_{h\to 0 } \frac{f(\vec{x} + h \vec{v}) - f(\vec{x})}{h} \end{align}$$ $$\begin{align}\nabla_v f(x) = \nabla f(x) \cdot \vec{v}\end{align}$$ Where $\nabla$ denotes the [[Gradient]] and $\cdot$ denotes the dot product.
