@@ -8,7 +8,7 @@ $$\begin{align}
 \end{align}$$
 Which is just scaling the output, this is similar to scaling a vector coordinate by coordinate, even though there are infinitely many coordinates. While [[Vectors]]really can only be added together or scaled. We may be able to take the other problem solving constructs originally for vectors and apply them to functions. For example a linear transformation, which can take an a function as an input and output another. Formal definition of Linearity: 
 $$\begin{align}
-    Additivity: \; \; L(\vec{v}+\vec{w}) = L(\vec{v}+\vec{w})\\
+    \text{Additivity}: \; \; L(\vec{v}+\vec{w}) = L(\vec{v}+\vec{w})\\
     Scaling: \; \; L(c\vec{v}) = c L(\vec{v})
 \end{align}$$
 An example of this for functions is the derivative. The derivative of a function is linear:

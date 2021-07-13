@@ -1,0 +1,1 @@
+Expand $f(x,y) = \sin x\cos y$, in a two variable Maclaurin series. We write and multiply the series for $\sin x$ and $\cos y$. This gives:$$\begin{align} \sin x \cos y = \left(x - \frac{x^3}{3!}+\ldots \right) \left(1-\frac{y^2}{2!}+\ldots\right) = x - \frac{x^3}{3!} - \frac{xy^2}{2!} \end{align}$$

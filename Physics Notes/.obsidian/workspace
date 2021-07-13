@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
+            "file": "Math Methods/Sequences and Series/Power Series in Two Variables/Boas Example 1.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
+            "file": "Math Methods/Sequences and Series/Power Series in Two Variables/Boas Example 1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
+                "file": "Math Methods/Sequences and Series/Power Series in Two Variables/Boas Example 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Math Methods/Calculus/Vector Calculus/Derivatives/Divergence.md",
-    "Math Methods/Calculus/Vector Calculus/Derivatives/Untitled.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration Techniques.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Untitled.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Untitled.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Constant Multiple Rule.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques.md",
-    "Math Methods/Calculus/Differential Calculus/Untitled.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 1.md"
+    "Math Methods/Sequences and Series/Power Series in Two Variables/Untitled.md",
+    "Math Methods/Sequences and Series/Maclaurin Series.md",
+    "Math Methods/Sequences and Series/Untitled.md",
+    "Math Methods/Green's Functions/One Dimensional Problems.md",
+    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.2.2.md",
+    "Math Methods/Linear Algebra/Cramer's Rule.md",
+    "Math Methods/Linear Algebra/Change of Basis.md",
+    "Math Methods/Linear Algebra/Basis Vectors.md",
+    "Math Methods/Linear Algebra/Arithmetic of Vectors.md",
+    "Math Methods/Linear Algebra/Abstract Vector Spaces.md"
   ]
 }
