@@ -1,0 +1,1 @@
+[[Taylor Series]] of two variables can be written in the general form: $$\begin{align} f(x,y) = \sum^\infty_{n=0} \frac{1}{n!} \left(h \frac{\partial}{\partial x} + k\frac{\partial}{\partial y}\right)^n f(a,b)\end{align}$$
