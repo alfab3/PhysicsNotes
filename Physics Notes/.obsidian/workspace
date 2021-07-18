@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/Boas Chain Rule Example 3.md",
+            "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/Boas Chain Rule Example 3.md",
+            "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/Boas Chain Rule Example 3.md",
+                "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9a092527946f50c0",
+  "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Examples/Boas Chain Rule Example 3.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/The Chain Rule.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Untitled.md",
-    "Math Methods/Calculus/Differential Calculus/Approximating Using Differentials/Untitled.md",
-    "Math Methods/Calculus/Differential Calculus/Untitled.md",
-    "Math Methods/Calculus/Differential Calculus/Derivative.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Implicit Differentiation.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Sum Rule.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Differentiation Techniques.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/Constant Multiple Rule.md"
+    "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
+    "Examples/Boas/Untitled.md",
+    "Math Methods/Calculus/Integral Calculus/Double and Triple Integrals/Iterated Integrals.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration Techniques.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Substitution.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Parts.md",
+    "Math Methods/Calculus/Integral Calculus/Integral.md",
+    "Math Methods/Calculus/Integral Calculus/Untitled.md",
+    "Math Methods/Calculus/Integral Calculus/Double and Triple Integrals/Untitled.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Untitled.md"
   ]
 }
