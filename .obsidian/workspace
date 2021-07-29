@@ -1,0 +1,116 @@
+{
+  "main": {
+    "id": "49b34713996e3d20",
+    "type": "split",
+    "children": [
+      {
+        "id": "80f94fe641b5bd74",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+            "mode": "source"
+          }
+        },
+        "group": "40447df51074b66e"
+      },
+      {
+        "id": "561e2ab6668fcb5c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+            "mode": "preview"
+          }
+        },
+        "group": "40447df51074b66e"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bbccc5a3816a6478",
+    "type": "split",
+    "children": [
+      {
+        "id": "8f8d434fd6d7b870",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07b4ca18e83dec47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e6d9dcd0f9d05eb9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "principle of least action",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "00ab197372aafd7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "83971443cd49c89c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "311acb77189203d5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "561e2ab6668fcb5c",
+  "lastOpenFiles": [
+    "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+    "Physics Notes/Math Methods/Calculus/Integral Calculus/Untitled.md",
+    "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Untitled.md",
+    "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Gradient.md",
+    "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Directional Derivative.md",
+    "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Curl.md",
+    "Physics Notes/Math Methods/Vector Analysis/Vectors in Polar Coordinates.md",
+    "Physics Notes/Math Methods/Vector Analysis/Untitled.md",
+    "Physics Notes/Math Methods/Vector Analysis/Differentiation of Vectors.md",
+    "Physics Notes/Math Methods/Linear Algebra/Dot Product.md"
+  ]
+}

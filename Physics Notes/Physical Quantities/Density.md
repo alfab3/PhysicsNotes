@@ -1,0 +1,1 @@
+The density of a substance is its mass per unit volume, and is mathematically described as: $\rho = \frac{m}{V}$

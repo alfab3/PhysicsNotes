@@ -1,4 +1,4 @@
-Driven harmonic oscillators are damped oscillators further affected by an externally applied force $F(t)$
+Driven [[Harmonic Oscillator]]s are damped oscillators further affected by an externally applied force([[Force Newtonian Dynamics]]) $F(t)$
 
 Newton's second law takes the form 
 $$
@@ -16,4 +16,4 @@ and which can be expressed as damped sinusoidal oscillations:
 $$
 z(t) = Ae^{-\xi \omega_0 t}sin(\sqrt{1-\xi^2}\omega_0 t + \phi)
 $$
-In the case where $\xi \leq 1$. The amplitude $A$ and phase $\phi$ determine the behavior needed to match the initial conditions
+In the case where $\xi \leq 1$. The [[Amplitude]] $A$ and phase $\phi$ determine the behavior needed to match the initial conditions

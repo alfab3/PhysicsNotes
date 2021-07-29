@@ -2,13 +2,13 @@ The quantity
 $$
 \vec{L}=\sum^N_{i=1} \vec{r_i} \times \vec{p_i}
 $$
-is called total angular momentum of the system (with respect to the origin of the coordinates). (We can also introduce the individual angular momentum for each particle, $\vec{l_i} = \vec{r_i} \times \vec{p_i}$, so that $\vec{L} = \sum^N_{i=1} \vec{l_i}$
+is called total angular momentum of the system (with respect to the origin of the coordinates). We can also introduce the individual angular momentum for each particle, $\vec{l_i} = \vec{r_i} \times \vec{p_i}$, so that $\vec{L} = \sum^N_{i=1} \vec{l_i}$
 
-The total angular momentum is conserved by any theory satisfying Eqs (2), (4), (5). The idea of the proof is to form the vector product of $r_i$ with the $i$-th equation in (2), then sum over all $i$'s and finally employ the chain rule to identify time-derivatives to show that 
+The total angular momentum is conserved by any theory satisfying Eqs (2), (4), (5). The idea of the proof is to form the vector product([[Cross Product]]) of $r_i$ with the $i$-th equation in (2), then sum over all $i$'s and finally employ [[The Chain Rule]] to identify [[Time Derivative]]s to show that 
 $$
 \dot{L}=0
 $$
-When proving this it is crucial to take into account the force being equal to the derivative of the [[Potential Energy]] as well as some other vector properties. The details of the proof are as follows
+When proving this it is crucial to take into account the force being equal to the derivative of the [[Potential Energy]] as well as some other [[Vectors]] properties. The details of the proof are as follows
 $$
 \sum^N_{i=1} m_i \vec{r_i} \times \ddot{\vec{r}} = \sum_{i,j} \vec{r_i}\times \vec{F_{i,j}}
 $$

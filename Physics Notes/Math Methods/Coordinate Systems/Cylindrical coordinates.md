@@ -1,0 +1,1 @@
+$$\begin{align} x=r\cos\theta \\ y = r \sin\theta\\ z=z\\ dV = rdrd\theta dz \\ ds^2=dr^2+r^2d\theta^2+dz^2\\dA=ad\theta dz\end{align}$$

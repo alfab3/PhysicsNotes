@@ -1,0 +1,12 @@
+First in two dimensions suppose $x$ and $y$ are given as functions of two new variables $s$ and $t$. The Jacobian of $x,y$ with respect to $s,t$, is the detrminant below; we also show abbreviations used for it. 
+$$\begin{align} J = J\left(\frac{x,y}{s,t}\right) = \frac{\partial(x,y)}{\partial(s,t)}= \begin{bmatrix} \frac{\partial x}{\partial s} & \frac{\partial x}{\partial t}\\ \frac{\partial y}{\partial s}&\frac{\partial y}{\partial t}\end{bmatrix}\end{align}$$
+Thhen the area element $dydx$ is replaced in the $s, t$ system by the area element
+$$\begin{align} dA = |J|dsdt \end{align}$$ where $|J|$ is the absolute value of the Jacobian.
+Let us find the Jacobian of $x,y$ with respect to the [[Polar Coordinates]] $r,\theta$ and thus verify the general jacobian and the geometric method give the same result for the polar coordinate area element. We have $$\begin{align} \frac{\partial (x,y)}{\partial (r,\theta)} = \begin{bmatrix} \frac{\partial x}{\partial r} & \frac{\partial x}{\partial \theta} \\ \frac{\partial y}{\partial r} & \frac{\partial y}{\partial \theta} \end{bmatrix}= \begin{bmatrix} \cos\theta & - r\sin\theta \\ \sin\theta & r\cos\theta\end{bmatrix} = r\end{align}$$ thus the area element is $rdrd\theta$.  
+The use of Jacobians extends to more variables. Also, it is not necessary to start with rectangular coordinates
+
+Suppose we have a triple integral $$\begin{align}\int\int\int f(u,v,w)dudvdw \end{align}$$ in some set of variables $u,v,w$. Let $r,s,t$ be anither set of variables related to $u,v,w$ by given equations $$\begin{align} u =u(r,s,t) \;\;\;\; v=v(r,s,t) \;\;\;\; w=w(r,s,t)\end{align}$$ Then if the determinant
+$$\begin{align} J = \frac{\partial(u,v,w)}{\partial(r,s,t)} = \begin{bmatrix} \frac{\partial u}{\partial r} & \frac{\partial u}{\partial s} & \frac{\partial u}{\partial t} \\ \frac{\partial v}{\partial r} & \frac{\partial v}{\partial s} & \frac{\partial v}{\partial t} \\ \frac{\partial w}{\partial r} & \frac{\partial w}{\partial s} & \frac{\partial w}{\partial t}\end{bmatrix} \end{align}$$
+is the jacobians of $u,v,w$ with respect to $r,s,t$, then the triple integral in the new variables is $$\begin{align} \int\int\int f\cdot |J| \cdot drdsdt \end{align}$$ where of course, $f$ amd $J$ must both be expressed in terms of $r,s,t$ and the limits must be properly adjusted to correspond to the new variables. 
+
+$$\begin{align} \frac{\partial(x,y,z)}{\partial (r,\theta,\phi)} = r^2\sin\theta\end{align}$$

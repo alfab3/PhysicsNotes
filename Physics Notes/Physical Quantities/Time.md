@@ -1,0 +1,1 @@
+Time is defined by its measurement: time is what a clock reads. In classical, non-relativistic physics, it is a scalar quantity denoted by $t$.

@@ -16,7 +16,7 @@ $$
 
 Given the fact that kinetic energy is non-negative, the conservation of energy imposes serious qualitative constraints on the motion of the system. For example, for a system of two particles attracting each other by a potential $U_{12}(r)<0$ such that $U_{12}(r)\rightarrow 0$ at $r \rightarrow \infty$, the interparticle distance can diverge during the evolution only if $E \geq 0$ Otherwise, there is always an upper bound $r_*$ for the interparticle distance given by $U_{12}(r_*)=E$. 
 
-To prove the energy conservation, multiply the i-th equation in (2) by $\dot{\vec{ri}}$, sum all the equations up, and finally identifying corresponding pieces of the sum with corresponding chain-rule expressions for time derivatives explicitly show that
+To prove the energy conservation, multiply the i-th equation in (2) by $\dot{\vec{ri}}$, sum all the equations up, and finally identifying corresponding pieces of the sum with corresponding chain-rule expressions for [[Time Derivative]]s explicitly show that
 $$
 \frac{dE}{dt} = 0
 $$

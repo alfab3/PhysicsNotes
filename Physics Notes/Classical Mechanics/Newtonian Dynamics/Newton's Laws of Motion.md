@@ -1,5 +1,5 @@
 First law 
-An object will stay at rest and an object will remain in motion unless acted on by a net external force[[Force Newtonian Dynamics]].
+An object will stay at rest and an object will remain in motion unless acted on by a net external force ([[Force Newtonian Dynamics]]).
 
 $$
 \sum \vec{F} = 0 \Leftarrow\Rightarrow \frac{d\vec{v}}{dt} = 0
@@ -12,8 +12,8 @@ The rate of change of [[momentum]] of a body over time is directly proportional 
 $$
 \vec{F}=\frac{d\vec{p}}{dt}
 $$
-Constant mass
-For objects and systems with constant mass, the second law can be re-stated in terms of an objects acceleration 
+Constant [[Mass]]
+For objects and systems with constant mass, the second law can be re-stated in terms of an objects [[Acceleration]]
 $$
 F=\frac{d(m\vec{v})}{dt}= m\frac{d\vec{v}}{dt}=m\vec{a}
 $$

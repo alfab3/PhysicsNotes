@@ -1,4 +1,2 @@
-$$
-L = T - V
-$$
-Where $T$ is kinetic energy and $V$ is potential
+$$\begin{align} L = T - V\end{align}$$
+Where $T$ is [[Kinetic Energy]] and $V$ is the [[Potential Energy]]

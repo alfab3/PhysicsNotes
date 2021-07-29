@@ -1,0 +1,1 @@
+Represented as: $A$, $S$, or $\Omega$ in units of $m^2$

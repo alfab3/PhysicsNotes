@@ -6,11 +6,11 @@ $$
 m_2\ddot{r}_2 = F_{21}
 $$
 
-We already know that the center of mass
+We already know that the [[Center of Mass]]
 $$
 \vec{R} = \frac{m_1 \vec{r}_1 + m_2\vec{r}_2}{m_1 + m_2}
 $$
-moves with a constant velocity:
+moves with a constant [[Velocity]]:
 $$
 \vec{R}(t)=\vec{V_0}t
 $$

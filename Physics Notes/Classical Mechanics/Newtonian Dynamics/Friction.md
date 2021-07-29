@@ -1,0 +1,1 @@
+The resistence that one object feels when moving across another object

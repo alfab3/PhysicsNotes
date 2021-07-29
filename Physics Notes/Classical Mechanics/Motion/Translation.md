@@ -1,4 +1,4 @@
-In Classical Mechanics ([[Newtonian Dynamics Basic Postulates]]), translational motion is movement that changes the position of an object
+In Classical Mechanics ([[Newtonian Dynamics Basic Postulates]]), translational motion is movement that changes the [[Position]] of an object
 
 A translation is the operation changing the positions of all points $(x,y,z)$ of an object according to the formula 
 $$

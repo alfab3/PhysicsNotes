@@ -1,0 +1,1 @@
+$$\begin{align} x=r\sin\theta\cos\phi \\ y =r\sin\theta\\z=r\cos\theta \\dV=r^2\sin\theta drd\theta d\phi\\ ds^2 = dr^2 + r^2d\theta^2+r^2\sin^2\theta d\phi^2\\ dA =a^2\sin\theta d\theta d\phi\end{align}$$

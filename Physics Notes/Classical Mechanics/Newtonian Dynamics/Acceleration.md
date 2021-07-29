@@ -1,2 +1,2 @@
- The symbol $\ddot{\vec{r}_i}$ stand for the second derivative of $\vec{r}_i$ with respect to $t$, which is called acceleration of the $i-th$ particle. 
+ The symbol $\ddot{\vec{r}_i}$ stand for the second [[Derivative]] of $\vec{r}_i$ with respect to $t$, which is called acceleration of the $i-th$ particle. 
 $$a_i(t) \equiv \ddot{\vec{r}_i}(t) \equiv \frac{d^2}{dt^2}\vec{r}_i = \dot{\vec{v}_i}(t)$$ 

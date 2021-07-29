@@ -4,7 +4,7 @@ $$
 E = \frac{mv^2}{2}+U(r)
 $$
 
-and the angular momentum with respect to the center (origin of the coordinates)
+and the [[Angular Momentum]] with respect to the center (origin of the coordinates)
 
 $$
 L = m\vec{r} \times \vec{v}
@@ -20,7 +20,7 @@ $$
 r(t)\perp \vec{L}
 $$
 Hence the motion is two-dimensional: The z-component of the radius-vector is identically equal to zero if the z axis is chosen parallel to $L$. 
-The combination of the two-dimensional character of the motion and the fact that $U$ depends only on the absolute value of the radius-vector suggests that we switch to polar coordinates $r$ and $\theta$ on the $xy$ plane
+The combination of the two-dimensional character of the motion and the fact that $U$ depends only on the absolute value of the radius-vector suggests that we switch to [[Polar Coordinates]] $r$ and $\theta$ on the $xy$ plane
 $$\begin{align}
 	x = r\cos\theta \\
 	y = r\sin\theta
@@ -34,7 +34,7 @@ $$\begin{align}
 $$
 From the [[Angular Momentum]] equation we see that the angular velocity $\dot{\theta}$ does not change its sign, so that the particle permanently rotates around the center in one and the same direction, dependings on the the initial condition. We also see that the case $l = 0$ is special: Here $\theta = const$ (no rotation) and the motion is one-dimensional. 
 
-The pair of equations of motion in polar coordinates can be obtained by plugging in the polar coordinate equations into the two Newton's equations for $x$ and $y$, respectively. It is more wise, however, to take advantage of the conservation laws. From the point of view of the theory of differential equations, the two conservation laws are what is known as first integrals. First integrals are the differential equations that are equivalent to the original ones but of the lower order. First integrals correspond to partially integrated original equations and thus contain free integration constants.
+The pair of [[Equations of Motion]] in polar coordinates can be obtained by plugging in the polar coordinate equations into the two Newton's equations for $x$ and $y$, respectively. It is more wise, however, to take advantage of the conservation laws. From the point of view of the theory of differential equations, the two conservation laws are what is known as first [[Integral]]s. First integrals are the differential equations that are equivalent to the original ones but of the lower order. First integrals correspond to partially integrated original equations and thus contain free integration constants.
 
 With the polar coordinates we have 
 $$
