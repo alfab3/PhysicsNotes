@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
+            "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
+            "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
+                "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Examples/Boas/Boas Double and Triple Integrals Example 1.md",
-    "Examples/Boas/Untitled.md",
-    "Math Methods/Calculus/Integral Calculus/Double and Triple Integrals/Iterated Integrals.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration Techniques.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Substitution.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Parts.md",
-    "Math Methods/Calculus/Integral Calculus/Integral.md",
-    "Math Methods/Calculus/Integral Calculus/Untitled.md",
-    "Math Methods/Calculus/Integral Calculus/Double and Triple Integrals/Untitled.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Untitled.md"
+    "Math Methods/Vector Analysis/Stokes' Theorem.md",
+    "Math Methods/Green's Functions/Green's Theorem in a Plane.md",
+    "Math Methods/Vector Analysis/Untitled.md",
+    "Math Methods/Sequences and Series/D'Alembert (or Cauchy) Ratio Test.md",
+    "Math Methods/Calculus/Integral Calculus/Divergence Theorem.md",
+    "Math Methods/Calculus of Variations/Continuous Systems.md",
+    "Math Methods/Vector Analysis/Divergence Theorem.md",
+    "Math Methods/Calculus/Untitled.md",
+    "Math Methods/Green's Functions/Untitled.md",
+    "Math Methods/Calculus/Vector Calculus/Derivatives/Vector Operator Nabla.md"
   ]
 }

@@ -1,0 +1,1 @@
+$$\begin{align} \iint_\sigma (\text{curl}\ \vec{V})\cdot \hat{n} d\sigma = \int_{\partial\sigma} \vec{V} \cdot d\vec{r}\end{align}$$

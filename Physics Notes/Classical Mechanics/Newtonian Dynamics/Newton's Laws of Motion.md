@@ -18,3 +18,5 @@ $$
 F=\frac{d(m\vec{v})}{dt}= m\frac{d\vec{v}}{dt}=m\vec{a}
 $$
 
+Third Law
+All forces between two objects exist in equal magnitude and opposite direction.
