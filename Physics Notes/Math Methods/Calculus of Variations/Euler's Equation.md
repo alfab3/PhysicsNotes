@@ -61,3 +61,38 @@ $$\begin{align} \left(\frac{dI}{d\epsilon}\right)_{\epsilon=0} = \frac{y'}{\sqrt
 
 The firs term is zero because $\eta(x) = 0$ at the endpoints. In the second term recall that $\eta(x)$ is an arbitrary function. 
 $$\begin{align} \frac{d}{dx} \left(\frac{y'}{\sqrt{1+y'^2}}\right)=0\end{align}$$
+
+Integrating this with respect to $x$, we get 
+$$\begin{align} \frac{y'}{\sqrt{1+y'^2}} = \text{const.}\end{align}$$
+
+or $y' =$ const. Thus the slope of $y(x)$ is constant, so $y(x)$ is a straight line as we expected. 
+
+We could go through this process with every calculus of variations problem. It is much simpler to do the general problem once for all and find a differential equation which we can use to solve later problems. The problem is to find the $y$ which will make stationary the integral $$\begin{align}I = \int^{x_2}_{x_1} F(x,y,y')dx \end{align}$$
+where $F$ is a given function. The $y(x)$ which makes the $I$ stationary is called an extremal whether $I$ is a maximum or minimum or neither. The method is the one we have just used with the straight line. We consider a set of varied curves.
+
+$$\begin{align} Y(x) = y(x) + \epsilon \eta(x) \end{align}$$
+
+just as before. Then we have 
+$$\begin{align} I(\epsilon) = \int^{x_2}_{x_1} F(x,Y, Y')\;dx\end{align}$$
+
+and we want $(d/d\epsilon)I(\epsilon) = 0$ when $\epsilon = 0$. Remembering that $Y$ and $Y'$ are functions of $\epsilon$ and differentiating under the integral sign with respect to $\epsilon$, we get
+$$\begin{align} \frac{dI}{d\epsilon}=\int^{x_2}_{x_1} \left(\frac{\partial F}{\partial Y}\frac{dY}{d\epsilon} + \frac{\partial F}{\partial Y'}\frac{dY'}{d\epsilon}\right)dx\end{align}$$
+
+Which then gives us:
+$$\begin{align} \frac{dI}{d\epsilon} = \int^{x_2}_{x_1} \left[\frac{\partial F}{\partial Y} \eta(x) + \frac{\partial F}{\partial Y'}\eta'(x)\right] dx \end{align}$$
+
+We want $dI/d\epsilon=0$ at $\epsilon = 0$; recall that $\epsilon = 0$ means $Y = y$ then:
+$$\begin{align} \left(\frac{dI}{d\epsilon}\right)_{\epsilon=0} = \int^{x_2}_{x_1} \left[\frac{\partial F}{\partial y} \eta(x) + \frac{\partial F}{\partial y'}\eta'(x)\right] dx \end{align}$$
+
+Assuming that $y''$ is continuous, we can integrate the second term by parts:
+
+$$\begin{align} \int^{x_2}_{x_1}\frac{\partial F}{\partial y'}\eta'(x) dx = \frac{\partial F}{\partial y'}\eta(x)\bigg|^{x_2}_{x_1} - \int^{x_2}_{x_1}\frac{d}{dx}\left(\frac{\partial F}{\partial y'}\right) \eta(x)\;dx \end{align}$$
+
+The integrated term is zero as before because $\eta(x)$ is zero at $x_1$ and $x_2$. Then we have $$\begin{align} \left(\frac{dI}{d\epsilon}\right)_{\epsilon=0} = \int^{x_2}_{x_1}\left[\frac{\partial F}{\partial y} - \frac{d}{dx}\frac{\partial F}{\partial y'}\right] \eta(x) dx = 0 \end{align}$$
+
+Since $\eta(x)$ is arbitrary we must have 
+>$$\begin{align} \frac{d}{dx}\frac{\partial F}{\partial y'} - \frac{\partial F}{\partial y} = 0\end{align}$$
+
+This is the Euler (or Euler-Lagrange) equation.
+
+[[Example 3]]
