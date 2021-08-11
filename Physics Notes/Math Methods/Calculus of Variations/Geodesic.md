@@ -1,0 +1,1 @@
+Relating to or denoting the shortest possible line between two points on a surface.

@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
+            "file": "Math Methods/Calculus of Variations/Euler's Equation.md",
             "mode": "source"
           }
         },
-        "group": "dc3e7a071efff485"
+        "group": "0c4d1b436720f537"
       },
       {
-        "id": "9a092527946f50c0",
+        "id": "b4cb74d4730f12af",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
+            "file": "Math Methods/Calculus of Variations/Euler's Equation.md",
             "mode": "preview"
           }
         },
-        "group": "dc3e7a071efff485"
+        "group": "0c4d1b436720f537"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Vector Analysis/Stokes' Theorem.md",
+                "file": "Math Methods/Calculus of Variations/Euler's Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
-    "Math Methods/Vector Analysis/Stokes' Theorem.md",
-    "Math Methods/Green's Functions/Green's Theorem in a Plane.md",
-    "Math Methods/Vector Analysis/Untitled.md",
-    "Math Methods/Sequences and Series/D'Alembert (or Cauchy) Ratio Test.md",
-    "Math Methods/Calculus/Integral Calculus/Divergence Theorem.md",
+    "Math Methods/Calculus of Variations/Euler's Equation.md",
+    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Parts.md",
     "Math Methods/Calculus of Variations/Continuous Systems.md",
-    "Math Methods/Vector Analysis/Divergence Theorem.md",
-    "Math Methods/Calculus/Untitled.md",
-    "Math Methods/Green's Functions/Untitled.md",
-    "Math Methods/Calculus/Vector Calculus/Derivatives/Vector Operator Nabla.md"
+    "Math Methods/Calculus of Variations/Action.md",
+    "Math Methods/Calculus of Variations/Examples/Example 1.md",
+    "Math Methods/Calculus of Variations/Examples/Example 2.md",
+    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 2.md",
+    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md",
+    "Optics/Snell's Law of Refraction.md",
+    "Optics/Untitled.md"
   ]
 }

@@ -1,0 +1,2 @@
+Geodesics: Find the equation $y = y(x)$ of a curve joining two points $(x_1, y_1)$ and $(x_2,y_2)$ in the plane so that the distance between the points measured along the curve (arc length) is a minimum. Thus we want to minimize: 
+$$\begin{align} I = \int^{x_2}_{x_1} \sqrt{1 + y'^2}dx \end{align}$$

@@ -1,0 +1,1 @@
+The angle of reflection equals the angle of incidence.

@@ -1,0 +1,2 @@
+The famous brachistochrone problem: Find the shape of a wire joining two given points so that a bead will slide down under gravity from one point to the other without friction in the shortest time. Here we must minimize $\int dt$. If $ds$ is an element of arc length then the velocity of the particle is $v=ds/dt$. Then we have $$\begin{align} dt = \frac{1}{v}ds=\frac{1}{v}\sqrt{1+y'^2}dx\end{align}$$
+Which we then minimize. 
