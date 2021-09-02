@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Sequences and Series/Geometric Series.md",
+            "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
             "mode": "source"
           }
         },
-        "group": "3c1b8511a6761c63"
+        "group": "e63b6876a8a3d5ea"
       },
       {
-        "id": "683ea8ce0cad90bf",
+        "id": "62bc5558041cf290",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Sequences and Series/Geometric Series.md",
+            "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
             "mode": "preview"
           }
         },
-        "group": "3c1b8511a6761c63"
+        "group": "e63b6876a8a3d5ea"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Sequences and Series/Geometric Series.md",
+                "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "683ea8ce0cad90bf",
+  "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
+    "Class Notes/Physics 605 - Math Methods/Lecture 1/Untitled.md",
+    "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Analysis.md",
+    "Class Notes/Physics 605 - Math Methods/Untitled.md",
+    "Math Methods/Complex Analysis/Stereographic Projection.md",
+    "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
+    "Math Methods/Complex Analysis/Complex Variables.md",
+    "Math Methods/Complex Analysis/Analytic Functions.md",
     "Math Methods/Sequences and Series/Geometric Series.md",
-    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md",
-    "Math Methods/Calculus/Vector Calculus/Derivatives/Directional Derivative.md",
-    "Optics/Law of reflection.md",
-    "Classical Mechanics/Moment of Inertia.md",
-    "Classical Mechanics/Generalized Coordinates.md",
-    "Classical Mechanics/Center of Mass.md",
-    "Math Methods/Calculus of Variations/Examples/Boas/Untitled.md",
-    "Math Methods/Calculus of Variations/Euler's Equation.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Parts.md"
+    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md"
   ]
 }

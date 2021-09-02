@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "00ab197372aafd7e",
@@ -100,7 +99,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "561e2ab6668fcb5c",
+  "active": "80f94fe641b5bd74",
   "lastOpenFiles": [
     "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
     "Physics Notes/Math Methods/Calculus/Integral Calculus/Untitled.md",
