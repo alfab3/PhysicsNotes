@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
+            "file": "Homework/Classical Mechanics/Homework 1/Problem 2.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
+            "file": "Homework/Classical Mechanics/Homework 1/Problem 2.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
+                "file": "Homework/Classical Mechanics/Homework 1/Problem 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "d62abc6944c2f0ce",
   "lastOpenFiles": [
+    "Homework/Classical Mechanics/Homework 1/Problem 2.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 3.md",
     "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Conjugate.md",
     "Class Notes/Physics 605 - Math Methods/Lecture 1/Untitled.md",
     "Class Notes/Physics 605 - Math Methods/Lecture 1/Complex Analysis.md",
     "Class Notes/Physics 605 - Math Methods/Untitled.md",
     "Math Methods/Complex Analysis/Stereographic Projection.md",
     "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
-    "Math Methods/Complex Analysis/Complex Variables.md",
-    "Math Methods/Complex Analysis/Analytic Functions.md",
-    "Math Methods/Sequences and Series/Geometric Series.md",
-    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md"
+    "Math Methods/Complex Analysis/Complex Variables.md"
   ]
 }
