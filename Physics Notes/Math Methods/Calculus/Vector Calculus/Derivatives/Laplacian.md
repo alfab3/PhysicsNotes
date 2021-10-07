@@ -1,1 +1,3 @@
 $$\begin{align} \nabla^2 \phi = \nabla \cdot \nabla \phi = \text{div}\;\text{grad} \; \phi = \frac{\partial}{\partial x}\frac{\partial \phi}{\partial x} + \frac{\partial}{\partial y}\frac{\partial \phi}{\partial y} + \frac{\partial}{\partial z}\frac{\partial \phi}{\partial z} = \frac{\partial^2 \phi}{\partial x^2} + \frac{\partial^2 \phi}{\partial y^2} + \frac{\partial^2 \phi}{\partial z^2}\end{align}$$
+
+[[Divergence]] [[Gradient]]

@@ -4,28 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d62abc6944c2f0ce",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
-            "mode": "source"
-          }
-        },
-        "group": "e63b6876a8a3d5ea"
-      },
-      {
         "id": "62bc5558041cf290",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
-            "mode": "preview"
+            "file": "Homework/Classical Mechanics/Homework 1/Problem 6.md",
+            "mode": "source"
           }
-        },
-        "group": "e63b6876a8a3d5ea"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dens",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,8 +48,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Function Spaces/Hilbert Space Basis.md",
+                "file": "Homework/Classical Mechanics/Homework 1/Problem 6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,15 +88,15 @@
   },
   "active": "62bc5558041cf290",
   "lastOpenFiles": [
-    "Math Methods/Function Spaces/Hilbert Space Basis.md",
-    "Math Methods/Topology/Dense Set.md",
-    "Homework/Math Methods/Homework 1/Homework 1.md",
-    "Homework/Math Methods/Homework 1/Problem 2.md",
-    "Homework/Math Methods/Homework 1/Problem 1.md",
-    "Homework/Math Methods/Homework 1/Untitled.md",
+    "Homework/Classical Mechanics/Homework 1/Problem 6.md",
     "Homework/Classical Mechanics/Homework 1/Problem 3.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 5.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 2.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 1.md"
+    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
+    "Field Theory/Lagrangian Density.md",
+    "Images/diracfunction.png",
+    "Optics/Snell's Law of Refraction.md",
+    "Optics/Fermat's Principle.md",
+    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md",
+    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.3.2.md",
+    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.3.1.md"
   ]
 }

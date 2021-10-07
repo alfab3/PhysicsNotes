@@ -13,7 +13,7 @@ $$\begin{align} \delta_n(x) = \frac{n}{\sqrt{\pi}}exp(-n^2x^2) \end{align}$$![[d
 $$\begin{align} \delta_n(x) = \frac{n}{\pi} \frac{1}{1+n^2x^2} \end{align}$$
 $$\begin{align} \delta_n(x) = \frac{\sin nx}{\pi x} = \frac{1}{2\pi}\int^n_{-n} e^{ixt} dt \end{align}$$
 
-While all these sequences (and others) cause $\delta(x)$ to have the same properties, they differ somewhat in ease of use for various purposes. The second equation aboce is particulary useful in fourier analysis and in applications to quantum mechanics. In the theory of Fourier Series this often appears as the Dirchlet kernel
+While all these sequences  (and others) cause $\delta(x)$ to have the same properties, they differ somewhat in ease of use for various purposes. The second equation aboce is particulary useful in fourier analysis and in applications to quantum mechanics. In the theory of Fourier Series this often appears as the Dirchlet kernel
 $$\begin{align} \delta_n(x) = \frac{1}{2\pi} \frac{sin[(n+1\frac{1}{2})x]}{sin(\frac{1}{2}x)}\end{align}$$
 
 The forms for $\delta_n(x)$ given in the equations above all obviously peak strongly for large $n$ at $x = 0$. 

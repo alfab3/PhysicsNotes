@@ -1,1 +1,0 @@
-This is a simple case of Plateau's problem. The free energy of the soap film is equal to twice the surface tension $\sigma$ of the soap solution times the area of the film. The film can therefore minimize its free energy by minimizing its area, and the axial symmetry suggest that the minimal surface
