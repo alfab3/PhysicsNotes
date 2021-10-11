@@ -1,0 +1,1 @@
+A [[Set]] $A$ is a subset of a set $B$ if all elements of $A$ are also elements of $B$; $B$ is then a superset of $A$. It is possible for $A$ and $B$ to be equal; if they are unequal, the $A$ is a proper set of $B$.

@@ -11,3 +11,5 @@ $$
 \lim_{n\rightarrow\infty} s_n \frac{1}{1-r}
 $$
 Showing that for $|r|< 1$, the geometric series converges. It clearly diverges for $|r| \geq 1$.
+
+[[Convergence]]

@@ -1,0 +1,1 @@
+A quantity that is deined as a function of some [[Vectors]] or geometric shapes that resembles a vector, and behaves like a vector in many situations but is changed into its opposite if the orientation of the space is changed, or an improper rigid transformation such as a reflection is applied to the whole figure.

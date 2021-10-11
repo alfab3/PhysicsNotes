@@ -1,0 +1,1 @@
+Adjusting values measured on different scales to a notionally common scale, often prior to averaging.

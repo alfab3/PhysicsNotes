@@ -1,6 +1,6 @@
 If $a_{n+1}/a_n \leq r < 1$ for all sufficiently large $n$ and $r$ is independent of $n$,  the $\sum_n a_n$is convergent. If $a_{n+1}/a_n \geq 1$ for sufficiently large $n$ then $\sum_n a_n$ is divergent. 
 
-This test is established by direct comparison with the geometric series $(1+r+r^2 + ...)$. In the second part, $a_{n+1} \geq a_n$ 
+This test is established by direct comparison with the [[geometric series]] $(1+r+r^2 + ...)$. In the second part, $a_{n+1} \geq a_n$ 
 
 If:
 $$

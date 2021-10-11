@@ -1,3 +1,5 @@
+[[Force Newtonian Dynamics]]
+[[Center of Mass]]
 Prove $\ddot{R}=0$. Note that the particular form of the denominator in 
 $$
 \vec{R} = \frac{\sum^N_{i=1}m_i\vec{r_i}}{\sum^N_{i=1}m_i}

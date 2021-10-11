@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Classical Mechanics/Homework 1/Problem 6.md",
+            "file": "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
             "mode": "source"
           }
-        }
+        },
+        "group": "b440cc1de6a5e492"
+      },
+      {
+        "id": "5d26ef95e0b83a30",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
+            "mode": "preview"
+          }
+        },
+        "group": "b440cc1de6a5e492"
       }
     ],
     "direction": "vertical"
@@ -39,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dirac",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Classical Mechanics/Homework 1/Problem 6.md",
+                "file": "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "62bc5558041cf290",
+  "active": "5d26ef95e0b83a30",
   "lastOpenFiles": [
-    "Homework/Classical Mechanics/Homework 1/Problem 6.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 3.md",
-    "Homework/Classical Mechanics/Homework 1/Problem 1.md",
-    "Field Theory/Lagrangian Density.md",
-    "Images/diracfunction.png",
-    "Optics/Snell's Law of Refraction.md",
-    "Optics/Fermat's Principle.md",
-    "Problems/Boas/Chapter 9 Calculus of Variation/Problem 1.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.3.2.md",
-    "Problems/Mathematical Methods for Physicists A Comprehensive Guide/Chapter 7/Problem 7.3.1.md"
+    "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
+    "Math Methods/Statistics/Untitled.md",
+    "Math Methods/Function Spaces/Untitled.md",
+    "Math Methods/Function Spaces/To find a formal adjoint.md",
+    "Math Methods/Function Spaces/Square Matrices to linear differential operator.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Initial Value Problem.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Inhomogeneous Linear ODEs.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Second Order Linear ODEs.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Untitled.md"
   ]
 }

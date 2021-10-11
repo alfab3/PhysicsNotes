@@ -1,0 +1,1 @@
+If $\vec{v_j} \cdot \vec{v_i} = 0$ for any $0 \leq i \neq j \leq n$ then the set of coefficients $\{a_j\}_{j=1}^n$ is unique.

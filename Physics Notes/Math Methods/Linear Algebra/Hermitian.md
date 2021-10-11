@@ -1,0 +1,1 @@
+A hermitian matrix (or self [[Adjoint]]) matrix is a complex square matrix that is equal to its own [[Conjugate transpose]].

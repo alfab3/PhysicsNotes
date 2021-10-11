@@ -20,8 +20,8 @@ $$\begin{align} \frac{d^2}{dt^2}[\vec{r}'_i = \vec{r}_i-\vec{v}_0t] \\
 Then the right hand side:
 $$\begin{align} |\vec{r}_i' + v_0t - (\vec{r}_j' + v_0t)| \\ |\vec{r}_i' - \vec{r}_j'|\end{align}$$
 
-Prove that the derivative with respect to position will not change:
-With chain rule we have 
+Prove that the [[derivative]] with respect to position will not change:
+With [[The Chain Rule]] we have 
 $$\begin{align} \frac{\partial}{\partial \vec{r}_i'} = \frac{\partial \vec{r_i}}{\partial \vec{r}_i'}\frac{\partial}{\partial \vec{r_i}}\end{align}$$
 
 To prove the relation $\frac{\partial \vec{r_i}}{\partial \vec{r}'_i}$ must equal 1:

@@ -1,0 +1,1 @@
+[[Orthogonal Basis]] with the additional property that $|\vec{v_j}|=1 \;\; \forall \;\; 1\leq j\leq n$ Namely: $v_j \cdot v_j = \delta_{ij}$

@@ -1,0 +1,1 @@
+A [[Pseudovector]] whose [[Length]] equals the rate of change at which [[Area]] is swept out by a particle as it moves along a curve.

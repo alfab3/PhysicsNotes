@@ -1,4 +1,5 @@
-If $\vec{A}=\hat{i}A_x+\hat{j}A_y+\hat{k}A_z$ where $\hat{i},\hat{j},\hat{k}$ are functions of $t$, then we define the derivative $dA/dt$ by the equation
+Assume $A$ is some [[Vectors]]
+If $\vec{A}=\hat{i}A_x+\hat{j}A_y+\hat{k}A_z$ where $\hat{i},\hat{j},\hat{k}$ are functions of $t$, then we define the [[Derivative]]$dA/dt$ by the equation
 
 $$\begin{align} \frac{d\vec{A}}{dt}=\hat{i}\frac{dA_x}{dt} + \hat{j} \frac{dA_y}{dt}+\hat{k}\frac{dA_z}{dt}\end{align}$$
 

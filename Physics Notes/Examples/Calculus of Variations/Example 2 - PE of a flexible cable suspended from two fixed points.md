@@ -1,4 +1,4 @@
-Choose the y - axis to be perpendicular to the surface of the Earth, the cable being represented by a curve $y = f(x)$ in the $xy$-plane with the constraint $f(x_a) = y_a$. The potential energy of the element $dl$ is proportional to its height $y$ and its length $dl$. Hence, the total potential energy is given by the integral
+Choose the y - axis to be perpendicular to the surface of the Earth, the cable being represented by a curve $y = f(x)$ in the $xy$-plane with the constraint $f(x_a) = y_a$. The potential energy of the element $dl$ is proportional to its height $y$ and its [[length]] $dl$. Hence, the total [[Potential Energy]] is given by the [[Integral]]
 $$
 U[f] = \int ydl = \int^{x_b}_{x_a} f\sqrt{1+(f_x)^2}dx
 $$
