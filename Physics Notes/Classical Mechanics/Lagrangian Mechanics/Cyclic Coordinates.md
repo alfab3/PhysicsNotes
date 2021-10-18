@@ -1,0 +1,3 @@
+[[Generalized Coordinates]] of a certain physical system that do not occur explicitly in the expression of the characteristic function of this system. When one uses the corresponding equations of motion, one may obtain at once for every cyclic coordinate the integral of motion corresponding to it. For example if the [[Lagrangian]] $\mathcal{L}(q_i,\dot{q_i},t)$ does not contain $q_j$ explicity then $q_j$ is a cyclic coordinate. 
+
+The $j$-th Lagrange equation has the form $$\begin{align} \frac{d}{dt}\frac{\partial\mathcal{L}}{\partial \dot{q}_j} = 0 \end{align}$$

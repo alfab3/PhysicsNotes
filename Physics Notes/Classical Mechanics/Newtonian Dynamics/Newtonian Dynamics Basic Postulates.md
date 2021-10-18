@@ -50,7 +50,7 @@ f_{ij}(r_ij) = f_{ji}(r_{ij})=-\frac{1}{r_{ij}}\frac{dU_{ij}(r_ij)}{dr_{ij}}
 $$
 Which leads to two very important relations:
 $$
-\vec{F_{ij}} || (\vec{r_i}-\vec{r_j})
+\vec{F_{ij}} \; || \; (\vec{r_i}-\vec{r_j})
 $$
 $$
 \vec{F_{ij}} = -\vec{F_{ji}}
