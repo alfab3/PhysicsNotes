@@ -1,4 +1,4 @@
-Let's find the geodesics in a plane again, this time using the [[Euler's Equation]] as you will do in problems. 
+Let's find the geodesics in a plane again, this time using the [[Euler's Equation Boris]] as you will do in problems. 
 
 We are to minimize
 $$\begin{align} \int^{x_2}_{x_1}\sqrt{1+y'^2}dx\end{align}$$
