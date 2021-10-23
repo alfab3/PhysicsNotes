@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Energy.md",
+            "file": "Lab Study Guide.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Energy.md",
+            "file": "Lab Study Guide.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Energy.md",
+                "file": "Lab Study Guide.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Untitled.md",
+    "Lab Study Guide.md",
     "Classical Mechanics/Exam Study Materials/Study Guide Outline.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian.md",
     "Classical Mechanics/Exam Study Materials/Midterm 1 Killed the quals Problems.md",
+    "Classical Mechanics/Lagrangian Mechanics/Untitled.md",
+    "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Energy.md",
+    "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Untitled.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian.md",
     "Classical Mechanics/Lagrangian Mechanics/Examples/Variable Length Plane Pendulum.md",
     "Classical Mechanics/Lagrangian Mechanics/Examples/Untitled.md",
-    "Classical Mechanics/Lagrangian Mechanics/Cyclic Coordinates.md",
-    "Classical Mechanics/Lagrangian Mechanics/Untitled.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md"
+    "Classical Mechanics/Lagrangian Mechanics/Cyclic Coordinates.md"
   ]
 }

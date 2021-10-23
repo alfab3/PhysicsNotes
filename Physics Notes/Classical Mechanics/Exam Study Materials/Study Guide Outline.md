@@ -76,7 +76,6 @@ Lagrange Formalism
 	3) Galilean Invariance
 	4) Energy
 		1) 
-6) Semi-Cyclic Coordinates
 7) Noether's Theorem
 8) Motion in a Uniform Magnetic Field
 9) Lagrange Multipliers
