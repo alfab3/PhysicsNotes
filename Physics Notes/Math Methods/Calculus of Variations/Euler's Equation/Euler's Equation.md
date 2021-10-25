@@ -6,4 +6,7 @@ Boris' Derivation:
 Derivation from Boas:
 [[Euler's Equation Boas]]
 
+Derivation from Marion and Thornton
+[[Euler's Equation Marion and Thornton]]
+
 

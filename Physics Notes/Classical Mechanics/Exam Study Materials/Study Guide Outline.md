@@ -55,7 +55,9 @@ Two-Body Problem
 
 Calculus of Variations
 1) Functionals
+	1) [[Functional]]
 2) Euler's Equation
+	1) [[Euler's Equation]]
 3) Lagrange Multipliers
 
 Lagrange Formalism
