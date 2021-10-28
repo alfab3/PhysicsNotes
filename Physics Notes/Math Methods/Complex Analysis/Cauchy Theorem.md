@@ -1,0 +1,1 @@
+An analytic function $f(z)$ in $\Omega$ (some contour). Then $$\begin{align}\oint_\Gamma f(z)dz = 0 \end{align}$$

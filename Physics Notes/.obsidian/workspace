@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
+            "file": "Math Methods/Exam Study Materials/Study Outline.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
+            "file": "Math Methods/Exam Study Materials/Study Outline.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
+                "file": "Math Methods/Exam Study Materials/Study Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
-    "Math Methods/Calculus of Variations/Euler's Equation/Euler's Equation Marion and Thornton.md",
-    "Math Methods/Calculus of Variations/Euler's Equation/Euler's Equation.md",
-    "Math Methods/Calculus of Variations/Euler's Equation/Euler's Equation Boris.md",
-    "Classical Mechanics/Exam Study Materials/Study Guide Outline.md",
-    "Classical Mechanics/Exam Study Materials/Calculus of Variations Cheat Sheet.md",
-    "Classical Mechanics/Exam Study Materials/Midterm 1 Killed the quals Problems.md",
-    "Classical Mechanics/Motion/Rotation.md",
-    "Math Methods/Calculus of Variations/Examples/Flexible Cable.md",
-    "Math Methods/Calculus of Variations/Lagrange Multipliers.md"
+    "Math Methods/Exam Study Materials/Study Outline.md",
+    "Math Methods/Linear Algebra/Linear Algebra.md",
+    "Math Methods/Complex Analysis/Singularity.md",
+    "Math Methods/Complex Analysis/Laurent Series.md",
+    "Math Methods/Complex Analysis/Radius of Convergence.md",
+    "Math Methods/Complex Analysis/Cauchy Formula.md",
+    "Math Methods/Complex Analysis/Analytic Function.md",
+    "Math Methods/Complex Analysis/Cauchy Theorem.md",
+    "Math Methods/Complex Analysis/Cauchy-Riemann Equations.md",
+    "Math Methods/Complex Analysis/Complex Conjugate.md"
   ]
 }
