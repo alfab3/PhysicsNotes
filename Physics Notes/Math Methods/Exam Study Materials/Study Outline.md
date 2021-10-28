@@ -17,14 +17,17 @@ Cauchy Formula
 Radius of Convergence
 [[Radius of Convergence]]
 Analytic Continuation
+[[Analytic Function]]
 Contour Integration
+[[Contour Integration]]
 Laurent Series
 [[Laurent Series]]
 Singularities
 [[Singularity]]
 Jordan's Lemma
-
+[[Analytic Continuation]]
 Residue Theorem
+[[Cauchy's Residue Theorem]]
 Principal Value
 Kramers-Kronig Relations
 Saddle Point Method
@@ -51,10 +54,10 @@ Eigenvalues
 Eigenvectors
 [[Eigenvectors]]
 Orthogonal Matrices
-
 Rotation Matries
 Square Matrices to linear diff operator
-Operators
+Linear Differential Operators
+[[Linear Differential Operator]]
 Adjoint Operators
 [[Adjoint]]
 [[Self-Adjoint Operators Orthonormal Basis]]

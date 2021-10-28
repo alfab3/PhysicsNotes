@@ -1,0 +1,1 @@
+A technique to extend the domain of definition of a given [[Analytic Function]]. Analytic continuation ofterns succeeds further values of a function, for example in a new region where an infinite series representation in terms of which it is initially defined becomes divergent. 

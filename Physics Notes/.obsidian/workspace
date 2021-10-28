@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Exam Study Materials/Study Outline.md",
+            "file": "Math Methods/Function Spaces/Linear Differential Operator.md",
             "mode": "source"
           }
-        },
-        "group": "1550cf7e0f831888"
-      },
-      {
-        "id": "4fa9a01523b21ccc",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Math Methods/Exam Study Materials/Study Outline.md",
-            "mode": "preview"
-          }
-        },
-        "group": "1550cf7e0f831888"
+        }
       }
     ],
     "direction": "vertical"
@@ -52,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "differential operator",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Exam Study Materials/Study Outline.md",
+                "file": "Math Methods/Function Spaces/Linear Differential Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +88,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Math Methods/Exam Study Materials/Study Outline.md",
-    "Math Methods/Linear Algebra/Linear Algebra.md",
-    "Math Methods/Complex Analysis/Singularity.md",
-    "Math Methods/Complex Analysis/Laurent Series.md",
-    "Math Methods/Complex Analysis/Radius of Convergence.md",
-    "Math Methods/Complex Analysis/Cauchy Formula.md",
-    "Math Methods/Complex Analysis/Analytic Function.md",
-    "Math Methods/Complex Analysis/Cauchy Theorem.md",
-    "Math Methods/Complex Analysis/Cauchy-Riemann Equations.md",
-    "Math Methods/Complex Analysis/Complex Conjugate.md"
+    "Math Methods/Function Spaces/Linear Differential Operator.md",
+    "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
+    "Math Methods/Function Spaces/Inner Product.md",
+    "Math Methods/Function Spaces/Functional Space.md",
+    "Math Methods/Function Spaces/Function Spaces.md",
+    "Math Methods/Function Spaces/From vector space to function space.md",
+    "Math Methods/Function Spaces/Hilbert Space/Hilbert Space Basis.md",
+    "Math Methods/Function Spaces/Hilbert Space/Hilbert Space.md",
+    "Math Methods/Complex Analysis/Analytic Continuation.md",
+    "Math Methods/Exam Study Materials/Study Outline.md"
   ]
 }
