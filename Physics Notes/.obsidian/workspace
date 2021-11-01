@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Math Methods/Homework 6/Problem 1.md",
+            "file": "Homework/Math Methods/Homework 6/Problem 2.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Math Methods/Homework 6/Problem 1.md",
+            "file": "Homework/Math Methods/Homework 6/Problem 2.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Math Methods/Homework 6/Problem 1.md",
+                "file": "Homework/Math Methods/Homework 6/Problem 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,8 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Homework/Math Methods/Homework 6/Problem 1.md",
     "Homework/Math Methods/Homework 6/Problem 2.md",
+    "Homework/Math Methods/Homework 6/Problem 1.md",
     "Math Methods/Complex Analysis/Singularity.md",
     "Math Methods/Complex Analysis/Radius of Convergence.md",
     "Math Methods/Complex Analysis/Laurent Series.md",
