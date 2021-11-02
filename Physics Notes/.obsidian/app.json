@@ -6,5 +6,12 @@
     "downscalePercent": 100
   },
   "promptDelete": false,
-  "spellcheck": true
+  "spellcheck": true,
+  "spellcheckDictionary": [
+    "orthonormal",
+    "Eigenfunctions",
+    "Orthonomality",
+    "coords",
+    "rotationally"
+  ]
 }

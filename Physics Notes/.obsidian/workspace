@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Math Methods/Homework 6/Problem 2.md",
+            "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Math Methods/Homework 6/Problem 2.md",
+            "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 331.5036334991455
+    "width": 417
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Math Methods/Homework 6/Problem 2.md",
+                "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Homework/Math Methods/Homework 6/Problem 2.md",
-    "Homework/Math Methods/Homework 6/Problem 1.md",
-    "Math Methods/Complex Analysis/Singularity.md",
-    "Math Methods/Complex Analysis/Radius of Convergence.md",
-    "Math Methods/Complex Analysis/Laurent Series.md",
-    "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
-    "Math Methods/Function Spaces/Linear Differential Operator.md",
-    "Math Methods/Function Spaces/Self-Adjoint Operators Orthonormal Basis.md",
-    "Math Methods/Function Spaces/Inner Product.md",
-    "Math Methods/Function Spaces/Functional Space.md"
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
+    "Statistical Mechanics/Diffusion Equation.md",
+    "Math Methods/Calculus/Partial Differential Equations/Definition.md",
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform Operator.md",
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform.md",
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform in 2D and 3D.md",
+    "Math Methods/Differential Operators/Infinite Interval.md",
+    "Math Methods/Differential Operators/Linear Differential Operator.md",
+    "Math Methods/Differential Operators/Self-Adjoint Operators Orthonormal Basis.md",
+    "Math Methods/Differential Operators/Square Matrices to linear differential operator.md"
   ]
 }
