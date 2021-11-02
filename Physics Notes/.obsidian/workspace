@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
+            "file": "Math Methods/Green's Functions/Scaling Analysis.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
+            "file": "Math Methods/Green's Functions/Scaling Analysis.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
+                "file": "Math Methods/Green's Functions/Scaling Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
+    "Math Methods/Green's Functions/Scaling Analysis.md",
     "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
-    "Statistical Mechanics/Diffusion Equation.md",
-    "Math Methods/Calculus/Partial Differential Equations/Definition.md",
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform in 2D and 3D.md",
     "Math Methods/Differential Operators/Fourier Transform/Fourier Transform Operator.md",
     "Math Methods/Differential Operators/Fourier Transform/Fourier Transform.md",
-    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform in 2D and 3D.md",
+    "Math Methods/Calculus/Vector Calculus/Flux.md",
     "Math Methods/Differential Operators/Infinite Interval.md",
-    "Math Methods/Differential Operators/Linear Differential Operator.md",
-    "Math Methods/Differential Operators/Self-Adjoint Operators Orthonormal Basis.md",
-    "Math Methods/Differential Operators/Square Matrices to linear differential operator.md"
+    "Math Methods/Calculus/Integral Calculus/Gaussian Integral Trick.md",
+    "Statistical Mechanics/Diffusion Equation.md",
+    "Math Methods/Calculus/Partial Differential Equations/Definition.md"
   ]
 }
