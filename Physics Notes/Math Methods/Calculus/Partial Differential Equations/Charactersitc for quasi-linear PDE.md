@@ -1,0 +1,1 @@
+Assume we start at $t = 0$ we have $u(x,t=0) = u_0(x)$ Assume there is a characteristic that goes through $(x_0,t = 0) = u_0(x)$
