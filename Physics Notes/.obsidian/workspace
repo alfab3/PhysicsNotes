@@ -9,10 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Calculus/Partial Differential Equations/Helmholtz Equation.md",
+            "file": "Math Methods/Exam Study Materials/Study Outline.md",
+            "mode": "source"
+          }
+        },
+        "group": "a5a4835660a13e53"
+      },
+      {
+        "id": "db147185ddfeb186",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math Methods/Exam Study Materials/Study Outline.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "a5a4835660a13e53"
       }
     ],
     "direction": "vertical"
@@ -52,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 417,
-    "collapsed": true
+    "width": 417
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -69,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Calculus/Partial Differential Equations/Helmholtz Equation.md",
+                "file": "Math Methods/Exam Study Materials/Study Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +99,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4723a903f478a6f8",
+  "active": "db147185ddfeb186",
   "lastOpenFiles": [
+    "Math Methods/Exam Study Materials/Study Outline.md",
     "Math Methods/Calculus/Partial Differential Equations/Helmholtz Equation.md",
     "Math Methods/Calculus/Partial Differential Equations/Charactersitc for quasi-linear PDE.md",
     "Math Methods/Calculus/Partial Differential Equations/Conservation equations.md",
@@ -97,7 +110,6 @@
     "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
     "Optics/Caustic.md",
     "Math Methods/Green's Functions/Scaling Analysis.md",
-    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md",
-    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform in 2D and 3D.md"
+    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md"
   ]
 }
