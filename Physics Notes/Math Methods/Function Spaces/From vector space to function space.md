@@ -2,3 +2,5 @@ Consider a function $f(x)$ on the interval $x\in [a,b]$. "Breaking" the interval
 Namely $\vec{v} \in \mathbb{R}^n$ (finite dimensional space)
 
 However, to be a function on a continuous interval, $n \rightarrow \infty$, so we are lead to treat [[Function Spaces]] as an $\infty$-dimensinal [[Vector Space]]
+
+We also need an analog of the [[Inner Product]]

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Exam Study Materials/Study Outline.md",
+            "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Exam Study Materials/Study Outline.md",
+            "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Exam Study Materials/Study Outline.md",
+                "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "db147185ddfeb186",
   "lastOpenFiles": [
-    "Math Methods/Exam Study Materials/Study Outline.md",
-    "Math Methods/Calculus/Partial Differential Equations/Helmholtz Equation.md",
-    "Math Methods/Calculus/Partial Differential Equations/Charactersitc for quasi-linear PDE.md",
-    "Math Methods/Calculus/Partial Differential Equations/Conservation equations.md",
-    "Math Methods/Calculus/Partial Differential Equations/Wave Equation.md",
-    "Math Methods/Calculus/Partial Differential Equations/Characteristic Curves.md",
-    "Classical Mechanics/Exam Study Materials/Study Guide Sheet.md",
-    "Optics/Caustic.md",
-    "Math Methods/Green's Functions/Scaling Analysis.md",
-    "Math Methods/Differential Operators/Fourier Transform/Fourier Transform for PDEs.md"
+    "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
+    "Math Methods/Complex Analysis/Contour Integration.md",
+    "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
+    "Math Methods/Complex Analysis/Cauchy Theorem.md",
+    "Math Methods/Function Spaces/From vector space to function space.md",
+    "Math Methods/Function Spaces/Function Spaces.md",
+    "Math Methods/Function Spaces/Functional Space.md",
+    "Math Methods/Function Spaces/Convergence.md",
+    "Math Methods/Function Spaces/Best Approximation.md",
+    "Math Methods/Function Spaces/Cauchy Sequences.md"
   ]
 }

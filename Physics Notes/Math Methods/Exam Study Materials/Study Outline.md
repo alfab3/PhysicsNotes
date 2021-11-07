@@ -33,16 +33,14 @@ Kramers-Kronig Relations
 Saddle Point Method
 
 ## Function Spaces
-Linear Algebra
 [[Linear Algebra]]
-Basis
 [[Basis]]
-Parseval Theorem
+[[Gram-Schmidt Orthonormalization]]
+[[Best Approximation]]
 [[Parseval Theorem]]
-Hilbert Space
 [[Hilbert Space]]
-Distributions Calculus
 [[Distributions Calculus]]
+
 Kernels
 Parrellelogram Law
 

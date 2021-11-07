@@ -12,6 +12,7 @@
     "Eigenfunctions",
     "Orthonomality",
     "coords",
-    "rotationally"
+    "rotationally",
+    "Parseval"
   ]
 }
