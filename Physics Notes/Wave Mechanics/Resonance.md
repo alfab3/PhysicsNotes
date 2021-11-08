@@ -1,0 +1,1 @@
+Free vibrations of an elastic body are called natural vibrations and occur at a [[Frequency]] called the natural frequency. Natural vibrations are different from forced vibrations which happen at the frequency of an applied force. If the forced frequency is equal to the natural frequency, the vibrations amplitude increases manyfold. This phenomenon is known as resonance.

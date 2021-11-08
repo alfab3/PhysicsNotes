@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/General Form of the Bilinear Lagrangian.md",
+            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/General Form of the Bilinear Lagrangian.md",
+            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227
+    "width": 332
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/General Form of the Bilinear Lagrangian.md",
+                "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
     "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/General Form of the Bilinear Lagrangian.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Normal Modes.md",
     "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Bilinearized Lagrangian.md",
     "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Driven Motion of Normal Modes.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Normal Modes.md",
-    "Math Methods/Linear Algebra/Symmetric Matrix.md",
-    "Math Methods/Complex Analysis/Holomorphic Function.md",
-    "Math Methods/Complex Analysis/Radius of Convergence.md",
-    "Math Methods/Complex Analysis/Analytic Function.md",
-    "Math Methods/Complex Analysis/Cauchy Formula.md",
-    "Math Methods/Complex Analysis/Contour Integration Algorithm.md"
+    "Wave Mechanics/Resonance.md",
+    "Wave Mechanics/Eigenfrequency.md",
+    "Math Methods/Calculus/Ordinary Differential Equations/Constant Coefficients.md",
+    "Math Methods/Linear Algebra/Anti-Symmetric Matrix.md",
+    "Math Methods/Linear Algebra/Symmetric Matrix.md"
   ]
 }
