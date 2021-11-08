@@ -1,0 +1,1 @@
+$$\begin{align}\mathcal L = \frac{1}{2}\left[\dot{\vec x} \cdot(\mu \dot{\vec{x}}) + \dot{\vec{x}} \cdot(\beta \vec x) - \vec x\cdot (\chi \vec x)\right] \end{align}$$
