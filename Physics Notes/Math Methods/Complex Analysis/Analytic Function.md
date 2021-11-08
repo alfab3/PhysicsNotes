@@ -36,5 +36,6 @@ No it also depends on $z*$. Analytic functions must follow a very specific struc
 $$\begin{equation}
     \frac{\partial^2 u}{\partial x^2} + \frac{\partial^2 u}{\partial y^2} = 0 = \frac{\partial^2 v}{\partial x^2} + \frac{\partial^2 v}{\partial y^2}
 \end{equation}$$
-In the region in which some function $f(z)$ is analytic the real part and imaginary part separately satisfy Laplace's equations. Solutions of Laplace's equations are called harmonics.\\
+In the region in which some function $f(z)$ is analytic the real part and imaginary part separately satisfy Laplace's equations. Solutions of Laplace's equations are called harmonics.
+
 If $f(z)$ is analytic for all $|z| < \infty$ then $f(z)$ is an entire function.

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
+            "file": "Math Methods/Complex Analysis/Holomorphic Function.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
+            "file": "Math Methods/Complex Analysis/Holomorphic Function.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
+                "file": "Math Methods/Complex Analysis/Holomorphic Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db147185ddfeb186",
+  "active": "4723a903f478a6f8",
   "lastOpenFiles": [
+    "Math Methods/Complex Analysis/Holomorphic Function.md",
+    "Math Methods/Complex Analysis/Radius of Convergence.md",
+    "Math Methods/Complex Analysis/Analytic Function.md",
+    "Math Methods/Complex Analysis/Cauchy Formula.md",
     "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
     "Math Methods/Complex Analysis/Contour Integration.md",
-    "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
-    "Math Methods/Complex Analysis/Cauchy Theorem.md",
-    "Math Methods/Function Spaces/From vector space to function space.md",
-    "Math Methods/Function Spaces/Function Spaces.md",
-    "Math Methods/Function Spaces/Functional Space.md",
-    "Math Methods/Function Spaces/Convergence.md",
-    "Math Methods/Function Spaces/Best Approximation.md",
-    "Math Methods/Function Spaces/Cauchy Sequences.md"
+    "Math Methods/Complex Analysis/Complex Variables.md",
+    "Math Methods/Complex Analysis/Complex Plane.md",
+    "Math Methods/Complex Analysis/Complex Conjugate.md",
+    "Math Methods/Complex Analysis/Complex Analysis.md"
   ]
 }

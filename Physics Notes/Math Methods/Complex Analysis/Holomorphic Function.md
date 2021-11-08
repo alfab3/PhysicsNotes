@@ -1,0 +1,3 @@
+Complex valued function of one or more complex variables that is complex differentiable in a neighborhood of each point in a domain in complex coordinate space([[Complex Plane]]). The existence of a complex [[Derivative]] in a neighborhood is a very strong condition: it implies that a holomorphic function is infinitely differentiable and is locally equal to its own [[Taylor Series]].
+
+Though the term [[Analytic Function]] is often used interchangeably with "holomorphic" function, the word analytic is defined in a broader sense to denote any function  
