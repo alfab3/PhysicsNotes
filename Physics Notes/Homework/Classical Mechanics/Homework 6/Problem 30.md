@@ -1,0 +1,1 @@
+Resonance frequency: $\omega_R$

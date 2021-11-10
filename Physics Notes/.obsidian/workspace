@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
+            "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
+            "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
+                "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Equations of Motion.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/General Form of the Bilinear Lagrangian.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Normal Modes.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Bilinearized Lagrangian.md",
+    "Homework/Classical Mechanics/Homework 6/Problem 30.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Damped Harmonic Oscillator.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Resonance.md",
     "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Driven Motion of Normal Modes.md",
-    "Wave Mechanics/Resonance.md",
-    "Wave Mechanics/Eigenfrequency.md",
-    "Math Methods/Calculus/Ordinary Differential Equations/Constant Coefficients.md",
-    "Math Methods/Linear Algebra/Anti-Symmetric Matrix.md",
-    "Math Methods/Linear Algebra/Symmetric Matrix.md"
+    "Classical Mechanics/Harmonic Oscillator/Driven harmonic oscillators.md",
+    "Classical Mechanics/Harmonic Oscillator/Elastic Potential Energy.md",
+    "Classical Mechanics/Harmonic Oscillator/Harmonic Oscillator.md",
+    "Classical Mechanics/Harmonic Oscillator/Simple Harmonic Oscillator.md",
+    "Math Methods/Ordinary Differential Equations/Homogeneous Differential Equation.md",
+    "Math Methods/Ordinary Differential Equations/Second Order Linear ODEs.md"
   ]
 }

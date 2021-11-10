@@ -8,7 +8,7 @@ $$\begin{align}
 \end{align}$$
 Which can also be written as $\vec{v} = -1\hat{i}+2\hat{j}$. Once this is transformed the formula looks like:
 $$\begin{equation}
-    Transformed \; \vec{v} = -1(Transformed \; \hat{i}) + 2(Transformed \; \hat{j})
+   \text{Transformed} \; \vec{v} = -1(\text{Transformed} \; \hat{i}) + 2(\text{Transformed} \; \hat{j})
 \end{equation}$$
 It ends up as the same [[Linear Combination]] it started with before the transformation. Which means you can deduce where $\vec{v}$ must go based on where $\hat{i}$ and $\hat{j}$ will land. In the transformed plane, the [[Basis Vectors]] $\hat{i}$ and $\hat{j}$ end up at $[1, -2]$ and $[3,0]$ respectively. Which means the new transformed final vector has the equation:
 $$\begin{align}
