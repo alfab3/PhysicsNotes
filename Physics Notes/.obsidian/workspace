@@ -7,25 +7,9 @@
         "id": "4723a903f478a6f8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
-            "mode": "source"
-          }
-        },
-        "group": "a5a4835660a13e53"
-      },
-      {
-        "id": "db147185ddfeb186",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
-            "mode": "preview"
-          }
-        },
-        "group": "a5a4835660a13e53"
+          "type": "graph",
+          "state": {}
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Classical Mechanics/Homework 6/Problem 30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +82,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "db147185ddfeb186",
+  "active": "4723a903f478a6f8",
   "lastOpenFiles": [
+    "Math Methods/Calculus of Variations/Functional.md",
+    "Physical Quantities/Absolute Temperature.md",
+    "Physical Quantities/Dimension.md",
+    "Homework/Classical Mechanics/Homework 6/Problem 31.md",
     "Homework/Classical Mechanics/Homework 6/Problem 30.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Damped Harmonic Oscillator.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Resonance.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Driven Motion of Normal Modes.md",
-    "Classical Mechanics/Harmonic Oscillator/Driven harmonic oscillators.md",
-    "Classical Mechanics/Harmonic Oscillator/Elastic Potential Energy.md",
-    "Classical Mechanics/Harmonic Oscillator/Harmonic Oscillator.md",
-    "Classical Mechanics/Harmonic Oscillator/Simple Harmonic Oscillator.md",
-    "Math Methods/Ordinary Differential Equations/Homogeneous Differential Equation.md",
-    "Math Methods/Ordinary Differential Equations/Second Order Linear ODEs.md"
+    "Math Methods/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
+    "Math Methods/Linear Algebra/Dual.md",
+    "Classical Mechanics/Lagrangian Mechanics/Cyclic Coordinates.md",
+    "Classical Mechanics/Lagrangian Mechanics/Delta Notation.md",
+    "Classical Mechanics/Lagrangian Mechanics/Noether's Theorem.md"
   ]
 }

@@ -1,0 +1,1 @@
+$$\begin{align} \eta_2 = \text{Re}B e^{i(\omega t - \phi_0)} \end{align}$$
