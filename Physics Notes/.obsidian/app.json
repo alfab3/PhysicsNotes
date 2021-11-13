@@ -18,6 +18,9 @@
     "Holomorphic",
     "bilinearized",
     "manyfold",
-    "dissipative"
+    "dissipative",
+    "Adjoint",
+    "adjoint",
+    "Nonhomogeneous"
   ]
 }

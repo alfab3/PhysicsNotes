@@ -7,9 +7,25 @@
         "id": "4723a903f478a6f8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
-        }
+          "type": "markdown",
+          "state": {
+            "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+            "mode": "source"
+          }
+        },
+        "group": "7d9ffc59ca2c334a"
+      },
+      {
+        "id": "d9fe6b04c8ad3de9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+            "mode": "preview"
+          }
+        },
+        "group": "7d9ffc59ca2c334a"
       }
     ],
     "direction": "vertical"
@@ -65,6 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
+    "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+    "Math Methods/Exam Study Materials/Study Outline.md",
+    "Math Methods/Complex Analysis/Complex Analysis.md",
+    "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
+    "Math Methods/Complex Analysis/Contour Integration.md",
+    "Math Methods/Complex Analysis/Laurent Series.md",
+    "Lab Study Guide.md",
+    "Table of Contents.md",
     "Math Methods/Calculus of Variations/Functional.md",
-    "Physical Quantities/Absolute Temperature.md",
-    "Physical Quantities/Dimension.md",
-    "Homework/Classical Mechanics/Homework 6/Problem 31.md",
-    "Homework/Classical Mechanics/Homework 6/Problem 30.md",
-    "Math Methods/Ordinary Differential Equations/Explicit vs Implicit Solution.md",
-    "Math Methods/Linear Algebra/Dual.md",
-    "Classical Mechanics/Lagrangian Mechanics/Cyclic Coordinates.md",
-    "Classical Mechanics/Lagrangian Mechanics/Delta Notation.md",
-    "Classical Mechanics/Lagrangian Mechanics/Noether's Theorem.md"
+    "Physical Quantities/Absolute Temperature.md"
   ]
 }
