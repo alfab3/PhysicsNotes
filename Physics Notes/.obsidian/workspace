@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/For Exam.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/For Exam.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 332
+    "width": 264
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do/For Exam.md",
+                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "To Do/For Exam.md",
-    "Exams/Math Methods/Exam Study Materials/Study Outline.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Green's Functions - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
     "Exams/Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+    "Exams/Math Methods/Exam Study Materials/Study Outline.md",
+    "To Do/For Exam.md",
     "To Do/Math Methods.md",
     "Math Methods/Linear Algebra/Triangle Inequality.md",
     "Math Methods/Linear Algebra/Linear Combination.md",
-    "Math Methods/Linear Algebra/Inverse Matrices.md",
-    "Math Methods/Linear Algebra/Hermitian.md",
-    "Math Methods/Linear Algebra/Euclidean Space.md",
-    "Math Methods/Linear Algebra/Eigenvectors.md"
+    "Math Methods/Linear Algebra/Inverse Matrices.md"
   ]
 }

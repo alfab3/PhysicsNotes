@@ -24,6 +24,7 @@
     "Nonhomogeneous",
     "diagonalizes",
     "Liouville",
-    "Sturm"
+    "Sturm",
+    "Neumann"
   ]
 }
