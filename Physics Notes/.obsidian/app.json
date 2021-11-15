@@ -21,6 +21,9 @@
     "dissipative",
     "Adjoint",
     "adjoint",
-    "Nonhomogeneous"
+    "Nonhomogeneous",
+    "diagonalizes",
+    "Liouville",
+    "Sturm"
   ]
 }

@@ -43,7 +43,7 @@ The first term vanishes becuase of the boundary conditions $\eta(x_1) = \eta(x_2
 
 Now we can easily see that: 
 
-$$\begin{align} \frac{\partial J}{\partial \alpha} = \int^{x_2}_{x_1} \left[\frac{\partial f}{\partial y} \eta(x) - \frac{d}{dx}\left(\frac{\partial f}{\partial y'}\right)\eta(x)\right] dx \\ = \int^{x_2}_{x_1}\left(\frac{\partial f}{\partial y}- \frac{d}{dx}\frac{\partial f}{\partial y'}\right) \eta(x) dx\end{align}$$
+$$\begin{gather} \frac{\partial J}{\partial \alpha} = \int^{x_2}_{x_1} \left[\frac{\partial f}{\partial y} \eta(x) - \frac{d}{dx}\left(\frac{\partial f}{\partial y'}\right)\eta(x)\right] dx \\ = \int^{x_2}_{x_1}\left(\frac{\partial f}{\partial y}- \frac{d}{dx}\frac{\partial f}{\partial y'}\right) \eta(x) dx\end{gather}$$
 
 The integral appears to be independent of $\alpha$. But the functions $y$ and $y'$ with respect to which the derivatives of $f$ are taken are still functions of $\alpha$. Because $(\partial f/\partial \alpha)|_{\alpha=0}$ must vanish for the extremum value and because $\eta(x)$ is an arbitrary function the integrand in must vanish for $\alpha = 0$:
 

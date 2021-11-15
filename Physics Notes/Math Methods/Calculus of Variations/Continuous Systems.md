@@ -12,12 +12,12 @@ $$
 L = \int \mathcal{L}d^dx
 $$
 and the integral is over the space coordinates. Now 
-$$
+$$\begin{gather}
 \delta S = \int \{\delta \phi(x) \frac{\partial \mathcal{L}}{\partial \phi (x)} + \delta(\phi_\mu(x)) \frac{\partial \mathcal{L}}{\partial \phi_\mu (x)} \}d^{d+1}x = 
-$$
-$$
+\end{gather}$$
+$$\begin{gather}
 \int \delta \phi(x) \{\frac{\partial \mathcal{L}}{\partial \phi (x)} -\frac{\partial}{\partial x^\mu} \frac{\partial \mathcal{L}}{\partial \phi_\mu (x)} \}d^{d+1}x
-$$
+\end{gather}$$
 In going from the first to the second, we observe that 
 $$
 \delta(\phi_\mu(x)) = \frac{\partial}{\partial x^\mu}

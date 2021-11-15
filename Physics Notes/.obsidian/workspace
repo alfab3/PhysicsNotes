@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+            "file": "To Do/For Exam.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+            "file": "To Do/For Exam.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "differential operator",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+                "file": "To Do/For Exam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Math Methods/Exam Study Materials/Math Methods One Sheet.md",
-    "Math Methods/Exam Study Materials/Study Outline.md",
-    "Math Methods/Complex Analysis/Complex Analysis.md",
-    "Math Methods/Complex Analysis/Contour Integration Algorithm.md",
-    "Math Methods/Complex Analysis/Contour Integration.md",
-    "Math Methods/Complex Analysis/Laurent Series.md",
-    "Lab Study Guide.md",
-    "Table of Contents.md",
-    "Math Methods/Calculus of Variations/Functional.md",
-    "Physical Quantities/Absolute Temperature.md"
+    "To Do/For Exam.md",
+    "Exams/Math Methods/Exam Study Materials/Study Outline.md",
+    "Exams/Math Methods/Exam Study Materials/Math Methods One Sheet.md",
+    "To Do/Math Methods.md",
+    "Math Methods/Linear Algebra/Triangle Inequality.md",
+    "Math Methods/Linear Algebra/Linear Combination.md",
+    "Math Methods/Linear Algebra/Inverse Matrices.md",
+    "Math Methods/Linear Algebra/Hermitian.md",
+    "Math Methods/Linear Algebra/Euclidean Space.md",
+    "Math Methods/Linear Algebra/Eigenvectors.md"
   ]
 }

@@ -9,5 +9,5 @@ $$\begin{align}
 \end{align}$$
 then 
 $$\begin{align}
-\bar{C[a,b]} = L^2[a,b]
+\overline{C[a,b]} = L^2[a,b]
 \end{align}$$

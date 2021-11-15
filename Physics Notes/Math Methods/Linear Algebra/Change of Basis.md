@@ -1,6 +1,6 @@
 In linear algebra we think of coordinates as something that scales a vector in our case this would be the basis vectors. There are some implicit assumptions using these two basis vectors:
 1) The First Coordinate indicates rightward motion
-2) tem The second coordinate indicates upward motion
+2) The second coordinate indicates upward motion
 3) Unit of distance
 What if we used different basis vectors? For example, what if we used the set of [[Basis Vectors]]: $\vec{b_1}$ and $\vec{b_2}$. In the original basis if we had a vector say: 
 $$\begin{align}

@@ -11,6 +11,6 @@ $$\begin{align} V = \frac{1}{2} \cdot 2w \cdot w \tan \theta = w^2l\tan\theta \\
 Since V is given only two of the three variables $w, l, \text{and} \; \theta$ are independent and we must eliminate one of them from $A$ before we try to minimize $A$. Solving the $V$ equation for $l$ and substituting into $A$ we get $$\begin{align}A = 2w^2\tan\theta + \frac{2w}{\cos\theta}\frac{V}{w^2\tan\theta} = 2w^2\tan\theta+\frac{2V}{w}\csc\theta\end{align}$$
 
 We now have $A$ as a function of two independent variables $w$ and $\theta$. To minimize $A$ we find $\partial A/\partial w$ and $\partial A/\partial \theta$ and set them equal to zero.
-$$\begin{align}\frac{\partial A}{\partial w} = 4w\tan\theta-\frac{2V \csc \theta}{w^2} = 0\\ \frac{\partial A}{\partial \theta} = 2w^2\sec^2\theta-\frac{2V}{w}\csc\theta\cot\theta = 0\end{align}$$
+$$\begin{gather}\frac{\partial A}{\partial w} = 4w\tan\theta-\frac{2V \csc \theta}{w^2} = 0\\ \frac{\partial A}{\partial \theta} = 2w^2\sec^2\theta-\frac{2V}{w}\csc\theta\cot\theta = 0\end{gather}$$
 
 Solving each of these equations for $w^3$ and setting the results equal we get $$\begin{align} w^3 = \frac{V\csc\theta}{2\tan\theta} = \frac{V\csc\theta\cot\theta}{\sec^2\theta}\;\;\; \text{or}\;\;\; \frac{\cos\theta}{2sin^2\theta} = \frac{\cos\theta \cos^2\theta}{sin^2\theta}\end{align}$$
