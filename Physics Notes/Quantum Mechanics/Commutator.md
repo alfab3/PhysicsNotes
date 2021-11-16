@@ -1,1 +1,1 @@
-Given to linear operators. $L_1, L_2$ the commutator is the operator $[L_1, L_2] \equiv L_1 L_2 - L_2 L_1$ and $L_1 and L_2$ are said to commute if $[L_1, L_2] = 0$
+Given to linear operators. $L_1, L_2$ the commutator is the operator $[L_1, L_2] \equiv L_1 L_2 - L_2 L_1$ and $L_1\; \text{and} \; L_2$ are said to commute if $[L_1, L_2] = 0$

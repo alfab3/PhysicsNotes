@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
             "mode": "source"
           }
         },
-        "group": "7d9ffc59ca2c334a"
+        "group": "b85d3db5145c4bc8"
       },
       {
-        "id": "d9fe6b04c8ad3de9",
+        "id": "9f471ac9f3d419f6",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
             "mode": "preview"
           }
         },
-        "group": "7d9ffc59ca2c334a"
+        "group": "b85d3db5145c4bc8"
       }
     ],
     "direction": "vertical"
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264
+    "width": 368
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Green's Functions - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
     "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Math Methods One Sheet.md",
-    "Exams/Math Methods/Exam Study Materials/Study Outline.md",
-    "To Do/For Exam.md",
-    "To Do/Math Methods.md",
-    "Math Methods/Linear Algebra/Triangle Inequality.md",
-    "Math Methods/Linear Algebra/Linear Combination.md",
-    "Math Methods/Linear Algebra/Inverse Matrices.md"
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Fourier Transform - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/LDO Examples.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Laurent Series - Algorithm.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Integration by Parts Technique.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md"
   ]
 }

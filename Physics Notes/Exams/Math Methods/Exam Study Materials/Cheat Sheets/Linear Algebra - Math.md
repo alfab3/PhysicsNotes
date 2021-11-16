@@ -45,14 +45,3 @@ Define
 Then 
 >$$\begin{align}\text{min  err}[b_1 - b_k] = ||\sum^N_{j = k+1} a_j \vec v_j\ ||\end{align}$$
 
-## Delta Functions
-
-The identity operator in $\infty$-dim space is the Dirac-delta "function"
-
->$$\begin{gather}I\{f(x)\} = \int^b_a \delta(x-y) f(y)dy = f(x) \end{gather}$$
-
-Derivative of the Delta Function: $\frac{d}{dx}\delta(x)$ 
->$$\begin{gather} \int^b_a\left[\frac{d}{dx} \delta(x-y) \right]f(y) dy = -\int^b_a f(y) \frac{d}{dy}\delta(x-y) = -\delta(x-y)f(y)\Bigg|^b_a + \int^b_a f'(y) \delta(x - y) \\ = f'(x)\end{gather}$$
-
-Explanation of the first step:
->$$\begin{gather} \frac{d}{dx}\delta(x-y) = \frac{d}{d(x-y)}\delta(x-y)\frac{d(x-y)}{dx} = \delta'(x-y) \\ \frac{d}{dy}\delta(x-y) = \frac{d}{d(x-y)}\delta(x-y)\frac{d(x-y)}{dx} = -\delta'(x-y) \\ \frac{d}{dx}\delta(x-y) = -\frac{d}{dy}\delta(x-y)90\end{gather}$$

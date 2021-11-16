@@ -25,6 +25,7 @@
     "diagonalizes",
     "Liouville",
     "Sturm",
-    "Neumann"
+    "Neumann",
+    "curvilinear"
   ]
 }
