@@ -45,3 +45,18 @@ Define
 Then 
 >$$\begin{align}\text{min  err}[b_1 - b_k] = ||\sum^N_{j = k+1} a_j \vec v_j\ ||\end{align}$$
 
+
+### Parallelogram Law Proof
+
+Defined as:
+>$$\begin{gather} ||f+g||^2 + ||f-g||^2 = 2||f||^2 + 2||g||^2 \end{gather}$$
+
+Proof:
+
+>$$\begin{gather} ||f+g||^2 = \braket{f+g,f+g} \\ =\braket{f,f}+ \braket{f,g}+ \braket{g,f} + \braket{g,g}\\ = ||f||^2+||g||^2 +\braket{f,g} + \braket{g,f} \\ ||f-g||^2 = \braket{f-g,f-g} \\ =\braket{f,f}+ \braket{f,g}+ \braket{g,f} + \braket{g,g}\\ = ||f||^2+||g||^2 -\braket{f,g} - \braket{g,f} \\ = 2||f||^2 + 2||g||^2 \end{gather}$$
+
+### Triangle Inequality Proof
+
+Defined as: 
+
+$$\begin{gather} ||x + y|| \leq ||x|| + ||y|| \end{gather}$$

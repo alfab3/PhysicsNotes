@@ -9,23 +9,10 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
-            "mode": "source"
-          }
-        },
-        "group": "b85d3db5145c4bc8"
-      },
-      {
-        "id": "9f471ac9f3d419f6",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
             "mode": "preview"
           }
-        },
-        "group": "b85d3db5145c4bc8"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
+                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +88,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Fourier Transform - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
     "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/LDO Examples.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Laurent Series - Algorithm.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
     "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Integration by Parts Technique.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md"
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Fourier Transform - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Laurent Series - Algorithm.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/LDO Examples.md"
   ]
 }
