@@ -6,13 +6,28 @@
       {
         "id": "4723a903f478a6f8",
         "type": "leaf",
+        "dimension": 49.484052532833026,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+            "mode": "source"
+          }
+        },
+        "group": "c8f1225d8a4eb5e6"
+      },
+      {
+        "id": "a0c9f6682b23f63d",
+        "type": "leaf",
+        "dimension": 50.515947467166974,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "c8f1225d8a4eb5e6"
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dirac ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -68,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
+                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +103,15 @@
   },
   "active": "4723a903f478a6f8",
   "lastOpenFiles": [
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Integration by Parts Technique.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Fourier Transform - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md",
     "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Differential Operators - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Dirac Delta Function and Derivatives.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Fourier Transform - Math.md",
     "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Laurent Series - Algorithm.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/LDO Examples.md"
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/LDO Examples.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
+    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/PDEs and Greens Functions.md",
+    "Quantum Mechanics/Commutator.md"
   ]
 }

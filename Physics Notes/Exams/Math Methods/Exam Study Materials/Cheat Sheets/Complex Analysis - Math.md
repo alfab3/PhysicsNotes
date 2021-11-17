@@ -45,6 +45,3 @@ If we have some holomorphic function $f(z)$ on the upper half plane. Consider a 
 The contour over $C_1$ vanishes leaving: 
 > $$\begin{gather}\int^\infty_{-\infty} f(x)dx = 2\pi i\sum^n_{k=1} \text{Res}(f,z_k) \end{gather}$$
 
-## 1.8) Principal Value Theorem
-
-For an integral that diverges, we redefine the integral as a sum of two integrals, with one approaching from the left to the point, then from the point to the right.

@@ -26,6 +26,8 @@
     "Liouville",
     "Sturm",
     "Neumann",
-    "curvilinear"
-  ]
+    "curvilinear",
+    "integrand"
+  ],
+  "alwaysUpdateLinks": true
 }
