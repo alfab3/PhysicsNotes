@@ -95,7 +95,7 @@ Where the contour is a semi-circle, with holes cut out at both points on real ax
 
 Step 3: Construct the Integral
 
-$$\begin{gather} P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)} = \oint_\Gamma \frac{dz}{z(z^3+1)} = \int^{-1-\delta}_{-R}\frac{dx}{x(x^3+1)} + \int^{0}_{\pi}\frac{i\delta e^{i\theta} d\theta}{(-1+\delta e^{i\theta})[({-1+\delta e^{i\theta})^3}+1]} + \int_{-1+\delta}^\epsilon\frac{dx}{x(x^3+1)} \\ + \int^{0}_{\pi}\frac{i\epsilon e^{i\theta} d\theta}{\epsilon e^{i\theta}({\epsilon e^{3i\theta}}+1)} + \int_{\epsilon}^{R}\frac{dx}{x(x^3+1)} +\int^{\pi}_{0}\frac{iR e^{i\theta} d\theta}{R e^{i\theta}({R e^{3i\theta}}+1)} \end{gather}$$
+$$\begin{gather} P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)} = \oint_\Gamma \frac{dz}{z(z^3+1)} = \\ \int^{-1-\delta}_{-R}\frac{dx}{x(x^3+1)} + \int^{0}_{\pi}\frac{i\delta e^{i\theta} d\theta}{(-1+\delta e^{i\theta})[({-1+\delta e^{i\theta})^3}+1]} + \int_{-1+\delta}^\epsilon\frac{dx}{x(x^3+1)} \\ + \int^{0}_{\pi}\frac{i\epsilon e^{i\theta} d\theta}{\epsilon e^{i\theta}({\epsilon e^{3i\theta}}+1)} + \int_{\epsilon}^{R}\frac{dx}{x(x^3+1)} +\int^{\pi}_{0}\frac{iR e^{i\theta} d\theta}{R e^{i\theta}({R e^{3i\theta}}+1)} \end{gather}$$
 
 Step 4: Evaluate Angular Integrals
 
@@ -104,15 +104,15 @@ Let us begin with the semi-circle of radius $R$
 
 Now for the semi-circle of radius $\delta$
 
-$$\begin{gather} \lim_{\delta \to\infty}\int^{0}_{\pi}\frac{i\delta e^{i\theta} d\theta}{(-1+\delta e^{i\theta})[({-1+\delta e^{i\theta})^3}+1]} \end{gather}$$
+>$$\begin{gather} \lim_{\delta \to\infty}\int^{0}_{\pi}\frac{i\delta e^{i\theta} d\theta}{(-1+\delta e^{i\theta})[({-1+\delta e^{i\theta})^3}+1]} \end{gather}$$
 
 I am too lazy to write this out, using L'Hopital's rule we get:
 
 $$\begin{gather}\frac{\pi i}{3} \end{gather}$$
 
 Lastly for the semi-circle of radius $\epsilon$
-$$\begin{gather} \int^{0}_{\pi}\frac{i\epsilon e^{i\theta} d\theta}{\epsilon e^{i\theta}({\epsilon e^{3i\theta}}+1)} = -i\pi f(0) = -i\pi\end{gather}$$
+>$$\begin{gather} \int^{0}_{\pi}\frac{i\epsilon e^{i\theta} d\theta}{\epsilon e^{i\theta}({\epsilon e^{3i\theta}}+1)} = -i\pi f(0) = -i\pi\end{gather}$$
 
 Step 4: Evaluate Integrals along the real line:
 
-$$\begin{gather} \int^{-1-\delta}_{-R}\frac{dx}{x(x^3+1)} +  \int_{-1+\delta}^\epsilon\frac{dx}{x(x^3+1)} + \int_{\epsilon}^{R}\frac{dx}{x(x^3+1)} = P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)} \\ P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)}  = \frac{2\pi i }{e^{i\pi/3}} \text{Res}\left[\frac{1}{z^3+1},e^{i\pi/3}\right]+i\pi-i\pi/3\\ = 2\pi ie^{-i\pi/3}\lim_{z\to e^{i\pi/3}}\left[\frac{z-e^{i\pi/3}}{z^3+1}\right] + \frac{2i\pi}{3} \\ = -\frac{2i\pi}{3} + \frac{2i\pi}{3} = 0 \end{gather}$$
+>$$\begin{gather} \int^{-1-\delta}_{-R}\frac{dx}{x(x^3+1)} +  \int_{-1+\delta}^\epsilon\frac{dx}{x(x^3+1)} + \int_{\epsilon}^{R}\frac{dx}{x(x^3+1)} = P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)} \\ P\int^\infty_{-\infty} \frac{dx}{x(x^3+1)}  = \frac{2\pi i }{e^{i\pi/3}} \text{Res}\left[\frac{1}{z^3+1},e^{i\pi/3}\right]+i\pi-i\pi/3\\ = 2\pi ie^{-i\pi/3}\lim_{z\to e^{i\pi/3}}\left[\frac{z-e^{i\pi/3}}{z^3+1}\right] + \frac{2i\pi}{3} \\ = -\frac{2i\pi}{3} + \frac{2i\pi}{3} = 0 \end{gather}$$

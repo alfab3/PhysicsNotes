@@ -60,3 +60,17 @@ Proof:
 Defined as: 
 
 $$\begin{gather} ||x + y|| \leq ||x|| + ||y|| \end{gather}$$
+
+Proof:
+Assume two real valued vectors $x$ and $y$:
+
+$$\begin{gather} -|x| \leq x \leq |x| \\  -|y| \leq y \leq |y|\\ \end{gather}$$
+
+Add the two equations together:
+
+$$\begin{gather} -|x| + -|y| \leq x + y \leq |x| + |y|\end{gather}$$
+
+Using the properties of inequalities: $|b| \leq a \leftrightarrow -a \leq b \leq a$
+
+We can rewrite the form:
+$$\begin{gather} |x + y| \leq |x| + |y| \end{gather}$$

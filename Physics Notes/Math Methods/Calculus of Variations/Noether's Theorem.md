@@ -9,7 +9,7 @@ $$
 are examples of conservation laws. We obtained them both by manipulating the Euler-Lagrange equations of motion, but also indicated that they were in some way connected with symmetries. One of the chief advantages of a variational formulation of a physical problem is that this connection can be made explicity by exploting a strategy due to Emmy Noether. She showed how to proceed directly from the action integral to the conserved quantity without having to fiddle about with the individual equations of motion. We begin by illustrating her technique in the case of angular momentum, whose conservation is a consequence the rotational symmetry of the central force problem. The action integral for the central force problem is
 
 $$
-S = \int^T_0 \{\frac{1}{2}m(\dot{r}^2+r^2\dot{\theta}^2-V(r)\}dt
+S = \int^T_0 \left\{\frac{1}{2}m(\dot{r}^2+r^2\dot{\theta}^2-V(r)\right\}dt
 $$
 
 Noether observes that the integrand is left unchanged if we make the variation 
@@ -46,6 +46,6 @@ S = \int^T_0Ldt
 $$
 and find 
 $$
-\delta S = \int^T_0\{\frac{\partial L}{\partial q}\dot{q}\epsilon + \frac{\partial L}{\partial \dot{q}}(\ddot{q}\epsilon + \dot{q} \dot{\epsilon})\}dt
+\delta S = \int^T_0\left\{\frac{\partial L}{\partial q}\dot{q}\epsilon + \frac{\partial L}{\partial \dot{q}}(\ddot{q}\epsilon + \dot{q} \dot{\epsilon})\right\}dt
 $$
-This expressopm contains undotted $\epsilon$'s
+This expression contains undotted $\epsilon$'s

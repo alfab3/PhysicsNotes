@@ -28,6 +28,6 @@ $$
 $$
 The result is that 
 $$
-\frac{\delta S}{\delta \phi(x)} = \frac{\partial \mathcal{L}}{\partial\phi(x)} - \frac{\partial}{\partial x^\mu}(\frac{\partial \mathcal{L}}{\partial \phi_\mu}(x))
+\frac{\delta S}{\delta \phi(x)} = \frac{\partial \mathcal{L}}{\partial\phi(x)} - \frac{\partial}{\partial x^\mu}\left(\frac{\partial \mathcal{L}}{\partial \phi_\mu}(x)\right)
 $$
 and the equation of motion comes from setting this to zero. 
