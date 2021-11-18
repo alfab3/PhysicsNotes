@@ -24,6 +24,9 @@ Hence:
 
 Where $m$ is the order of the pole
 
+
+## Euler's Identity
+$$\begin{gather} e^{i\pi} + 1 = 0\end{gather}$$
 ## 1.5) Residue Theorem
 >$$\begin{align} \oint_\Gamma f(z)dz = 2\pi i \sum_{z_0} \text{Res}[f,z_0] \end{align}$$
 

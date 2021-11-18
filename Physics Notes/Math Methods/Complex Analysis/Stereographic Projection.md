@@ -2,9 +2,9 @@ The $x$, $y$ plane only allows the real variable to tend to either plus or minus
 In the complex plane there is an infinite number of directions that can tend to infinity. Our Riemann sphere: 
 On the sphere ($S$) the coordinates are 
 $$\begin{align}
-    \Psi_1 = sin\theta cos\phi\\
-    \Psi_2 = sin\theta sin\phi\\
-    \Psi_3 = cos\theta
+    \Psi_1 = \sin\theta \cos\phi\\
+    \Psi_2 = \sin\theta \sin\phi\\
+    \Psi_3 = \cos\theta
 \end{align}$$
 Mapping the complex plane to the surface of the sphere, every point that exists on the complex plane there exists a point on the sphere. All points within the unit circle are mapped from the southern hemisphere. The south pole is mapped to the origin.
 From here we can construct:

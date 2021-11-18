@@ -56,6 +56,8 @@ The contour integral now separates into integrals for each segment:
 Residue Theorem
 Jordan's Lemma
 
+
+
 ##  Principal Value Theorem
 
 The Cauchy Principle Value of an integral of the form:

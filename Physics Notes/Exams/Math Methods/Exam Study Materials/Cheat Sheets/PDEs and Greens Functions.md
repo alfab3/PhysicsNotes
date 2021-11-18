@@ -8,7 +8,7 @@
 
 #### Definition: Gaussian Integral Trick
 
-$$\begin{gather} \int^{\infty}_{-\infty} dke^{-ak^2+bk}=\int dke^{-a(k+\frac{b}{2a})^2+\frac{b^2}{4a}} \\ \tilde k = \sqrt{a}\left(k+\frac{b}{2a}\right) \\ \Rightarrow \end{gather}$$
+>$$\begin{gather} \int^{\infty}_{-\infty} dke^{-ak^2+bk}=\int dke^{-a(k+\frac{b}{2a})^2+\frac{b^2}{4a}} \\ \tilde k = \sqrt{a}\left(k+\frac{b}{2a}\right) \\ \Rightarrow e^{b^2/4a}\frac{\sqrt{\pi}}{\sqrt{a}}\end{gather}$$
 
 
 #### Example: Wave Equation
