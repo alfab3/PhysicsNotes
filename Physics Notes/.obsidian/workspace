@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
+                "file": "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "a0c9f6682b23f63d",
   "lastOpenFiles": [
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Complex Analysis - Math.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Examples.md",
-    "Math Methods/Complex Analysis/Derivative of Analytic Functions.md",
-    "Math Methods/Complex Analysis/Laurent Series.md",
-    "Math Methods/Complex Analysis/Holomorphic Function.md",
-    "Math Methods/Complex Analysis/Euler Formula.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Contour Integration - Algorithm.md",
-    "To Do/Math Methods.md",
-    "To Do/For Exam.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md"
+    "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function.md",
+    "[Second Order Linear ODEs.md",
+    "Math Methods/Partial Differential Equations/Conservation equations.md",
+    "Math Methods/Partial Differential Equations/Helmholtz Equation.md",
+    "Math Methods/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
+    "Math Methods/Partial Differential Equations/Partial Differential Equation.md",
+    "Math Methods/Partial Differential Equations/Wave Equation.md",
+    "Math Methods/Partial Differential Equations/Application of Partial Differentiation to Maximum and Minimum.md",
+    "Math Methods/Partial Differential Equations/2nd Order Linear PDEs.md",
+    "Math Methods/Partial Differential Equations/Charactersitc for quasi-linear PDE.md"
   ]
 }

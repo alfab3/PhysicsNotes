@@ -1,0 +1,4 @@
+In [[Lagrangian Mechanics]] the time evolution of the system with $N$ degrees of freedom is described by the system of $N$ [[Second Order Linear ODEs]] (the [[Euler-Lagrange Equation]]s) for $N$ [[Generalized Coordinates]] $\{q_j\}$. Mathematically speaking, such a problem is equivalent to a system of $2N$ first-order ordinary differential equations. The simplest way to produce such a system is to introduce $N$ new variables trivially associated with time derivatives of the generalized coordinates:
+$$\begin{gather} v_j = \dot q_j\end{gather}$$
+
+The substitutions $\dot q_j \to v_j$ and $\ddot q_j \to \dot v_j$ then convert the Euler-Lagrange equations into first-order differential equations with repect to the variables $\{q_j,v_j\}$

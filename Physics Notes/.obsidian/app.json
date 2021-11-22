@@ -27,7 +27,8 @@
     "Sturm",
     "Neumann",
     "curvilinear",
-    "integrand"
+    "integrand",
+    "PDEs"
   ],
   "alwaysUpdateLinks": true
 }
