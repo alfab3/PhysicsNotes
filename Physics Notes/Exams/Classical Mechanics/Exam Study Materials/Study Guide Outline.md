@@ -72,7 +72,7 @@ Lagrange Formalism
 	1) [[Variable Length Plane Pendulum]]
 5) Symmetries and Conservation Laws
 	1) Linear Momentum
-		1) [[Linear Momentum]]
+		1) [[Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Linear Momentum]]
 	2) Angular Momentum
 		1) [[Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Angular Momentum]]
 	3) Galilean Invariance

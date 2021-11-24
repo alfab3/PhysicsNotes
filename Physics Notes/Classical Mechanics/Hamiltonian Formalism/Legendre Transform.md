@@ -1,0 +1,1 @@
+In physical problems it is used to convert functions of one quantity into functions of the conjugate quantity ([[Conjugate Variables]]). In this way it is commonly used in classical mechanics to derive the Hamiltonian Formalism out of the Lagrange Formalism (or vice versa).

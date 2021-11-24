@@ -5,7 +5,7 @@
     "margin": "0",
     "downscalePercent": 100
   },
-  "promptDelete": false,
+  "promptDelete": true,
   "spellcheck": true,
   "spellcheckDictionary": [
     "orthonormal",
@@ -28,7 +28,12 @@
     "Neumann",
     "curvilinear",
     "integrand",
-    "PDEs"
+    "PDEs",
+    "observables",
+    "multivariable",
+    "th",
+    "equilibrate",
+    "vanishingly"
   ],
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": false
 }
