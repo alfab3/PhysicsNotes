@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
+                "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "a0c9f6682b23f63d",
   "lastOpenFiles": [
-    "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
-    "Classical Mechanics/Hamiltonian Formalism/Liouville's Equation and Theorem.md",
+    "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
     "Classical Mechanics/Hamiltonian Formalism/Statistical Ensemble.md",
-    "Classical Mechanics/Hamiltonian Formalism/Phase Space.md",
-    "Classical Mechanics/Hamiltonian Formalism/Poisson Brackets.md",
+    "Classical Mechanics/Hamiltonian Formalism/Equivalence of Hamiltonian and Lagrangian Formalisms.md",
     "Classical Mechanics/Hamiltonian Formalism/Example - Single Particle in an External Porential (Hamiltonian).md",
-    "Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Linear Momentum.md",
-    "Classical Mechanics/Motion/Linear Momentum.md",
+    "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
+    "Classical Mechanics/How to Solve for Constants of Motion.md",
     "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function and Hamilton's Equations.md",
-    "[Second Order Linear ODEs.md"
+    "Classical Mechanics/Conservation Laws/Energy.md",
+    "Classical Mechanics/Conservation Laws/Angular Momentum.md",
+    "Classical Mechanics/Motion/Linear Momentum.md"
   ]
 }

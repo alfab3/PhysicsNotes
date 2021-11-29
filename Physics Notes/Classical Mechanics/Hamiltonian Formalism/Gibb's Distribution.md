@@ -28,3 +28,9 @@ This definition implies that we use energy units for temperature, which is most 
 $$\begin{gather} k_BT = 1/\beta \end{gather}$$
 
 where the coefficient $k_B$ is called the Boltzmann constant. There is absolutely no physics associated with $k_B$. 
+
+There are very important cases when the energy is not the only additive conserved quantity. Simple examples are total momentum and total angular momentum. Whenever the total momentum or total angular momentum has a non zero value - when the system moves or rotates, these additive conserved quantities become a part of the Gibbs distribution. Now the Hamiltonian in the Gibb's distribution should be replaced by a modified Hamiltonian $H'$ containing a sum of all the additive conserved quantities $I_i$ with certain coefficients $\lambda_i$
+
+$$\begin{gather} W(\{q,p\}) \propto e^{-\beta H'} \;\;\; H' = H - \sum_i\lambda_i I_i \end{gather}$$
+
+Along with temperature coefficients $\lambda_i$ play the role of thermodynamic parameters of the equilibrium state of the system. There are extreme cases of so-called integrable systems when there are infinitely many additive conserved quantities, so that Gibbs distribution is radically different from our above defined Gibb's distribution.
