@@ -1,4 +1,4 @@
-Let $L$ be a linear operator on $V$, $L:V \rightarrow V$. We define the adjoint $L^\dagger$ as a nother linear operator $L^\dagger:V \rightarrow V$ defined as $$L^\dagger \ket{v} = (\bra{v}L)^\dagger$$ 
+Let $L$ be a [[Linear Differential Operator]] on $V$, $L:V \rightarrow V$. We define the adjoint $L^\dagger$ as another linear operator $L^\dagger:V \rightarrow V$ defined as $$L^\dagger \ket{v} = (\bra{v}L)^\dagger$$ 
 
 So $L^\dagger$ is really an operator $V^* \rightarrow V^*$.
 

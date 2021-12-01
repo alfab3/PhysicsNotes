@@ -6,19 +6,19 @@ $$\begin{equation}
 Orthonormal basis sets are the convention but they are NOT required by any means. As long as a basis set is linearly independent and spans the space you have a basis set. The number of vectors in the basis set in our linear vector space is called the dimensionality of the space. For example in 3D euclidean space you need 3 linearly independent [[Basis Vectors]] that [[Span]] the space. The dimension of $V$ is the number of vectors in a basis set. If there is no finite basis set then the Linear Vector Space is infinitely dimensional. $\mathbb{R}^2$ has a finite basis set because any vector can be described as a [[Linear Combination]] of the two [[Basis Vectors]].
 
 Let's look at $\mathbb{R}^n$ and try to make it infinite. If we have:
-$$\mathbb{R}^n =
+$$\begin{gather}\mathbb{R}^n =
 \begin{bmatrix}
         x_1\\
         x_2\\
 		\vdots\\
 		x_n
 \end{bmatrix}
-=\ket{\phi}$$
+=\ket{\phi}\end{gather}$$
 
-$$\braket{\phi | \phi} = ||\phi||^2 = \sum_{i=1}^n |x_i|^2$$
+$$\begin{gather}\braket{\phi | \phi} = ||\phi||^2 = \sum_{i=1}^n |x_i|^2\end{gather}$$
 
 It is not clear that this will converge when $n$ goes to infinity. So we have to put in a condition that the [[Vectors]] have finite length. 
-$$\sum^\infty_{i=1} |x_i|^2 < \infty $$ So with this confition we can now work with infinite dimensions. This space has a special name, the Linear Vector Space of square-summable sequences, and it is denoted by $l_2$. For example $$x_r = \frac{1}{r^\epsilon}$$ is in $l_2$ as long as $\epsilon > \frac{1}{2}$. 
+$$\sum^\infty_{i=1} |x_i|^2 < \infty $$ So with this condition we can now work with infinite dimensions. This space has a special name, the Linear Vector Space of square-summable sequences, and it is denoted by $l_2$. For example $$x_r = \frac{1}{r^\epsilon}$$ is in $l_2$ as long as $\epsilon > \frac{1}{2}$. 
 
 What is the advantage of writing a basis?
 

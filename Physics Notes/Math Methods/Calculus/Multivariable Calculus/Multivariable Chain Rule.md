@@ -1,0 +1,3 @@
+Suppose $x = g(u,v)$ and $y = h(u,v)$ are differentiable ([[Derivative]]) functions of $u$ and $v$, and $z = f(x,y)$ is a differentiable function of $x$ and $y$. Then $z = f(g(u,v),h(u,v))$ is a differentiable function of $u$ and $v$ then:
+
+$$\begin{gather} \frac{\partial z}{\partial u} = \frac{\partial z}{\partial x}\frac{\partial x}{\partial u} + \frac{\partial z}{\partial y}\frac{\partial y}{\partial u} \\ \frac{\partial z}{\partial v} = \frac{\partial z}{\partial x}\frac{\partial x}{\partial v} + \frac{\partial z}{\partial y}\frac{\partial y}{\partial v}\end{gather}$$

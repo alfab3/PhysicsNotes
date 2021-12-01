@@ -10,4 +10,4 @@ The condition for $y(x)$ to be a stationary point is usually called the Euler-La
 
 If the function $f$ depends on higher derivatives, $y'', y^{(3)}$, etc., then we have to integrate by parts more times and we end up with 
 
-$$0 = \frac{\delta J}{\delta y(x)} = \frac{\partial f}{\partial y} - \frac{d}{dx}(\frac{\partial f}{\partial y'}) + \frac{d^2}{dx^2}(\frac{\partial f}{\partial y''}) - \frac{d}{dx^3}(\frac{\partial f}{\partial y^{(3)}})$$
+$$\begin{gather}0 = \frac{\delta J}{\delta y(x)} = \frac{\partial f}{\partial y} - \frac{d}{dx}\frac{\partial f}{\partial y'} + \frac{d^2}{dx^2}\frac{\partial f}{\partial y''} - \frac{d}{dx^3}\frac{\partial f}{\partial y^{(3)}}\end{gather}$$

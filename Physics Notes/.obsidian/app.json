@@ -37,7 +37,12 @@
     "integrable",
     "Lagrangians",
     "Hamiltonians",
-    "frictionless"
+    "frictionless",
+    "nonhomogeneous",
+    "Fredholm",
+    "invertability",
+    "invertible",
+    "Ker"
   ],
   "alwaysUpdateLinks": false
 }

@@ -1,4 +1,4 @@
-For a resistance-inductance circuit Kirchoff's law leads to 
+For a resistance-inductance circuit [[Kirchoff's Laws]] leads to 
 $$
 L\frac{dI(t)}{dt}+RI(t)=V(t)
 $$

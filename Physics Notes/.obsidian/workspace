@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
+            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
+            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
+                "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Electricity and Magnetism/Method of Images.md",
-    "Math Methods/Electrostatics/Conductors.md",
-    "Math Methods/Electrostatics/Solutions of Laplace Equation.md",
-    "Math Methods/Partial Differential Equations/Wave Equation 2nd Order.md",
-    "Math Methods/Partial Differential Equations/Wave Equation.md",
-    "Math Methods/Partial Differential Equations/Characteristic Curves.md",
-    "Math Methods/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
-    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md"
+    "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+    "Math Methods/Linear Algebra/Kernel.md",
+    "Math Methods/Green's Functions/Scaling Analysis.md",
+    "Math Methods/Green's Functions/One Dimensional Problems.md",
+    "Math Methods/Green's Functions/Green's Theorem in a Plane.md",
+    "Math Methods/Calculus/Dirac Delta Function/Properties of Delta Function.md",
+    "Math Methods/Calculus/Dirac Delta Function/Distributions Calculus.md",
+    "Math Methods/Calculus/Dirac Delta Function/Dirac Delta Function.md",
+    "Math Methods/Calculus/Differential Calculus/Derivative.md",
+    "Math Methods/Calculus/Multivariable Calculus/Multivariable Chain Rule.md"
   ]
 }

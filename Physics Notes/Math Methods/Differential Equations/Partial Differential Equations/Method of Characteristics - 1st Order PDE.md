@@ -14,6 +14,8 @@ Which can be directly integrated to yield:
 $$\begin{gather} x_c(s) = x_0 + \int^S_{S'=0} a(x_c(s'),t_c(s'))ds' \\ y_c(s) = y_0 + \int^S_{S'=0} b(x_c(s'),t_c(s'))ds'\end{gather}$$
 Families of characteristics are labeled by a parameter $c = (x_0,y_0)$, where $(x_0,y_0)$ could be any point a long a characteristic. 
 
+![[characteristic curves 1.png]]
+
 Characteristics are generally not parallel. Nevertheless, they don't intersect. This property follows from the linear nature of the PDE.
 
 If the coefficients are constants then the characteristics are straight parallel lines of the form: $$\begin{gather}t_c(x) = t_0 + \frac{a}{b}x\end{gather}$$ alternatively:
