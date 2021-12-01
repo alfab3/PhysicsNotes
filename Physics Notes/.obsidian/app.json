@@ -42,7 +42,8 @@
     "Fredholm",
     "invertability",
     "invertible",
-    "Ker"
+    "Ker",
+    "rescale"
   ],
   "alwaysUpdateLinks": false
 }

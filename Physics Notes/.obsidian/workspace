@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Generalized Harmonic Oscillator.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+            "file": "Classical Mechanics/Hamiltonian Formalism/Generalized Harmonic Oscillator.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+                "file": "Classical Mechanics/Hamiltonian Formalism/Generalized Harmonic Oscillator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Classical Mechanics/Hamiltonian Formalism/Generalized Harmonic Oscillator.md",
+    "Classical Mechanics/Hamiltonian Formalism/U(1) Symmetry.md",
+    "Classical Mechanics/Hamiltonian Formalism/Conjugate Variables.md",
+    "Classical Mechanics/Hamiltonian Formalism/Complex Canonical Variables.md",
+    "Classical Mechanics/Hamiltonian Formalism/Relation to the Schrodinger Equation.md",
+    "Quantum Mechanics/Schrodinger Equation.md",
     "Math Methods/Green's Functions/Nonhomogeneous problems.md",
     "Math Methods/Linear Algebra/Kernel.md",
     "Math Methods/Green's Functions/Scaling Analysis.md",
-    "Math Methods/Green's Functions/One Dimensional Problems.md",
-    "Math Methods/Green's Functions/Green's Theorem in a Plane.md",
-    "Math Methods/Calculus/Dirac Delta Function/Properties of Delta Function.md",
-    "Math Methods/Calculus/Dirac Delta Function/Distributions Calculus.md",
-    "Math Methods/Calculus/Dirac Delta Function/Dirac Delta Function.md",
-    "Math Methods/Calculus/Differential Calculus/Derivative.md",
-    "Math Methods/Calculus/Multivariable Calculus/Multivariable Chain Rule.md"
+    "Math Methods/Green's Functions/One Dimensional Problems.md"
   ]
 }

@@ -21,4 +21,8 @@ Going from a complex canonical variable $a_j$ to a canonical pair $(q_j,p_j)$ is
 $$\begin{gather} a^*_j = \alpha^* q_j - i\beta^* p_j \end{gather}$$
 
 Using the combination of this new form and the conjugate we get:
-$$\begin{gather} q_j = \beta a_j^*+\beta^*a_j \\ p_j = i(\alpha a_j^*-\alpha^*a_j)\end{gather}$$
+$$\begin{gather} q_j = \lambda(\beta a_j^*+\beta^*a_j) \\ p_j = i\lambda(\alpha a_j^*-\alpha^*a_j)\end{gather}$$ 
+
+We can rescale $\lambda$ by setting $\alpha$ and $\beta$ in such a way then $\lambda = 1$ and our equations become:
+
+$$\begin{gather} q_j = \beta a_j^*+\beta^*a_j \\ p_j = i(\alpha a_j^*-\alpha^*a_j)\end{gather}$$ 
