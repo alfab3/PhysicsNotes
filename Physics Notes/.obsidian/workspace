@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a0c9f6682b23f63d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
-            "mode": "source"
-          }
-        },
-        "group": "1f3f240e0f609704"
-      },
-      {
         "id": "6c8c26d20630fed2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
+            "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
+            "mode": "source"
+          }
+        },
+        "group": "822e49a829b8aeab"
+      },
+      {
+        "id": "846d3936346b24d4",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
             "mode": "preview"
           }
         },
-        "group": "1f3f240e0f609704"
+        "group": "822e49a829b8aeab"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
+                "file": "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a0c9f6682b23f63d",
+  "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
-    "Classical Mechanics/Hamiltonian Formalism/Statistical Ensemble.md",
-    "Classical Mechanics/Hamiltonian Formalism/Equivalence of Hamiltonian and Lagrangian Formalisms.md",
-    "Classical Mechanics/Hamiltonian Formalism/Example - Single Particle in an External Porential (Hamiltonian).md",
-    "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md",
-    "Classical Mechanics/How to Solve for Constants of Motion.md",
-    "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function and Hamilton's Equations.md",
-    "Classical Mechanics/Conservation Laws/Energy.md",
-    "Classical Mechanics/Conservation Laws/Angular Momentum.md",
-    "Classical Mechanics/Motion/Linear Momentum.md"
+    "Math Methods/Electrostatics/Boundary Conditions of Electrostatics.md",
+    "Electricity and Magnetism/Method of Images.md",
+    "Math Methods/Electrostatics/Conductors.md",
+    "Math Methods/Electrostatics/Solutions of Laplace Equation.md",
+    "Math Methods/Partial Differential Equations/Wave Equation 2nd Order.md",
+    "Math Methods/Partial Differential Equations/Wave Equation.md",
+    "Math Methods/Partial Differential Equations/Characteristic Curves.md",
+    "Math Methods/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md"
   ]
 }

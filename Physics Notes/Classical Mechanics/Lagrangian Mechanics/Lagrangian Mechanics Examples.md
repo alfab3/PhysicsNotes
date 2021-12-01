@@ -3,20 +3,19 @@ Consider, for example, Atwood's machine. This device, invented in 1784 but still
 
 The elementary approach is to write an [[Equations of Motion]] for each of the two weights
 
-$$
-m_1\ddot{x_1} = m_1g - T
-$$
-$$
-m_2\ddot{x_2} = m_2g - T
-$$
+$$\begin{gather}
+m_1\ddot{x}_1 = m_1g - T
+\\
+m_2\ddot{x}_2 = m_2g - T
+\end{gather}$$
 
 We then take into account the constant $\dot{x}_1 = -\dot{x}_2$ and eliminate $\ddot{x}_2$ in the favour of $\ddot{x}_1$
 
 $$
-m_1\ddot{x_1} = m_1g - T
+m_1\ddot{x}_1 = m_1g - T
 $$
 $$
--m_2\ddot{x_1} = m_2g - T
+-m_2\ddot{x}_1 = m_2g - T
 $$
 Finally we eliminate the constant force, the [[Tension]] $T$, and obtain the [[Acceleration]] 
 $$
@@ -82,8 +81,8 @@ or that energy is conserved
 
 Many Degrees of Freedom
 The extension of the action principle to many degrees of freedom is straightforward. As an example consider the small [[Oscillation]]s about the equilibrium of a system with N degrees of freedom. We paramatrize the system in terms of deviations from the equilbrium position and expand out to quadratic order. We obtain a Lagrangian 
-$$
-L = \sum^N_{i,j=1}\{\frac{1}{2}M_{ij}\dot{q}^i\dot{q}^j - \frac{1}{2}V_{ij} q^iq^j \}
-$$
+$$\begin{gather}
+L = \sum^N_{i,j=1}\frac{1}{2}M_{ij}\dot{q}^i\dot{q}^j - \frac{1}{2}V_{ij} q^iq^j
+\end{gather}$$
 
-where $M_{ij}$ and $V_{ij}$ are $NxN$ symmetric matrices encoding the intertial and potential energy properties of the the system. Now we have one equation
+where $M_{ij}$ and $V_{ij}$ are $NxN$ symmetric matrices encoding the inertial and potential energy properties of the the system. Now we have one equation
