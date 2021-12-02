@@ -6,11 +6,11 @@
       {
         "id": "6c8c26d20630fed2",
         "type": "leaf",
-        "dimension": 47.72117962466488,
+        "dimension": 47.72117962466487,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Derivation of the Wave Equation using the Lagrangian.md",
+            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
             "mode": "source"
           }
         },
@@ -19,11 +19,11 @@
       {
         "id": "846d3936346b24d4",
         "type": "leaf",
-        "dimension": 52.27882037533512,
+        "dimension": 52.27882037533513,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Derivation of the Wave Equation using the Lagrangian.md",
+            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "curvili",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Derivation of the Wave Equation using the Lagrangian.md",
+                "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "846d3936346b24d4",
   "lastOpenFiles": [
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Derivation of the Wave Equation using the Lagrangian.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Example of the Characteristic Approach.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Fourier Solution of the Wave Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Method of Characteristics for the Wave Equation (D'Alembert Solution).md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Substitution.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Partial Fraction Decomposition.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Trigonometric substitution.md",
-    "Math Methods/Calculus/Integral Calculus/Integration Techniques/Integration by Parts.md",
-    "Exams/Math Methods/Exam Study Materials/Cheat Sheets/Integration by Parts Technique.md"
+    "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Curvilinear Coordinates/Curvilinear Coordinates.md",
+    "Math Methods/Coordinate Systems/Cartesian Coordinates.md",
+    "Electricity and Magnetism/Electrostatics/Motivation of Electrostatics.md",
+    "To Do/Math Methods.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Curvilinear Coordinates.md",
+    "Math Methods/Complex Analysis/Cauchy Formula.md",
+    "Math Methods/Complex Analysis/Cauchy Theorem.md",
+    "Math Methods/Complex Analysis/Cauchy-Riemann Conditions.md",
+    "Math Methods/Complex Analysis/Cauchy-Riemann Equations.md"
   ]
 }
