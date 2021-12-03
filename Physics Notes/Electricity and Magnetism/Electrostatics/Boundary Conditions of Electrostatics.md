@@ -22,4 +22,20 @@ Consider the same system as before, we use the [[Method of Images]] to determine
 
 $$\begin{gather}\phi(x,y) = \frac{1}{4 \pi \epsilon_0}\left[\frac{q}{\sqrt{(x+x_0)^2+y^2}} + \frac{q}{\sqrt{(x-x_0)^2+y^2}}\right] \end{gather}$$
 
-In a conductor with two charges: $q_1$ and $q_2$ on the left of the conductor. We do an image for both charges 
+In a conductor with two charges: $q_1$ and $q_2$ on the left of the conductor. We do an image for both charges.
+
+### Not infinite case
+Consider a charge in the center of a region or radius R and everything outside of that region is a conductor. 
+
+The electric field in side: $$\begin{gather}
+|\vec x| < R \\ \vec E(\vec x) = \frac{1}{4\pi\epsilon_0} \frac{q}{r^2}   \\ \Phi(\vec x) = \frac{-1}{4\pi\epsilon_0}\frac{q}{r} \\ |\vec x| > R \\ \vec E(\vec x) = 0 \\ \Phi(\vec x) = \text{const} = \frac{-1}{4\pi\epsilon_0}\frac{q}{R}\end{gather}$$
+
+Now we look at the total energy: 
+$$\begin{gather} \iint \vec E\cdot \hat n \ dA = \frac{1}{\epsilon_0}Q_{en} = \frac{1}{\epsilon_0}q \\ \vec E \cdot \hat n =\sigma\end{gather}$$
+
+Induced charges around the inside of the region
+
+$$\begin{gather}\sigma = \frac{-q}{4\pi R^2} \end{gather}$$
+
+Where $\sigma$ is the charge distribution.
+

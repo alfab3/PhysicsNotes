@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+            "file": "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+            "file": "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Green's Functions/Nonhomogeneous problems.md",
+                "file": "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,8 +101,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "846d3936346b24d4",
+  "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
+    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
     "Math Methods/Green's Functions/Nonhomogeneous problems.md",
     "Math Methods/Differential Equations/Partial Differential Equations/Curvilinear Coordinates/Curvilinear Coordinates.md",
     "Math Methods/Coordinate Systems/Cartesian Coordinates.md",
@@ -110,8 +112,6 @@
     "To Do/Math Methods.md",
     "Math Methods/Differential Equations/Partial Differential Equations/Curvilinear Coordinates.md",
     "Math Methods/Complex Analysis/Cauchy Formula.md",
-    "Math Methods/Complex Analysis/Cauchy Theorem.md",
-    "Math Methods/Complex Analysis/Cauchy-Riemann Conditions.md",
-    "Math Methods/Complex Analysis/Cauchy-Riemann Equations.md"
+    "Math Methods/Complex Analysis/Cauchy Theorem.md"
   ]
 }

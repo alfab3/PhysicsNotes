@@ -10,7 +10,7 @@ The cases are: $a \neq 0$ (nonhomogeneous), we can have either $m=0$ so there is
 
 ## Fredholm Alternative
 
-Now we can consider the analogous equation in $c^n$ where $$\begin{gather}x\rightarrow\vec X = \begin{bmatrix}x_1\\ \vdots \\ x_n\end{bmatrix},a\rightarrow \vec a = \begin{bmatrix}a_1\\ \vdots \\ a_n\end{bmatrix}\end{gather}$$
+Now we can consider the analogous equation in $c^n$ where $$\begin{gather}x\rightarrow\vec X = \begin{bmatrix}x_1\\ \vdots \\ x_n\end{bmatrix},& a\rightarrow \vec a = \begin{bmatrix}a_1\\ \vdots \\ a_n\end{bmatrix}\end{gather}$$
 
 and 
 
