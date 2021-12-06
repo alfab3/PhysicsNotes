@@ -1,0 +1,1 @@
+A square matrix $A$ is called diagonalizable if it is similar to a diagonal matrix, if there exists an invertible matrix $P$ and a diagonal matrix $D$ such that $$\begin{gather} P^{-1}AP = D \end{gather}$$
