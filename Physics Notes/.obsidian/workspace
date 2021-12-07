@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Normal Modes by Bogoliubov Transformation.md",
+            "file": "Math Methods/Function Spaces/Legendre Polynomials/Orthogonality and Completeness of Legendre Polynomials.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Classical Mechanics/Hamiltonian Formalism/Normal Modes by Bogoliubov Transformation.md",
+            "file": "Math Methods/Function Spaces/Legendre Polynomials/Orthogonality and Completeness of Legendre Polynomials.md",
             "mode": "preview"
           }
         },
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "curvili",
+                "query": "legendre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classical Mechanics/Hamiltonian Formalism/Normal Modes by Bogoliubov Transformation.md",
+                "file": "Math Methods/Function Spaces/Legendre Polynomials/Orthogonality and Completeness of Legendre Polynomials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,6 +103,8 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Math Methods/Function Spaces/Legendre Polynomials/Orthogonality and Completeness of Legendre Polynomials.md",
+    "Math Methods/Function Spaces/Legendre Polynomials/Legendre Polynomials.md",
     "Classical Mechanics/Hamiltonian Formalism/Normal Modes by Bogoliubov Transformation.md",
     "Classical Mechanics/Hamiltonian Formalism/Liouville's Equation and Theorem.md",
     "Classical Mechanics/Hamiltonian Formalism/Legendre Transform.md",
@@ -110,8 +112,6 @@
     "Classical Mechanics/Hamiltonian Formalism/Generalized Harmonic Oscillator.md",
     "Classical Mechanics/Hamiltonian Formalism/Example - Single Particle in an External Porential (Hamiltonian).md",
     "Classical Mechanics/Hamiltonian Formalism/Equivalence of Hamiltonian and Lagrangian Formalisms.md",
-    "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
-    "Classical Mechanics/Hamiltonian Formalism/Complex-valued scalar field as a canonical variable.md",
-    "Classical Mechanics/Hamiltonian Formalism/Gibb's Distribution.md"
+    "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md"
   ]
 }
