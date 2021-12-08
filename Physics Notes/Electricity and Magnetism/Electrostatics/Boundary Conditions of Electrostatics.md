@@ -1,4 +1,5 @@
 For Conductors
+
 $$\begin{gather} \vec E = 0 \\ \vec E = \vec \nabla \phi \Rightarrow\phi = \text{const}\end{gather}$$
 
 Consider a system where all the charges were to the left of some conducting surface or volume (apparently it doesn't matter). 
