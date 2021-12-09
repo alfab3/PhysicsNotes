@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/The Electrostatic Dipole.md",
+            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/The Electrostatic Dipole.md",
+            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
             "mode": "preview"
           }
         },
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "scalar field",
+                "query": "dirac de",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Electrostatics/The Electrostatic Dipole.md",
+                "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Electricity and Magnetism/Electrostatics/The Electrostatic Dipole.md",
+    "Electricity and Magnetism/Electrostatics/Method of Images.md",
     "Electricity and Magnetism/Electrostatics/Electric Potential.md",
-    "Electricity and Magnetism/Permitivity of vacuum.md",
     "Electricity and Magnetism/Electrostatics/Electric Field.md",
-    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Electricity and Magnetism/Electrostatics/Solution of Laplace Equation.md",
-    "Electricity and Magnetism/Electrostatics/The Spherical Harmonics of the Problem.md",
-    "Electricity and Magnetism/Maxwell-Faraday Equation.md",
     "Electricity and Magnetism/Electrostatics/Electric Charge.md",
-    "Classical Mechanics/Work.md"
+    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
+    "Electricity and Magnetism/Electrostatics/Motivation of Electrostatics.md",
+    "Math Methods/Calculus/Dirac Delta Function/Delta Function Transformation Between Coordinates.md",
+    "Math Methods/Calculus/Dirac Delta Function/Polar Coordinates of Dirac Delta Function.md",
+    "Math Methods/Calculus/Dirac Delta Function/Dirac Delta Function.md",
+    "Images/volumetric charge density.png"
   ]
 }

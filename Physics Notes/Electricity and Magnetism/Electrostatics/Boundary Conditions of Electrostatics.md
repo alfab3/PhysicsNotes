@@ -1,42 +1,39 @@
-For Conductors
+### Vacuum
+
+[[Point Charge]]s may exist and generate an [[Electric Field]]. That is, volumetric charge density (charge/volume) $\rho$ may be non-zero and correspondingly $\phi(\vec x)$ determined by 
+
+$$\begin{gather} \nabla^2 \phi(\vec x)= \frac{\rho(\vec x)}{\epsilon_0} \end{gather}$$
+
+may be non-zero.
+### Conductors
+
+Net charge may not exist inside a conductor, and there is no [[Electric Field]].  Any changes may exist only at the boundaries of a conducting body. 
+
 
 $$\begin{gather} \vec E = 0 \\ \vec E = \vec \nabla \phi \Rightarrow\phi = \text{const}\end{gather}$$
 
-Consider a system where all the charges were to the left of some conducting surface or volume (apparently it doesn't matter). 
+$\sigma(\vec x)$ (charge/area) may be non-zero for $\vec x \in$ the surface of the conductor.
 
-For our case 1 charge placed to the left of a conducting sheet. 
+Let us consider now the vicinity of a conductor-vacuum boundary:
 
-A charge q is placed at $(-x_0,y_0 = 0)$, the sheet is placed at $x=0$ where $\phi(x = 0,y) = \text{const}$
+![[conductor and vacuum space.png]]
 
-Note that:
-$$\begin{gather}\phi(x,y) = \frac{1}{4 \pi \epsilon_0}\frac{q}{\sqrt{(x+x_0)^2+y^2}}\Bigg|_{x=0} \neq 0 \end{gather}$$
+Generally, we expect the field $\vec E( \vec x)$ to be continuous (more precisely: $|\rho(\vec x)| < \infty \Rightarrow \vec E(\vec x)$)
 
-How do we solve this? We must use the [[Method of Images]]. In doing so we place a negative charge an equal distance away from the sheet on the other side. The solution then becomes:
+However since the surface of the conductor may have a surface charge $\sigma(\vec x) \neq 0$ ($\Rightarrow |\rho(\vec x)| = \infty$) we expect the [[Electric Field]] to exhibit some discontinuity. To characterize it we construct a "Gauss surface" depicted above around a surface point $\vec x$ such that:
 
-$$\begin{gather}\phi(x,y) = \frac{1}{4 \pi \epsilon_0}\left[\frac{q}{\sqrt{(x+x_0)^2+y^2}} - \frac{q}{\sqrt{(x-x_0)^2+y^2}}\right] \end{gather}$$
+$$\begin{gather} \oint \vec E \cdot \hat n\ d^2x \approx [[\vec E(\vec x)]] A \cdot \hat n(\vec x) = \text{enclosed charge} = \frac{\sigma}{\epsilon_0}\cdot A \\ \Rightarrow [[\vec E(\vec x)]] \cdot \hat n(\vec x) = \frac{\sigma}{\epsilon_0}\end{gather}$$
 
-For the insulator case:
+Where: $[[f(\vec x)]]_r = f(\vec x \to \vec x_r^+) - f(\vec x - \vec x_r^-)$ which represents the difference across a boundary.
 
-$\vec E = 0$ with some charge distribution $\rho$ inside. So: $\vec E \cdot \hat n = 0$ and $\frac{\partial \phi}{\partial x} = 0$
+The other boundary condition is the obvious one: $$\begin{gather} [[\vec E(\vec x)]] \times \hat n(\vec x) = 0 \end{gather}$$ which means that only the normal component of the [[Electric Field]] is affected by the surface of the charge.
 
-Consider the same system as before, we use the [[Method of Images]] to determine the solution:
+Specifically since $\vec E(\vec x)$ in the interior of a conductor the field $\vec E(\vec x)$ at $\vec x \to \vec x_r^+$ is normal to the surface of the conductor.
 
-$$\begin{gather}\phi(x,y) = \frac{1}{4 \pi \epsilon_0}\left[\frac{q}{\sqrt{(x+x_0)^2+y^2}} + \frac{q}{\sqrt{(x-x_0)^2+y^2}}\right] \end{gather}$$
+Also if we have a volumetric charge in a finite zone of vacuum space then the field is continuous everywhere, including the "surface" of the charged region
 
-In a conductor with two charges: $q_1$ and $q_2$ on the left of the conductor. We do an image for both charges.
+![[volumetric charge density.png]]
 
-### Not infinite case
-Consider a charge in the center of a region or radius R and everything outside of that region is a conductor. 
 
-The electric field in side: $$\begin{gather}
-|\vec x| < R \\ \vec E(\vec x) = \frac{1}{4\pi\epsilon_0} \frac{q}{r^2}   \\ \Phi(\vec x) = \frac{-1}{4\pi\epsilon_0}\frac{q}{r} \\ |\vec x| > R \\ \vec E(\vec x) = 0 \\ \Phi(\vec x) = \text{const} = \frac{-1}{4\pi\epsilon_0}\frac{q}{R}\end{gather}$$
 
-Now we look at the total energy: 
-$$\begin{gather} \iint \vec E\cdot \hat n \ dA = \frac{1}{\epsilon_0}Q_{en} = \frac{1}{\epsilon_0}q \\ \vec E \cdot \hat n =\sigma\end{gather}$$
-
-Induced charges around the inside of the region
-
-$$\begin{gather}\sigma = \frac{-q}{4\pi R^2} \end{gather}$$
-
-Where $\sigma$ is the charge distribution.
 
