@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+            "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+            "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 368
+    "width": 318
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+                "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Electricity and Magnetism/Electrostatics/Method of Images.md",
-    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
-    "Electricity and Magnetism/Electrostatics/Electric Field.md",
-    "Electricity and Magnetism/Electrostatics/Electric Charge.md",
-    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Electricity and Magnetism/Electrostatics/Motivation of Electrostatics.md",
-    "Math Methods/Calculus/Dirac Delta Function/Delta Function Transformation Between Coordinates.md",
-    "Math Methods/Calculus/Dirac Delta Function/Polar Coordinates of Dirac Delta Function.md",
-    "Math Methods/Calculus/Dirac Delta Function/Dirac Delta Function.md",
-    "Images/volumetric charge density.png"
+    "Homework/Classical Mechanics/Homework 6/Problem 28.md",
+    "Homework/Classical Mechanics/Homework 6/Problem 31.md",
+    "Homework/Classical Mechanics/Homework 6/Problem 30.md",
+    "Homework/Classical Mechanics/Homework 6/Problem 29.md",
+    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Characteristic Equation.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Driven Motion of Normal Modes.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Resonance.md",
+    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Driven Motion of Normal Modes.md"
   ]
 }

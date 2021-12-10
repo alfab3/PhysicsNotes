@@ -53,7 +53,8 @@
     "diagonalized",
     "diagonalizable",
     "Bogoliubov",
-    "const"
+    "const",
+    "dimensionality"
   ],
   "alwaysUpdateLinks": false
 }
