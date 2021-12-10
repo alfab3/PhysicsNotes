@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Homework/Classical Mechanics/Homework 6/Problem 28.md",
+                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Homework/Classical Mechanics/Homework 6/Problem 28.md",
-    "Homework/Classical Mechanics/Homework 6/Problem 31.md",
-    "Homework/Classical Mechanics/Homework 6/Problem 30.md",
-    "Homework/Classical Mechanics/Homework 6/Problem 29.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
     "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Characteristic Equation.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Driven Motion of Normal Modes.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Resonance.md",
-    "Classical Mechanics/Lagrangian Mechanics/Small Oscillations/Driven Motion of Normal Modes.md"
+    "Math Methods/Differential Equations/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Laplace's Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Helmholtz Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Conservation equations.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Characteristic Curves.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/2nd Order Linear PDEs.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Method of Characteristics for the Wave Equation (D'Alembert Solution).md"
   ]
 }
