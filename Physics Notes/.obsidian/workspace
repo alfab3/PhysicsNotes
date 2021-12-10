@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
+                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
     "Math Methods/Differential Equations/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Laplace's Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Helmholtz Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Conservation equations.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Variable Type and Boundary Conditions/Neumann Boundary Conditions.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Variable Type and Boundary Conditions/Dirichlet Boundary Conditions.md",
+    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Application of Partial Differentiation to Maximum and Minimum.md",
     "Math Methods/Differential Equations/Partial Differential Equations/Characteristic Curves.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/2nd Order Linear PDEs.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Method of Characteristics for the Wave Equation (D'Alembert Solution).md"
+    "Math Methods/Differential Equations/Partial Differential Equations/2nd Order Linear PDEs.md"
   ]
 }
