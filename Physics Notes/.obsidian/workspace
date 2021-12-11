@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+                "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "4f22fc7690aa3cee",
   "lastOpenFiles": [
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Method of Characteristics - 1st Order PDE.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Variable Type and Boundary Conditions/Neumann Boundary Conditions.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Variable Type and Boundary Conditions/Dirichlet Boundary Conditions.md",
-    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Application of Partial Differentiation to Maximum and Minimum.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Characteristic Curves.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/2nd Order Linear PDEs.md"
+    "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
+    "Classical Mechanics/Hamiltonian Formalism/Cyclic Variables in Hamiltonian Formalism.md",
+    "Classical Mechanics/Hamiltonian Formalism/Conjugate Variables.md",
+    "Classical Mechanics/Hamiltonian Formalism/Complex-valued scalar field as a canonical variable.md",
+    "Classical Mechanics/Hamiltonian Formalism/Complex Canonical Variables.md",
+    "Exams/Classical Mechanics/Final/Study Guide - OogyBoogy Transforms.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Driven Motion of Normal Modes.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Normal Mode Algorithm.md",
+    "Classical Mechanics/Hamiltonian Formalism/Hamiltonian Function and Hamilton's Equations.md"
   ]
 }

@@ -1,0 +1,5 @@
+Assuming a constructed Lagrangian is given.
+
+1) Perform the [[Legendre Transform]] to convert $\mathcal L \to \mathcal H$: $$\begin{gather} H(\{q,p\}) = \sum_jp_jv_j(\{q,p\}) - \mathcal L (\{q,v(\{q,p\})\})\end{gather}$$
+2) Introduce [[Complex Canonical Variables]] $\{a_j, a^*_j*\}$: $$\begin{gather} a_j = \alpha q_j + i\beta p_j \\ a^*_j = \alpha^* q_j - i\beta^* p_j\end{gather}$$ We can also convert back by using the transform: $$\begin{gather} q_j = \lambda(\beta a_j^*+\beta^*a_j) \\ p_j = i\lambda(\alpha a_j^*-\alpha^*a_j)\end{gather}$$ Ideally, we want to use $\alpha$ and $\beta$ such that the value $\lambda$ defined by: $$\begin{gather} \lambda = \frac{1}{\alpha \beta^* + \alpha^*\beta} \end{gather}$$ is 1. 
+3) Write out the Hamiltonian ([[Hamiltonian Function and Hamilton's Equations]]) with the new complex canonical variables
