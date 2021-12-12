@@ -7,7 +7,7 @@ Assuming a constructed Lagrangian is given.
 5) Now we want to diagonalize the Hamiltonian so it takes the form: $$\begin{gather} \mathcal H = \sum_s \omega_sb_sb_s^* \end{gather}$$ Where $b_s$ is defined by:  $$\begin{gather} b_s = \sum_j(u_{sj}a_j + v_{sj}a^*_j) \end{gather}$$ 
 6) Using the [[Poisson Brackets]] relation we write: $$\begin{gather} i\{H,b_s\} = \omega_sb_s \end{gather}$$ Which comes from the diagonalized Hamiltonian from step 5, and the definition: $$\begin{gather}i\dot b_s = i\{H,b_s\} = \sum_j\left[\frac{\partial b_s}{\partial a_j}\frac{\partial H}{\partial a^*_j}-\frac{\partial b_s}{\partial a_j^*}\frac{\partial H}{\partial a_j}\right] = \frac{\partial H}{\partial b^*_s} \end{gather}$$
 7) Complete the above Poisson Bracket operation
-8) Establish a system of equations from the Poisson Bracket: $$\begin{gather} \sum_i [A_{ij}u_{si} - B_{ji}v_{si}] = \omega_s u_{sj}, & \sum_i[B_{ji}^*u_{si}-A_{ji}v_{si}] = \omega_sv_{sj}\end{gather}$$
+8) Establish a system of equations from the Poisson Bracket and solve for the Matrices: $$\begin{gather} \sum_i [A_{ij}u_{si} - B_{ji}v_{si}] = \omega_s u_{sj}, & \sum_i[B_{ji}^*u_{si}-A_{ji}v_{si}] = \omega_sv_{sj}\end{gather}$$ Matrices are given by: $$\begin{gather} A_{ij} = \frac{\partial^2  H}{\partial a_i\partial a_j^*}, \;\;\;\; B_{ij} = \frac{\partial^2 H}{\partial a_i\partial a_j} \\ A_{ij} = A_{ji}^*, \;\;\;\;\; B_ij = B_{ji}\end{gather}$$
 9) We can also write these in vector form: $$\begin{gather} A^*\ket{u_s} -B\ket{v_s}=\omega_s \ket{u_s} \\ B^*\ket{u_s} - A\ket{v_s} = \omega_s\ket{v_s} \end{gather}$$
 10) Solve the system of equations for $u$ and $v$. 
 11) Use $u$ and $v$ to solve for $\omega_s$
