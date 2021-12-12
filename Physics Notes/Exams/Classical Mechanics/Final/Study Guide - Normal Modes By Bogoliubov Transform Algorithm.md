@@ -1,5 +1,8 @@
 Assuming a constructed Lagrangian is given.
 
-1) Perform the [[Legendre Transform]] to convert $\mathcal L \to \mathcal H$: $$\begin{gather} H(\{q,p\}) = \sum_jp_jv_j(\{q,p\}) - \mathcal L (\{q,v(\{q,p\})\})\end{gather}$$
+1) Perform the [[Legendre Transform]] to convert $\mathcal L \to \mathcal H$: $$\begin{gather} \mathcal H(\{q,p\}) = \sum_jp_jv_j(\{q,p\}) - \mathcal L (\{q,v(\{q,p\})\})\end{gather}$$
 2) Introduce [[Complex Canonical Variables]] $\{a_j, a^*_j*\}$: $$\begin{gather} a_j = \alpha q_j + i\beta p_j \\ a^*_j = \alpha^* q_j - i\beta^* p_j\end{gather}$$ We can also convert back by using the transform: $$\begin{gather} q_j = \lambda(\beta a_j^*+\beta^*a_j) \\ p_j = i\lambda(\alpha a_j^*-\alpha^*a_j)\end{gather}$$ Ideally, we want to use $\alpha$ and $\beta$ such that the value $\lambda$ defined by: $$\begin{gather} \lambda = \frac{1}{\alpha \beta^* + \alpha^*\beta} \end{gather}$$ is 1. 
-3) Write out the Hamiltonian ([[Hamiltonian Function and Hamilton's Equations]]) with the new complex canonical variables
+3) Write out the Hamiltonian ([[Hamiltonian Function and Hamilton's Equations]]) with the new complex canonical variables. 
+4) Find the components of the $A$ and $B$ matrices by using the formulas: $$\begin{gather} H = \sum_{ij}\left(A_{ij}a^*_ia_j + \frac{1}{2}B_{ij}a_ia_j +\frac{1}{2}B^*_{ij}a^*_ia^*_j\right) \\ A_{ij} = \frac{\partial^2  H}{\partial a_i\partial a_j^*}, \;\;\;\; B_{ij} = \frac{\partial^2 H}{\partial a_i\partial a_j} \\ A_{ij} = A_{ji}^*, \;\;\;\;\; B_ij = B_{ji}\end{gather}$$
+5) Now we want to diagonalize the Hamiltonian so it takes the form: $$\begin{gather} \mathcal H = \sum_s \omega_sb_sb_s^* \end{gather}$$ Where $b_s$ is defined by:  $$\begin{gather} b_s = \sum_j(u_{sj}a_j + v_{sj}a^*_j) \end{gather}$$ 
+6) 

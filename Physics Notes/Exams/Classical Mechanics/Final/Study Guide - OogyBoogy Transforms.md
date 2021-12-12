@@ -8,3 +8,5 @@ $$\begin{gather} A_{ij} = \frac{\partial^2H}{\partial a_i\partial a_j^*}, & B_{i
 Can be diagonalized by: 
 
 $$\begin{gather} b_s = \sum_j(u_{sj}a_j+v_{sj}a^*_j) \end{gather}$$
+
+Which is the Bogoliubov transform
