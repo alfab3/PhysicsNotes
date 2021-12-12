@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirac de",
+                "query": "norm",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "4f22fc7690aa3cee",
   "lastOpenFiles": [
     "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Final Exam.md",
     "Exams/Classical Mechanics/Final/Study Guide - Normal Mode Algorithm.md",
-    "Classical Mechanics/Hamiltonian Formalism/Conjugate Variables.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
-    "Exams/Classical Mechanics/Final/Study Guide - OogyBoogy Transforms.md"
+    "Exams/Math Methods/Midterm Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
+    "Math Methods/Vector Spaces/Norm.md",
+    "Math Methods/Function Spaces/Function Spaces.md",
+    "Math Methods/Vector Spaces/Basis Set.md",
+    "Math Methods/Tensors/Kronecker Delta.md",
+    "Math Methods/Differential Equations/Differential Operators/Central Features of Hermitian Operators.md",
+    "Exams/Classical Mechanics/Final/Study Guide - OogyBoogy Transforms.md",
+    "Classical Mechanics/Hamiltonian Formalism/Canonical Transformations.md"
   ]
 }
