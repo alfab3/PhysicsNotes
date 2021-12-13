@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
+                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "4f22fc7690aa3cee",
   "lastOpenFiles": [
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Method of Characteristics for the Wave Equation (D'Alembert Solution).md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Perturbation Theory.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs and Greens Functions.md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Untitled.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Fourier Solution of the Wave Equation.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Example of the Characteristic Approach.md"
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Fourier Transform.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Electrostatics.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Images.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md"
   ]
 }
