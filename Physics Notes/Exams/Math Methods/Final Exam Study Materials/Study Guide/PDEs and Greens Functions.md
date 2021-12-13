@@ -1,5 +1,4 @@
-## 3.6)Solving for Green's Functions
-### 3.6.1) General Process
+## Solving for Green's Functions for PDEs
 1) Start with PDE
 2) Determine the solution of the PDE using Fourier Transform
 3) Plug the solution into the Fourier Transform

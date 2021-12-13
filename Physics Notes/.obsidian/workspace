@@ -6,10 +6,11 @@
       {
         "id": "6c8c26d20630fed2",
         "type": "leaf",
+        "dimension": 50.12970168612192,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
             "mode": "source"
           }
         },
@@ -18,10 +19,11 @@
       {
         "id": "4f22fc7690aa3cee",
         "type": "leaf",
+        "dimension": 49.87029831387808,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
             "mode": "preview"
           }
         },
@@ -81,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +103,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Normal Mode Algorithm.md",
-    "Exams/Math Methods/Midterm Exam Study Materials/Cheat Sheets/Linear Algebra - Math.md",
-    "Math Methods/Vector Spaces/Norm.md",
-    "Math Methods/Function Spaces/Function Spaces.md",
-    "Math Methods/Vector Spaces/Basis Set.md"
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Method of Characteristics for the Wave Equation (D'Alembert Solution).md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Perturbation Theory.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Untitled.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Fourier Solution of the Wave Equation.md",
+    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Example of the Characteristic Approach.md"
   ]
 }
