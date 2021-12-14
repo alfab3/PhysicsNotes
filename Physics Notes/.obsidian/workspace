@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
+            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
+            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
+                "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,17 +101,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4f22fc7690aa3cee",
+  "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
+    "Exams/Classical Mechanics/Final/Study Guide - OogyBoogy Transforms.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Driven Motion of Normal Modes.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Normal Mode Algorithm.md",
+    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
+    "Exams/Classical Mechanics/Midterm/Study Guide Sheet.md",
+    "Exams/Classical Mechanics/Midterm/Calculus of Variations Cheat Sheet.md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
     "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Perturbation Theory.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs and Greens Functions.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Characteristics 1st Order.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Laplace Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Fourier Transform.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Electrostatics.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Method of Images.md",
-    "Math Methods/Differential Equations/Partial Differential Equations/Wave Equation/Wave Equation.md"
+    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs and Greens Functions.md"
   ]
 }
