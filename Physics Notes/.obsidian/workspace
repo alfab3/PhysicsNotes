@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
+            "file": "Classical Mechanics/Motion/Linear Momentum.md",
             "mode": "source"
           }
         },
@@ -23,7 +23,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
+            "file": "Classical Mechanics/Motion/Linear Momentum.md",
             "mode": "preview"
           }
         },
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
+                "file": "Classical Mechanics/Motion/Linear Momentum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,15 +103,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Exams/Classical Mechanics/Final/Study Guide - Normal Modes By Bogoliubov Transform Algorithm.md",
-    "Exams/Classical Mechanics/Final/Study Guide - OogyBoogy Transforms.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Driven Motion of Normal Modes.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Normal Mode Algorithm.md",
-    "Exams/Classical Mechanics/Final/Study Guide - Small Oscillations Basics.md",
-    "Exams/Classical Mechanics/Midterm/Study Guide Sheet.md",
-    "Exams/Classical Mechanics/Midterm/Calculus of Variations Cheat Sheet.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Wave Equation.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - Perturbation Theory.md",
-    "Exams/Math Methods/Final Exam Study Materials/Study Guide/Study Guide - PDEs and Greens Functions.md"
+    "Classical Mechanics/Motion/Linear Momentum.md",
+    "Classical Mechanics/Motion/Oscillation.md",
+    "Classical Mechanics/Motion/Equations of Motion.md",
+    "Classical Mechanics/Motion/Areal Velocity.md",
+    "Classical Mechanics/Motion/Angular Momentum.md",
+    "Classical Mechanics/Lagrangian Mechanics/Noether's Theorem.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics Examples.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian Mechanics.md",
+    "Classical Mechanics/Lagrangian Mechanics/Lagrangian.md",
+    "Classical Mechanics/Lagrangian Mechanics/Foucault Pendulum.md"
   ]
 }

@@ -1,0 +1,1 @@
+Elastic potential energy is the [[Potential Energy]] stored as a result of a deformation of an elastic object, such as the stretching of a spring. 

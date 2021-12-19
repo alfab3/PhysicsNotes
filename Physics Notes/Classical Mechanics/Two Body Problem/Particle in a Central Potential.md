@@ -4,7 +4,7 @@ $$
 E = \frac{mv^2}{2}+U(r)
 $$
 
-and the [[Angular Momentum]] with respect to the center (origin of the coordinates)
+and the [[Classical Mechanics/Conservation Laws/Angular Momentum]] with respect to the center (origin of the coordinates)
 
 $$
 L = m\vec{r} \times \vec{v}
@@ -32,7 +32,7 @@ $$\begin{align}
 	(l = |\vec{L}|=const)
 \end{align}
 $$
-From the [[Angular Momentum]] equation we see that the angular velocity $\dot{\theta}$ does not change its sign, so that the particle permanently rotates around the center in one and the same direction, dependings on the the initial condition. We also see that the case $l = 0$ is special: Here $\theta = const$ (no rotation) and the motion is one-dimensional. 
+From the [[Classical Mechanics/Conservation Laws/Angular Momentum]] equation we see that the angular velocity $\dot{\theta}$ does not change its sign, so that the particle permanently rotates around the center in one and the same direction, dependings on the the initial condition. We also see that the case $l = 0$ is special: Here $\theta = const$ (no rotation) and the motion is one-dimensional. 
 
 The pair of [[Equations of Motion]] in polar coordinates can be obtained by plugging in the polar coordinate equations into the two Newton's equations for $x$ and $y$, respectively. It is more wise, however, to take advantage of the conservation laws. From the point of view of the theory of differential equations, the two conservation laws are what is known as first [[Integral]]s. First integrals are the differential equations that are equivalent to the original ones but of the lower order. First integrals correspond to partially integrated original equations and thus contain free integration constants.
 

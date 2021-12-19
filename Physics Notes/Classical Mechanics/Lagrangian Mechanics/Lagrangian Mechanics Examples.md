@@ -55,7 +55,7 @@ $$
 $$
 m(r\ddot{\theta}+2\dot{r}\dot{\theta}) = 0 \rightarrow \frac{d}{dt}(mr^2\dot{\theta}) = 0
 $$
-Setting $l=mr^2 \dot{\theta}$, the conserved [[Angular Momentum]], and elminationg $\dot{\theta}$ gives 
+Setting $l=mr^2 \dot{\theta}$, the conserved [[Classical Mechanics/Lagrangian Mechanics/Conservation Laws/Angular Momentum]], and elminationg $\dot{\theta}$ gives 
 $$
 m\ddot{r} - \frac{l^2}{mr^3} = -\frac{\partial V}{\partial r}
 $$

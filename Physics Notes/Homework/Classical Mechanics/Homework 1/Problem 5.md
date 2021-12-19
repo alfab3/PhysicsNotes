@@ -1,4 +1,4 @@
 Make sure that $E$ and $\vec{L}$ are constants of motion.
 
 [[Energy]]
-[[Angular Momentum]]
+[[Classical Mechanics/Conservation Laws/Angular Momentum]]
