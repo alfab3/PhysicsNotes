@@ -1,0 +1,1 @@
+In Newtonian mechanics ([[Newtonian Dynamics Basic Postulates]]), linear momentum, translational momentum, or simply momentum is the product of the [[Mass]] and [[Velocity]]. It is a vector quantity possessing a magnitude and direction. If $m$ is an object's mass and $v$ is its velocity, the the object's momentum $\vec p$ is $$\begin{gather} \vec p = m \vec v \end{gather}$$

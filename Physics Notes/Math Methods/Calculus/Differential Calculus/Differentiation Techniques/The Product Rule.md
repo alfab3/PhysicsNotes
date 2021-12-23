@@ -1,0 +1,1 @@
+Let $f(x)$ and $g(x)$ be differentiable functions. Then $$\begin{align} \frac{d}{dx} (f(x)g(x)) = \frac{d}{dx}(f(x)) \cdot g(x) + \frac{d}{dx}(g(x))\cdot f(x)\end{align}$$

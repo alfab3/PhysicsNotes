@@ -1,0 +1,1 @@
+Pulling force transmitted axially by the means of a string, cable, chain or similar object or by each end of a rod. 

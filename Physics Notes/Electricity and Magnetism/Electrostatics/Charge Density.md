@@ -1,0 +1,1 @@
+Charge density is the amount of [[Electric Charge]] per unit length, surface area, or volume. Measured in [[Coulomb]]s per unit length, area or volume.

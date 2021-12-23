@@ -6,7 +6,7 @@
 	$$\begin{align} \frac{d}{dx}(f(x)+g(x)) = \frac{d}{dx}(f(x)) + \frac{d}{dx}(g(x)) \end{align}$$
 	that is $$\begin{align} j(x) = f(x) + g(x) \rightarrow j'(x) = f'(x) + g'(x)\end{align}$$
 	
-	[[Constant Multiple Rule]]. The ferivative of a constant $c$ multiplied by a function $f$ is the came as the constant multiplied by the derivative:
+	[[Constant Multiple Rule]]. The derivative of a constant $c$ multiplied by a function $f$ is the came as the constant multiplied by the derivative:
 	$$\begin{align} \frac{d}{dx}(kf(x)) = k\frac{d}{dx}(f(x)) \end{align}$$
 4) [[The Product Rule]] Let $f(x)$ and $g(x)$ be differentiable functions. Then $$\begin{align} \frac{d}{dx} (f(x)g(x)) = \frac{d}{dx}(f(x)) \cdot g(x) + \frac{d}{dx}(g(x))\cdot f(x)\end{align}$$
 5) [[The Quotient Rule]] Let $f(x)$ and $g(x)$ be differentiable functions. Then $$\begin{align} \frac{d}{dx} \left(\frac{f(x)}{g(x)}\right) =\frac{\frac{d}{dx}(f(x))\cdot g(x) - \frac{d}{dx}(g(x))\cdot f(x)}{(g(x))^2} \end{align}$$

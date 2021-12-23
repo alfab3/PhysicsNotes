@@ -4,7 +4,7 @@ $$\begin{align} \delta(x) = 0 \; \; \; x \neq 0 \\ f(0) = \int^b_a f(x)\delta(x)
 Where $f(x)$ is any well-behaved function and the integration includes the origin. As a special case of the above equation
 
 $$\begin{align} \int^\infty_{-\infty} \delta(x)dx = 1 \end{align}$$
-From the definition equation $\delta(x)$ must be an infitely high, thin spike at $x = 0$ as in the description of an impulsive force or the [[Charge Density]] for a [[point charge]]. The problem is that no such function exists, in the usual sense of function. However, the crucial property in the initial equation can be developed rigoursly as the limit of a sequence of functions, a distribution. For example the delta function may be approximated by any of the sequences of functions of the following:
+From the definition equation $\delta(x)$ must be an infitely high, thin spike at $x = 0$ as in the description of an impulsive force or the [[Charge Density]] for a [[Point Charge]]. The problem is that no such function exists, in the usual sense of function. However, the crucial property in the initial equation can be developed rigoursly as the limit of a sequence of functions, a distribution. For example the delta function may be approximated by any of the sequences of functions of the following:
 $$\begin{align} \delta_n(x) = \begin{cases} 0, & x < -\frac{1}{2n} \\ n, & -\frac{1}{2n} < x < \frac{1}{2n} \\ 0, & x > \frac{1}{2n} \end{cases} \end{align}$$
 
 $$\begin{align} \delta_n(x) = \frac{n}{\sqrt{\pi}}exp(-n^2x^2) \end{align}$$![[diracfunction.png]]

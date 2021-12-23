@@ -1,0 +1,1 @@
+The definition of a location of an object in n-dimensional space, defined by an ordered pair of n points.

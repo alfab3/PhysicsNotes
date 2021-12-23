@@ -1,0 +1,1 @@
+Let $f(x)$ and $g(x)$ be differentiable functions. Then $$\begin{align} \frac{d}{dx} \left(\frac{f(x)}{g(x)}\right) =\frac{\frac{d}{dx}(f(x))\cdot g(x) - \frac{d}{dx}(g(x))\cdot f(x)}{(g(x))^2} \end{align}$$

@@ -55,7 +55,9 @@
     "Bogoliubov",
     "const",
     "dimensionality",
-    "diagonalize"
+    "diagonalize",
+    "translational",
+    "equalities"
   ],
   "alwaysUpdateLinks": false
 }

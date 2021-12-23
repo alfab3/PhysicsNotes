@@ -1,0 +1,3 @@
+The physical property of matter that causes it to experience a force when placed in an [[Electromagnetic Field]]. Electric charge can be positive or negative. Like charges repel and unlike charges attract each other. An object with an absence of net charge is referred to as neutral. 
+
+Electric charge is a conserved property; the net charge of an isolated system, the amount of positive charge minus the amount of negative charge, cannot change. Electric charge is carried by subatomic particles. 
