@@ -1,0 +1,1 @@
+In [[Quantum Field Theory]], correlation functions, often referred to as correlators or [[Green's Function]]s, are vacuum expectation values of time ordered products of field operators. They are a key object of study in Quantum field Theory where they can be used to calculate various [[Observables]] such as [[S-matrix]] elements

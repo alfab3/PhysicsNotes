@@ -1,1 +1,0 @@
-Stone and Goldbart Chapter 8 (Curvilinear Coordinates)

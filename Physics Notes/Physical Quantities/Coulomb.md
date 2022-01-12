@@ -1,0 +1,1 @@
+The coulomb is the International System of Units unit of electric charge. The Coulomb is exactly $1/(1.602176634\times 10^{-19})$ elementary charges. The number of electrons has the same magnitude but opposite sign of charge, that is, a charge of $-1 C$

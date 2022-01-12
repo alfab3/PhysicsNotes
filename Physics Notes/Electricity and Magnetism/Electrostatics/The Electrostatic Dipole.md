@@ -1,7 +1,7 @@
 ### Definition 
 Let us consider two opposite point charges and assume we are interested in finding $\phi(\vec x)$ at some point since there is obviously an axial symmetry with respect to the axis that connects the two charges, it is useful to choose it as our z-axis, with the origin at the middle point between the two charges such that
 
-$$\begin{gather} \phi(\vec x) = \phi(r,\theta,\phi_ = \sum^\infty_{l=0}[A_lr^l+B_lr^{-(l+1)}]P_l(\cos\theta)\end{gather}$$
+$$\begin{gather} \phi(\vec x) = \phi(r,\theta,\phi) = \sum^\infty_{l=0}[A_lr^l+B_lr^{-(l+1)}]P_l(\cos\theta)\end{gather}$$
 
 which is the form of the [[Solution of Laplace Equation]]
 

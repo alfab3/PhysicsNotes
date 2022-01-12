@@ -57,7 +57,11 @@
     "dimensionality",
     "diagonalize",
     "translational",
-    "equalities"
+    "equalities",
+    "Quantized",
+    "quantized",
+    "correlators",
+    "perturbative"
   ],
   "alwaysUpdateLinks": false
 }

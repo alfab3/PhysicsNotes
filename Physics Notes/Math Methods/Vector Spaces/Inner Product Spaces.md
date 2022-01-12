@@ -1,3 +1,7 @@
+## Definition
+
+An inner product space is a real [[Vector Space]] or complex vector space with an operation called an inner product. The inner product of two vectors in the space is a scalar, often denoted with angle brackets $\braket{a,b}$. Inner products allow formal definitions of intuitive geometric notions such as lengths, angles and orthogonality (zero inner product) of vectors. Inner product spaces generalize Euclidean vector spaces, in which the inner product is the dot product or scalar product of [[Cartesian Coordinates]] 
+
 An inner product on a vector space  [[Linear Vector Spaces]] $V$ is a function $\braket{., .}: V \times V \rightarrow F$ such that
 1) $\braket{v|w} + \lambda \ket{x}> = \braket{v|w} + \lambda \braket{v|x}$
 2) $\braket{v|w} = \braket{w|v}^*$
@@ -34,4 +38,5 @@ Given an inner product $\braket{.,.}$ one can define an operator $\dagger:V \rig
 $$\ket{x}^\dagger (\ket{v}) = \braket{x|v}$$ 
 
 This called the [[Hermitian Adjoint]]
-So this maps a vector $\ket{x}$ to a linear operator on vectors, i.e. a covector. This 
+So this maps a vector $\ket{x}$ to a linear operator on vectors, i.e. a covector. 
+

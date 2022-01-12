@@ -39,3 +39,6 @@ $$\begin{gather} \vec E(x = 0, y, z) = -\vec \nabla \phi\bigg|_{x=0,y,z} = -\hat
 i.e. the presence of the conducting wall at $x=0$ doubles the field magnitude at its vicinity. 
 
 Since $\vec E = 0$ on the conductor side $(x < 0)$ we have: $$\begin{gather} [[\vec E]] \cdot \hat n = \frac{q}{2 \pi\epsilon_0}\frac{d}{y^2+z^2} = \frac{\sigma}{\epsilon_0} \Rightarrow \\ \sigma(y,z) = \frac{q}{2\pi}\frac{d}{y^2+z^2} \end{gather}$$
+
+## When to use Method of Images
+For problem solving, the method of images comes in handy in the following cases: conducting sphere, conducting cylinder, conducting ellipsoid, and conducting plane. Another example is two regions of dielectrics, with different $\epsilon$ (permitivity)

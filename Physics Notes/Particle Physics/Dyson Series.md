@@ -1,0 +1,1 @@
+In scattering theory, a part of mathematical physics, the Dyson Series, formulated by Freeman Dyson is a perturbative expansion of the [[Time-Evolution Operators]] in the interaction picture. Each term can be represented by a sum of [[Feynman Diagrams]].

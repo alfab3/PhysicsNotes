@@ -1,0 +1,1 @@
+A physical interaction between electrically charged ([[Electric Charge]]) particles. The electromagnetic force is carried by [[Electromagnetic Field]]s composed of [[Electric Field]]s and [[Magnetic Field]]s and it is responsible for [[Electromagnetic Radiation]] such as [[Light]]. It is one of the four fundamental interactions in nature.

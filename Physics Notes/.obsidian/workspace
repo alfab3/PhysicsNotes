@@ -6,28 +6,26 @@
       {
         "id": "6c8c26d20630fed2",
         "type": "leaf",
-        "dimension": 50.12970168612192,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Electric Field.md",
+            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
             "mode": "source"
           }
         },
-        "group": "add375db4b17ebf5"
+        "group": "6d92596419c997d2"
       },
       {
-        "id": "4f22fc7690aa3cee",
+        "id": "2f84a910471b09c2",
         "type": "leaf",
-        "dimension": 49.87029831387808,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Electric Field.md",
+            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
             "mode": "preview"
           }
         },
-        "group": "add375db4b17ebf5"
+        "group": "6d92596419c997d2"
       }
     ],
     "direction": "vertical"
@@ -54,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "norm",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -84,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Electrostatics/Electric Field.md",
+                "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Electricity and Magnetism/Electrostatics/Electric Field.md",
-    "Test Charge.md",
-    "Electromagnetic Force.md",
-    "Electricity and Magnetism/Electrostatics/Electric Charge.md",
-    "Electromagnetic Field.md",
-    "Electricity and Magnetism/Electrostatics/Coulomb's Law (electrostatics).md",
-    "Electricity and Magnetism/Electrostatics/Charge Density.md",
+    "Electricity and Magnetism/Electrostatics/Method of Images.md",
     "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/The Quotient Rule.md",
-    "Math Methods/Calculus/Differential Calculus/Differentiation Techniques/The Product Rule.md"
+    "Math Methods/Linear Algebra/Orthogonal Transformation.md",
+    "Linear Transformation.md",
+    "Relativity/Spacetime.md",
+    "Relativity/Reference Frame.md",
+    "Relativity/Curved Spaces.md",
+    "Physical Quantities/Derived Quantities/Space/Volume.md",
+    "Physical Quantities/Derived Quantities/Space/Area.md",
+    "Physical Quantities/Derived Quantities/Space/Angular position.md"
   ]
 }

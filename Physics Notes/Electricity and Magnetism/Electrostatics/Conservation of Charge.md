@@ -1,0 +1,5 @@
+## Definition 
+
+Charge conservation is the principle that the total [[Electric Charge]] in an isolated system never changes. The net quantity of electric charge, the amount of positive charge minus the amount of negative charge in the Universe, is always conserved. Charge conservation, considered as a physical conservation law, implies that the change in the amount of electric charge in any volume of space is exactly equal to the amount of charge flowing into the volume minus the amount of charge flowing out of the volume. In essence charge conservation is an accounting relationship between the amount of charge in a region and the flow of charge into and out of that region given by a continuity equation between [[Charge Density]] and [[Current Density]]
+
+This does not mean that individual positive and negative charges cannot be created or destroyed. Electric charge is carried by [[Subatomic Particles]] such as [[Electrons]] and [[Protons]]. [[Charged Particles]] can be created and destroyed in elementary particle reactions.
