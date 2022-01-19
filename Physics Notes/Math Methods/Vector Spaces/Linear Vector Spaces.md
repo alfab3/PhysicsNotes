@@ -1,4 +1,6 @@
 Contains a set of elements ("[[Vectors]]"), using notation - $\ket{\psi},\ket{\phi},\ket{\chi} \in V$. Among which there are operations:
+
+### Axioms
 Addition - $\ket{\psi} + \ket{\phi} \in V$
 Associative Addition - $(\ket{\psi} + \ket{\phi}) + \ket{\chi} = \ket{\psi} + (\ket{\phi}+\ket{\chi})$
 Commutative Addition - $\ket{\psi} + \ket{\phi} \in V, \ket{\phi} + \ket{\psi} \in V$
@@ -7,7 +9,7 @@ Null vector -  $\ket{0}$
 $1\ket{\phi} = \ket{\phi}$
 $0\ket{\phi} = \ket{0}$
 
-From these [[Axioms]] the following theorems can be proved:
+### From these [[Axioms]] the following theorems can be proved:
 a) $\ket{0}$ is unique [[Uniqueness]]
 Proof: 
 Suppose $\ket{0}, \ket{0'}$ both satisfy axiom 3
@@ -28,7 +30,7 @@ d) $\forall \lambda \in F, \lambda \cdot \ket{0} = \ket{0}$
 e) if $\lambda \cdot \ket{\nu} = \ket{0}$ then $\lambda = 0$ or $\ket{\nu} = 0$
 f) $\forall \ket{\nu} \in V, -1 \cdot \ket{\nu} = \ket{-\nu}$
 
-From b) we cab define the difference of two vectors $\ket{v} -\ket{w}$ as the sum of $\ket{v}$ with the additive inverse of $\ket{w}$
+From b) we can define the difference of two vectors $\ket{v} -\ket{w}$ as the sum of $\ket{v}$ with the additive inverse of $\ket{w}$
 $$\ket{v} - \ket{w} = \ket{v} + \ket{-w}$$
 
 Functions defined on a given intercal form a vector space, with operations defined as $$(f+g)(x) = f(x) + g(x), (df)(x)=df(x)$$

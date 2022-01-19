@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+            "file": "Math Methods/Linear Algebra/Dual.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+            "file": "Math Methods/Linear Algebra/Dual.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Electrostatics/Method of Images.md",
+                "file": "Math Methods/Linear Algebra/Dual.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Electricity and Magnetism/Electrostatics/Method of Images.md",
-    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Math Methods/Linear Algebra/Orthogonal Transformation.md",
-    "Linear Transformation.md",
-    "Relativity/Spacetime.md",
-    "Relativity/Reference Frame.md",
-    "Relativity/Curved Spaces.md",
-    "Physical Quantities/Derived Quantities/Space/Volume.md",
-    "Physical Quantities/Derived Quantities/Space/Area.md",
-    "Physical Quantities/Derived Quantities/Space/Angular position.md"
+    "Math Methods/Linear Algebra/Dual.md",
+    "Math Methods/Linear Algebra/Linear Operator.md",
+    "Math Methods/Linear Algebra/Matrix Multiplication.md",
+    "Math Methods/Linear Algebra/Symmetric Matrix.md",
+    "Math Methods/Linear Algebra/Vectors.md",
+    "Math Methods/Linear Algebra/Inverse Matrices.md",
+    "Math Methods/Linear Algebra/Kernel.md",
+    "Math Methods/Linear Algebra/Identity operator.md",
+    "Math Methods/Linear Algebra/Hermitian.md",
+    "Math Methods/Linear Algebra/Diagonalizable Matrix.md"
   ]
 }
