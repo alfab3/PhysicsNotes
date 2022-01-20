@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+            "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+            "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
+                "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,8 @@
   },
   "active": "80f94fe641b5bd74",
   "lastOpenFiles": [
+    "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
+    "Physics Notes/Quantum Mechanics/Language and Axions/Measurement Postulate.md",
     "Physics Notes/Math Methods/Calculus/Integral Calculus/Line Integrals.md",
     "Physics Notes/Math Methods/Calculus/Integral Calculus/Untitled.md",
     "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Untitled.md",
@@ -108,8 +110,6 @@
     "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Directional Derivative.md",
     "Physics Notes/Math Methods/Calculus/Vector Calculus/Derivatives/Curl.md",
     "Physics Notes/Math Methods/Vector Analysis/Vectors in Polar Coordinates.md",
-    "Physics Notes/Math Methods/Vector Analysis/Untitled.md",
-    "Physics Notes/Math Methods/Vector Analysis/Differentiation of Vectors.md",
-    "Physics Notes/Math Methods/Linear Algebra/Dot Product.md"
+    "Physics Notes/Math Methods/Vector Analysis/Untitled.md"
   ]
 }
