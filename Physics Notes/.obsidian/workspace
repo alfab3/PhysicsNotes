@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Linear Algebra/Dual.md",
+            "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Math Methods/Linear Algebra/Dual.md",
+            "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math Methods/Linear Algebra/Dual.md",
+                "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "Math Methods/Linear Algebra/Dual.md",
-    "Math Methods/Linear Algebra/Linear Operator.md",
-    "Math Methods/Linear Algebra/Matrix Multiplication.md",
-    "Math Methods/Linear Algebra/Symmetric Matrix.md",
-    "Math Methods/Linear Algebra/Vectors.md",
-    "Math Methods/Linear Algebra/Inverse Matrices.md",
-    "Math Methods/Linear Algebra/Kernel.md",
-    "Math Methods/Linear Algebra/Identity operator.md",
-    "Math Methods/Linear Algebra/Hermitian.md",
-    "Math Methods/Linear Algebra/Diagonalizable Matrix.md"
+    "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
+    "Quantum Mechanics/Projection Operator.md",
+    "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
+    "Math Methods/Linear Algebra/Eigenspace.md",
+    "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
+    "Quantum Mechanics/Commutator.md",
+    "To Do/Heisenberg Uncertainty Principle.md",
+    "To Do/Photons.md",
+    "To Do/Microwaves.md",
+    "Math Methods/Linear Algebra/Dual.md"
   ]
 }

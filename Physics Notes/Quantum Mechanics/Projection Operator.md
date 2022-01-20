@@ -33,5 +33,7 @@ where $\{e_{\lambda,\nu}\}$ is any -does not matter which particular one - ONB i
 
 $$\begin{gather} A = \sum_\lambda \lambda \hat P_\lambda \\ \hat P_\lambda \hat P_{\lambda'} = \delta_{\lambda,\lambda'} \hat P_\lambda \\ \sum_\lambda \hat P_\lambda = \hat 1 & \text{completeness relation}\end{gather}$$
 
+[[Proofs of Projection Operator Properties]]
+
 where $\hat 1$ is the identity operator. The sum $\sum_\lambda(...)$ is over all $\lambda's$
  
