@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
+            "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
+            "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
+                "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
+    "Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
+    "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
     "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
     "Quantum Mechanics/Projection Operator.md",
-    "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
     "Math Methods/Linear Algebra/Eigenspace.md",
-    "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
     "Quantum Mechanics/Commutator.md",
     "To Do/Heisenberg Uncertainty Principle.md",
     "To Do/Photons.md",
-    "To Do/Microwaves.md",
-    "Math Methods/Linear Algebra/Dual.md"
+    "To Do/Microwaves.md"
   ]
 }

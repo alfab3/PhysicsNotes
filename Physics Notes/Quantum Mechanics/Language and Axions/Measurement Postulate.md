@@ -18,7 +18,7 @@ $$\begin{gather}p_\lambda = \braket{e_\lambda|\hat\rho|e_\lambda} & (\text{non-d
 
 This means that a pure state can be prepared by observing a non degenerate eigenvalue in the process of measurement, irrespective of the state before measurement.
 Let us now look at some extra special cases. If the state $\hat \rho$ before measurement is pure, $\hat \rho = \ket{\psi}\bra{\psi}$, then the expression for the probability $p_\lambda$ further simplifies to 
-$$\begin{gather} p_\lambda = |\braket{e_\lambda|\psi}|^2 & (\hat \rho = \ket{\psi}\bra{\psi} \text{ and nondegenerate} \lambda) \end{gather}$$
+$$\begin{gather} p_\lambda = |\braket{e_\lambda|\psi}|^2 & (\hat \rho = \ket{\psi}\bra{\psi} \text{ and nondegenerate } \lambda) \end{gather}$$
 
 If the state $\hat \rho$ before measurement is pure, the new state is necessarily pure no matter whether the eigenvalue $\lambda$ is degenerate or not - and the following formulas apply 
 
