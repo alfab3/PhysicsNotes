@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
+            "file": "To Do/Density Matrix.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
+            "file": "To Do/Density Matrix.md",
             "mode": "preview"
           }
         },
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -81,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
+                "file": "To Do/Density Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +100,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "2f84a910471b09c2",
   "lastOpenFiles": [
-    "Quantum Mechanics/Language and Axions/Measurement Postulate.md",
-    "Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
+    "To Do/Density Matrix.md",
+    "Quantum State.md",
     "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
+    "To Do/Pure State.md",
+    "Quantum Mechanics/Language and Axions/Evolution Postulate - Hamiltonian and Evolution Operator.md",
+    "To Do/Hamiltonian (QM).md",
+    "To Do/Hermitian Operator.md",
+    "Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
     "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
-    "Quantum Mechanics/Projection Operator.md",
-    "Math Methods/Linear Algebra/Eigenspace.md",
-    "Quantum Mechanics/Commutator.md",
-    "To Do/Heisenberg Uncertainty Principle.md",
-    "To Do/Photons.md",
-    "To Do/Microwaves.md"
+    "Quantum Mechanics/Language and Axions/Measurement Postulate.md"
   ]
 }

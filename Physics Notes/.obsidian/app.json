@@ -62,7 +62,8 @@
     "quantized",
     "correlators",
     "perturbative",
-    "eigenspace"
+    "eigenspace",
+    "diagonalization"
   ],
   "alwaysUpdateLinks": false
 }

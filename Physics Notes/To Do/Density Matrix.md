@@ -1,0 +1,1 @@
+In quantum mechanics, a Density matrix is a matrix that describes the [[Quantum State]]
