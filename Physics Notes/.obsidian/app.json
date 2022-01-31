@@ -63,7 +63,15 @@
     "correlators",
     "perturbative",
     "eigenspace",
-    "diagonalization"
+    "diagonalization",
+    "Wavefunction",
+    "Eigenstate",
+    "eigenstates",
+    "ket",
+    "ONBs",
+    "Hadrons",
+    "hadrons",
+    "nondegenerate"
   ],
   "alwaysUpdateLinks": false
 }

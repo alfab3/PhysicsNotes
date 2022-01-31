@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/Density Matrix.md",
+            "file": "Particle Physics/Particle Detectors/Analysis Values.md",
             "mode": "source"
           }
         },
-        "group": "6d92596419c997d2"
+        "group": "8bfe46e74ef7d5bc"
       },
       {
-        "id": "2f84a910471b09c2",
+        "id": "a20688401cc0d431",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/Density Matrix.md",
+            "file": "Particle Physics/Particle Detectors/Analysis Values.md",
             "mode": "preview"
           }
         },
-        "group": "6d92596419c997d2"
+        "group": "8bfe46e74ef7d5bc"
       }
     ],
     "direction": "vertical"
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -82,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do/Density Matrix.md",
+                "file": "Particle Physics/Particle Detectors/Analysis Values.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2f84a910471b09c2",
+  "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
-    "To Do/Density Matrix.md",
-    "Quantum State.md",
-    "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
-    "To Do/Pure State.md",
-    "Quantum Mechanics/Language and Axions/Evolution Postulate - Hamiltonian and Evolution Operator.md",
-    "To Do/Hamiltonian (QM).md",
-    "To Do/Hermitian Operator.md",
-    "Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
-    "Quantum Mechanics/Language and Axions/Proofs of Projection Operator Properties.md",
-    "Quantum Mechanics/Language and Axions/Measurement Postulate.md"
+    "Particle Physics/Particle Detectors/Analysis Values.md",
+    "Particle Physics/Particle Detectors/Proportional Chambers.md",
+    "Particle Physics/Particle Detectors/Position Measurement.md",
+    "Particle Physics/Particle Detectors/dEdx.md",
+    "To Do/Particle ID.md",
+    "To Do/Compton Effect.md",
+    "To Do/Avogadro's Number.md",
+    "To Do/Neutrinos.md",
+    "Quantum Mechanics/Language and Axions/Composition Postulate.md",
+    "Quantum Mechanics/Language and Axions/Evolution Postulate - Hamiltonian and Evolution Operator.md"
   ]
 }

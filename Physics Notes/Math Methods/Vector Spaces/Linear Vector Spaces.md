@@ -38,7 +38,7 @@ Functions defined on a given intercal form a vector space, with operations defin
 2 important properties of orthonormal basis ([[Basis Set]]) in Linear Vector Spaces. The first is orthonormality: 
 $$\braket{\phi_i | \phi_j} = \delta_{ij}$$
 
-and a set of [[projection operator]]s: 
+and a set of [[Projection Operator]]s: 
 $$\sum_n \ket{\phi_n} \bra{\phi_n} = \mathbb{I}$$ 
 which is known as completeness. 
 
