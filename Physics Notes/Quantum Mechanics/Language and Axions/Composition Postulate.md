@@ -40,7 +40,7 @@ Interaction leads to entanglement, by which we mean a structure of $\hat \rho$ t
 
 ## Reduced density matrix
 If we perform a measurement dealing with the observables of only one of the subsystems (subsystem $I$, for definiteness), then from the measurement postulate it follows that the outcome of this measurement is exhaustively described by the density matrix of the subsystem, related to the total density matrix by tracing out the variables of the other subsystem (note that the result of doing the trace is still an operator not a number):
-$$\begin{gather}\hat \rho = \text{Tr}^{(II)} \hat \rho \equiv \sum_m\braket{e^{(II)}|\hat \rho|e^{(II)}}\end{gather}$$
+$$\begin{gather}\hat \rho^{(I)} = \text{Tr}^{(II)} \hat \rho \equiv \sum_m\braket{e^{(II)}|\hat \rho|e^{(II)}}\end{gather}$$
 
 In the matrix form,
 

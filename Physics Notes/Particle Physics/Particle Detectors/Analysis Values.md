@@ -1,6 +1,8 @@
-Event number
-Charged Tracks
-FCAL Showers
+Event number - number of the event that is currently being read
+
+Charged Tracks - a physical count of how many charged tracks there are 
+
+FCAL Showers - 
 FCAL hits
 MWPC hits
 Time-based
