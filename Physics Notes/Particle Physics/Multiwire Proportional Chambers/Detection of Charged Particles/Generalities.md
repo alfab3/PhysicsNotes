@@ -1,0 +1,1 @@
+Electromagnetic interaction between particles and gas are the basis of detection. We will look at highly probable incoherent Coulomb interactions between the electromagnetic fields of the incoming charged particle and of the mediumn
