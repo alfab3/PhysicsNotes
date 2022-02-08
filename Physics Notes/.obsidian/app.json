@@ -71,7 +71,11 @@
     "ONBs",
     "Hadrons",
     "hadrons",
-    "nondegenerate"
+    "nondegenerate",
+    "Bremsstrahlung",
+    "kinematical",
+    "GeV",
+    "MeV"
   ],
   "alwaysUpdateLinks": false
 }

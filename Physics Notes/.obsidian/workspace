@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Generalities.md",
+            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Generalities.md",
+            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Generalities.md",
+                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
+    "To Do/Electron mass.md",
+    "To Do/Atomic Number.md",
+    "To Do/Electron Charge.md",
     "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Generalities.md",
+    "To Do/Cerenkov.md",
+    "To Do/Bremsstrahlung.md",
     "Physical Quantities/Amount of Substance.md",
     "Physical Quantities/Density.md",
-    "Classical Mechanics/Harmonic Oscillator/Simple Harmonic Oscillator.md",
-    "Classical Mechanics/Harmonic Oscillator/Harmonic Oscillator.md",
-    "Classical Mechanics/Harmonic Oscillator/Elastic Potential Energy.md",
-    "Classical Mechanics/Harmonic Oscillator/Driven harmonic oscillators.md",
-    "Classical Mechanics/Harmonic Oscillator/Damped Harmonic Oscillator.md",
-    "Classical Mechanics/Conservation Laws/Momentum.md",
-    "Classical Mechanics/Conservation Laws/Energy.md"
+    "Classical Mechanics/Harmonic Oscillator/Simple Harmonic Oscillator.md"
   ]
 }
