@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Charge Distribution.md",
+            "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Charge Distribution.md",
+            "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Charge Distribution.md",
+                "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,8 +99,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca8ff2706e6adf0f",
+  "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
+    "To Do/Magnetic Scalar Potential.md",
     "Electricity and Magnetism/Charge Distribution.md",
     "Electricity and Magnetism/Electrostatics/Work (Electrostatics).md",
     "Electricity and Magnetism/Electrostatics/Electric Potential.md",
@@ -108,8 +110,6 @@
     "Electricity and Magnetism/Electrodynamics/Electromagnetic Radiation.md",
     "Electricity and Magnetism/Electrodynamics/Electromagnetic Force.md",
     "Electricity and Magnetism/Electrodynamics/Electromagnetic Field.md",
-    "Electricity and Magnetism/Electrostatics/Charge Density.md",
-    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
-    "Electricity and Magnetism/Electrostatics/Voltage.md"
+    "Electricity and Magnetism/Electrostatics/Charge Density.md"
   ]
 }
