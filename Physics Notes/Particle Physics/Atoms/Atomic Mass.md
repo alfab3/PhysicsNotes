@@ -1,0 +1,1 @@
+The [[Mass]] of an [[Atom]]. The [[Protons]] and [[Neutrons]] account for nearly all of the total mass of atoms, with the [[Electrons]] and [[Nuclear Binding Energy]] making minor contributions. 

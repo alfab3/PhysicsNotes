@@ -1,0 +1,1 @@
+A type of [[Radioactive Decay]] in which a [[Beta Particle]] is emitted from an [[Atomic Nucleus]], transforming the original nuclide to an isobar of that nuclide. For example, beta decay of a neutron transforms it into a proton by the emission of an electron accompanied by an anti-neutrino

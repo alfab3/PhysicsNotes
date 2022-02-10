@@ -75,7 +75,12 @@
     "Bremsstrahlung",
     "kinematical",
     "GeV",
-    "MeV"
+    "MeV",
+    "electronvolt",
+    "indistinguishability",
+    "bremsstrahlung",
+    "synchotron",
+    "magnetostatics"
   ],
   "alwaysUpdateLinks": false
 }

@@ -13,3 +13,11 @@ It is customary to substitute for length $X$ a reduced length $x$ defined as $X_
 $$\begin{gather} \frac{dE}{dx} = \frac{1}{\rho}\frac{dE}{dx} \end{gather}$$
 
 The value of the effective ionization potential $I$ is in general the result of a measurement for each material; a rather good approximation is, however $I = I_0Z$ with $I_0 \approx 12 eV$. 
+
+The expression for $\frac{dE}{dx}$ shows that the differential energy loss depends only on the projectile velocity $\beta$, not on its mass. After a fast decrease dominated by the $\beta^{-2}$ term, the energy loss reaches a constant value around $\beta \approx 0.97$ and eventually slowly increases for $\beta \to 1$. The region of constant loss is called the minimum ionizing region and corresponds to the more frequent case in high-energy physics.
+
+When plotting $dE/dx$ as a function of the projectile energy: 
+
+![[dEdxvsE.jpg]]
+
+one observes that at energies above a few hundred MeV all particles are at the minimum of ionization and therefore lose the same amount of energy per unit length. 

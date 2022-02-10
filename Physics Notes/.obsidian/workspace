@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
+            "file": "Electricity and Magnetism/Charge Distribution.md",
             "mode": "source"
           }
         },
-        "group": "9bdd062982d51741"
+        "group": "94053ff5051ff25e"
       },
       {
-        "id": "ec70d7072af6e1d2",
+        "id": "ca8ff2706e6adf0f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
+            "file": "Electricity and Magnetism/Charge Distribution.md",
             "mode": "preview"
           }
         },
-        "group": "9bdd062982d51741"
+        "group": "94053ff5051ff25e"
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
+                "file": "Electricity and Magnetism/Charge Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "ca8ff2706e6adf0f",
   "lastOpenFiles": [
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Energy loss due to electromagnetic interactions.md",
-    "To Do/Electron mass.md",
-    "To Do/Atomic Number.md",
-    "To Do/Electron Charge.md",
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Generalities.md",
-    "To Do/Cerenkov.md",
-    "To Do/Bremsstrahlung.md",
-    "Physical Quantities/Amount of Substance.md",
-    "Physical Quantities/Density.md",
-    "Classical Mechanics/Harmonic Oscillator/Simple Harmonic Oscillator.md"
+    "Electricity and Magnetism/Charge Distribution.md",
+    "Electricity and Magnetism/Electrostatics/Work (Electrostatics).md",
+    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
+    "Electricity and Magnetism/Electrostatics/Electric Charge.md",
+    "Electricity and Magnetism/Electrodynamics/Electromagnetic Radiation.md",
+    "Electricity and Magnetism/Electrodynamics/Electromagnetic Force.md",
+    "Electricity and Magnetism/Electrodynamics/Electromagnetic Field.md",
+    "Electricity and Magnetism/Electrostatics/Charge Density.md",
+    "Electricity and Magnetism/Electrostatics/Boundary Conditions of Electrostatics.md",
+    "Electricity and Magnetism/Electrostatics/Voltage.md"
   ]
 }

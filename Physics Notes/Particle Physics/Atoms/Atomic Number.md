@@ -1,0 +1,1 @@
+The atomic number or proton number (usually denoted $Z$) of a chemical element is the number of [[Protons]] found in the nucleus of every [[Atom]] of that element. The atomic number number uniquely identifies a chemical element. It is identical to the charge number of the nucleus. In an uncharged atom the atomic number is also equal to the number of [[Electrons]]
