@@ -80,7 +80,12 @@
     "indistinguishability",
     "bremsstrahlung",
     "synchotron",
-    "magnetostatics"
+    "magnetostatics",
+    "additivity",
+    "Renyi",
+    "von",
+    "entropies",
+    "eigenmodes"
   ],
   "alwaysUpdateLinks": false
 }

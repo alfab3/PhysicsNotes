@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
+            "file": "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
+            "file": "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
+                "file": "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
+    "Heat Bath.md",
+    "Statistical Operator.md",
+    "Quantum Mechanics/Language and Axions/Entropy. Entanglement entropy.md",
     "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
+    "Reduced Density Matrices.md",
     "To Do/Magnetic Scalar Potential.md",
     "Electricity and Magnetism/Charge Distribution.md",
     "Electricity and Magnetism/Electrostatics/Work (Electrostatics).md",
-    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
-    "Electricity and Magnetism/Electrostatics/Electric Charge.md",
-    "Electricity and Magnetism/Electrodynamics/Electromagnetic Radiation.md",
-    "Electricity and Magnetism/Electrodynamics/Electromagnetic Force.md",
-    "Electricity and Magnetism/Electrodynamics/Electromagnetic Field.md",
-    "Electricity and Magnetism/Electrostatics/Charge Density.md"
+    "Electricity and Magnetism/Electrostatics/Electric Potential.md"
   ]
 }
