@@ -16,4 +16,16 @@ Let $\{\ket{\phi^{(I)}_n}\}$ be an ONB of eigenvectors of $\hat \rho^{(I)}$. The
 $$\begin{gather} \ket{\psi} = \sum_n\ket {\phi^{(I)}_n}\ket{\varphi_n^{(II)}} \end{gather}$$
 
 where $\{\ket{\phi_n^{(II)}}\}$ are certain states of subsystem $II$. Correspondingly
-$$\begin{gather}\hat\rho = \sum_{n_1n_2} \ket{\phi^{(I)}_{n_1}}\ket{} \end{gather}$$
+$$\begin{gather}\hat\rho = \sum_{n_1n_2} \ket{\phi^{(I)}_{n_1}}\ket{\varphi^{(II)}_{n_1}}\bra{\varphi^{(II)}_{n_2}}\bra{\phi^{(I)}_{n_2}} \\ \hat\rho^{(I)} = \text{Tr}^{(II)}\hat \rho = \sum_{n_1n_2} \ket{\phi^{(I)}_{n_1}}\braket{\varphi^{(II)}_{n_2}|\varphi^{(II)}_{n_1}}\bra{\phi_{n_2}^{(I)}}  \end{gather}$$
+
+So far, we have used only the fact that $\{\ket{\phi_n^{(I)}}\}$ is a certain ONB in the [[Hilbert Space]] of the subsystem $I$. Now recall that the vectors $\{\ket{\phi^{(I)}_n}\}$ are eigenvectors of $\hat \rho ^{(I)}$, so that all the $n_1 \neq n_2$ terms in the above equation have to be identically equal to zero: 
+
+$$\begin{gather} \hat \rho^{(I)} = \sum_n \ket{\phi^{(I)}}\braket{\varphi_n^{(II)}|\varphi_n^{(II)}}\bra{\phi^{(I)}_n} \end{gather}$$
+
+This brings us to 
+$$\begin{gather}\braket{\varphi^{(II)}_{n_2}|\varphi^{(II)}_{n_1}} = 0 & \text{if} & n_1 \neq n_2 \end{gather}$$
+
+and thus: 
+
+$$\begin{gather}\ket{\phi^{(II)}_n} = \frac{\ket{\varphi^{(II)}_n}}{\sqrt{\braket{\varphi_n^{(II)}|\varphi_n^{(II)}}}} & a_n = \sqrt{\braket{\varphi_n^{(II)}|\varphi_n^{(II)}}}\end{gather}$$
+
