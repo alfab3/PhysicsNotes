@@ -1,0 +1,3 @@
+As for [[Charged Particles]], an electromagnetic interaction allows the detection of [[Photons]]; in this case the interaction is a single localized event. The probability of absorption can be written in terms of the cross-section $\sigma$, and the attenuation of a beam of photons traversing a thickness $X$ of a medium having $N$ molecules per unit volume is given by $$\begin{gather} I = I_0e^{-\sigma NX} = I_0e^{-\mu X}\end{gather}$$
+
+Where $\mu$ is the mass attenuation coefficient amd $x=\rho X$ is the reduced thickness of the medium. 

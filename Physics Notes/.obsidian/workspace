@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Delta Ray Production.md",
+            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Delta Ray Production.md",
+            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Delta Ray Production.md",
+                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,15 +101,15 @@
   },
   "active": "6c8c26d20630fed2",
   "lastOpenFiles": [
+    "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
+    "Data Analysis/Statistics/Full-Width Half Maximum (FWHM).md",
+    "To Do/Statistical Operator.md",
+    "To Do/Independent Variable.md",
+    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Statistics of ion-pair production.md",
+    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Primary and total ionization.md",
     "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Delta Ray Production.md",
     "Particle Physics/Particle Detectors/Proportional Chambers.md",
     "Particle Physics/Particle Detectors/Position Measurement.md",
-    "Particle Physics/Particle Detectors/dEdx.md",
-    "Particle Physics/Particle Detectors/Analysis Values.md",
-    "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
-    "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
-    "Heat Bath.md",
-    "Statistical Operator.md",
-    "Quantum Mechanics/Language and Axions/Entropy. Entanglement entropy.md"
+    "Particle Physics/Particle Detectors/dEdx.md"
   ]
 }
