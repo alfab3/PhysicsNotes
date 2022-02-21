@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
+            "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
+            "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
+                "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c8c26d20630fed2",
+  "active": "ca8ff2706e6adf0f",
   "lastOpenFiles": [
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Photons/Different Processes of Absorption.md",
-    "Data Analysis/Statistics/Full-Width Half Maximum (FWHM).md",
+    "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
     "To Do/Statistical Operator.md",
-    "To Do/Independent Variable.md",
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Statistics of ion-pair production.md",
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Primary and total ionization.md",
-    "Particle Physics/Multiwire Proportional Chambers/Detection of Charged Particles/Delta Ray Production.md",
-    "Particle Physics/Particle Detectors/Proportional Chambers.md",
-    "Particle Physics/Particle Detectors/Position Measurement.md",
-    "Particle Physics/Particle Detectors/dEdx.md"
+    "To Do/Wick's Theorem.md",
+    "To Do/X-rays.md",
+    "Table of Contents/Momentum.md",
+    "Table of Contents/Kinetic Energy.md",
+    "Quantum Mechanics/Observables/Hamiltonian.md",
+    "Quantum Mechanics/Observables/Kinetic Energy.md",
+    "To Do/AA README AA.md",
+    "To Do/Hidden Variables.md"
   ]
 }

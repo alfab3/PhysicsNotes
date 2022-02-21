@@ -8,7 +8,7 @@ $$
 Also refered to as the principle of [[Inertia]]
 
 Second law
-The rate of change of [[momentum]] of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force
+The rate of change of [[Classical Mechanics/Conservation Laws/Momentum]] of a body over time is directly proportional to the force applied, and occurs in the same direction as the applied force
 $$
 \vec{F}=\frac{d\vec{p}}{dt}
 $$
