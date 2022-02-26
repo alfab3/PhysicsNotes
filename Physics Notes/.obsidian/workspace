@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
+            "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
             "mode": "source"
           }
         },
@@ -21,7 +21,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
+            "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
             "mode": "preview"
           }
         },
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
+                "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +101,7 @@
   },
   "active": "ca8ff2706e6adf0f",
   "lastOpenFiles": [
+    "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
     "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
     "To Do/Statistical Operator.md",
     "To Do/Wick's Theorem.md",
@@ -109,7 +110,6 @@
     "Table of Contents/Kinetic Energy.md",
     "Quantum Mechanics/Observables/Hamiltonian.md",
     "Quantum Mechanics/Observables/Kinetic Energy.md",
-    "To Do/AA README AA.md",
-    "To Do/Hidden Variables.md"
+    "To Do/AA README AA.md"
   ]
 }
