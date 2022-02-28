@@ -31,3 +31,24 @@ $$\begin{gather} \hat{P}_\lambda = \sum_\nu \ket{e_{\lambda,\nu}} \bra{e_{\lambd
 $$\begin{gather} A = \sum_\lambda \lambda \hat P_\lambda \\ \hat P_\lambda \hat P_{\lambda'} = \delta_{\lambda,\lambda'} \hat P_\lambda \\ \sum_\lambda \hat P_\lambda = \hat 1 & \text{completeness relation}\end{gather}$$
 
 ## Measuring Postulate
+The probability of finding $\lambda$ in the state: $\rho^{(new)}$ is defined by: 
+
+$$\begin{gather} p_\lambda = \text{Tr}(\hat \rho \hat P_\lambda) \end{gather}$$
+Where $\hat \rho^{(new)}$ is defined as:
+$$\begin{gather} \hat\rho^{(new)} \frac{\hat P_\lambda \hat \rho \hat P_\lambda}{\text{Tr}\hat P_\lambda\hat\rho \hat P_\lambda} 
+ = \frac{\hat P_\lambda \hat\rho\hat P_\lambda}{p_\lambda}\end{gather}$$
+ ## Probability
+ If the state $\hat \rho$ is pure $\hat \rho = \ket{\psi}\bra{\psi}$ and $\lambda$ is non-degenerate, the probability of finding $\lambda$ is: 
+
+ $$\begin{gather} p_\lambda = |\braket{e_\lambda|\psi}|^2 \end{gather}$$
+
+## Expectation Value and Variance
+Assume we have some observable $A$:
+
+The expectation value can be found by: 
+
+$$\begin{gather}\bar{A} \equiv \braket{A} = \sum_\lambda \lambda p_\lambda \\ \bar{A} = \text{Tr} A\hat{\rho} \\ (\Delta A^2) = \text{Tr}(A-\bar{A}^2)\hat \rho\end{gather}$$
+Variance: 
+$$\begin{gather} (\Delta A)^2 = \sum_\lambda (\lambda-\bar{A})^2p_\lambda \\ \bar{A} =\braket{\psi|A|\psi} \\ (\Delta A)^2 = \braket{\psi|(A-\bar{A})|\psi}\end{gather}$$
+ ## Appendix 
+ Degenerate/Non-degenerate - a degenerate eigenvalue is an eigenvalue which corresponds to multiple eigenvectors. 
