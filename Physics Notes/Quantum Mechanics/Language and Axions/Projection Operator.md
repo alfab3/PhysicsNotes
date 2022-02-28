@@ -14,7 +14,7 @@ $$\ket{\phi_1}\braket{\phi_1|\psi} = \ket{\phi_1}v_1 = v_1\ket{\phi_1}$$
  
  If you have an orthonormal basis formed from these vectors? 
  $$\sum_n \ket{\phi_n} \bra{\phi_n} = \mathbb{I}$$ 
- Which is the unit operator, the unit operator, when acting ona  vector, does nothing at all. 
+ Which is the unit operator, the unit operator, when acting on a  vector, does nothing at all. 
  
  $$p_n(p_n - \mathbb{I}) = 0$$
  

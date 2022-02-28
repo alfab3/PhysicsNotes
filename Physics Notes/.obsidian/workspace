@@ -9,23 +9,23 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
-            "mode": "source"
+            "file": "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "94053ff5051ff25e"
+        }
       },
       {
-        "id": "ca8ff2706e6adf0f",
+        "id": "a16bdf8d7565d7f8",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
-            "mode": "preview"
+            "file": "Quantum Mechanics/Language and Axions/Projection Operator.md",
+            "mode": "source",
+            "source": false
           }
-        },
-        "group": "94053ff5051ff25e"
+        }
       }
     ],
     "direction": "vertical"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
+                "file": "Quantum Mechanics/Language and Axions/Projection Operator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +99,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ca8ff2706e6adf0f",
+  "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
+    "Quantum Mechanics/Language and Axions/Projection Operator.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide.md",
+    "Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
+    "Quantum Mechanics/Language and Axions/System's Hilbert Space. Pure and Mixed States.md",
+    "Quantum Mechanics/Language and Axions/Thermal Equilibrium - Gibbs Distribution.md",
+    "Quantum Mechanics/Language and Axions/Density Matrix.md",
     "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
     "Quantum Mechanics/Language and Axions/Bell's Theorem.md",
     "To Do/Statistical Operator.md",
-    "To Do/Wick's Theorem.md",
-    "To Do/X-rays.md",
-    "Table of Contents/Momentum.md",
-    "Table of Contents/Kinetic Energy.md",
-    "Quantum Mechanics/Observables/Hamiltonian.md",
-    "Quantum Mechanics/Observables/Kinetic Energy.md",
-    "To Do/AA README AA.md"
+    "To Do/Wick's Theorem.md"
   ]
 }

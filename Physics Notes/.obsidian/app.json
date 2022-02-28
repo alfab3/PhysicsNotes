@@ -87,5 +87,6 @@
     "entropies",
     "eigenmodes"
   ],
-  "alwaysUpdateLinks": false
+  "alwaysUpdateLinks": false,
+  "legacyEditor": false
 }
