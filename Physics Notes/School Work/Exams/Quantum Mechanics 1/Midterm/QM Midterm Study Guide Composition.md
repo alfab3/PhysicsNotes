@@ -9,7 +9,7 @@ A linear operator acting in our Hilbert space can be represented as a linear com
 $$\begin{gather} O = A^{(I)}B^{(II)} \end{gather}$$
 Working with just one system implies the following:
 
-$$\begin{gather} A^{(I)}\hat 1^{(II)} \equiv A^{(I)}, \hat 1B^{(II)} \equiv B^{(II)} \end{gather}$$
+$$\begin{gather} A^{(I)}\hat 1^{(II)} \equiv A^{(I)}, \hat 1^{(I)}B^{(II)} \equiv B^{(II)} \end{gather}$$
 Applying this operator to our state results in the following:
 
 $$\begin{gather} O\ket{\psi} =\sum_{nm}c_{nm}O\ket{e_{nm}}\equiv \sum_{nm}c_{nm}\ket{A^{(I)}e_n^{(I)}}\ket{B^{(II)}e_m^{(II)}} \end{gather}$$
