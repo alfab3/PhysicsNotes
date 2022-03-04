@@ -1,9 +1,18 @@
+## Bra-ket Notation
+A ket is defined as:
+$$\begin{gather} \ket{\psi} = \begin{bmatrix} n_1 \\ n_2 \\ n_3 \\ \vdots\\ n_j \end{bmatrix}  \end{gather}$$
+
+A bra is defined as: 
+$$\begin{gather} \bra{\psi} = [n^*_1 & n^*_2 & n^*_3 & \cdots & n^*_j] \end{gather}$$
 ## System's Hilbert Space
 A state vector is defined as: 
 $$\begin{gather} \ket{\psi} = \sum_n c_n\ket{e_n} & c_n = \braket{e_n|\psi}\end{gather}$$
 
 Where $\{\ket{e_n}\}$ is a certain orthonormal basis.
 
+If the vector were instead defined as a bra:
+
+$$\begin{gather} \bra{\psi} = \sum_n c^*_n\bra{e_n} & c_n = \braket{e_n|\psi}\end{gather}$$
 ## Density Matrix
 The state of the system is defined by a density matrix $\hat \rho$, a Hermitian Operator with non-negative eigenvalues and unity trace
 
