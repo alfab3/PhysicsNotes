@@ -4,6 +4,17 @@ $$\begin{gather} \ket{\psi} = \begin{bmatrix} n_1 \\ n_2 \\ n_3 \\ \vdots\\ n_j 
 
 A bra is defined as: 
 $$\begin{gather} \bra{\psi} = [n^*_1 & n^*_2 & n^*_3 & \cdots & n^*_j] \end{gather}$$
+
+## Trace
+The trace of an $n \times n$ square matrix $A$ is defined as 
+$$\begin{gather} \text{Tr}(A)=\sum^n_{i=1} a_{ii} = a_{11}+a_{22}+ \cdots + a_{nn} \end{gather}$$
+#### Cyclic property:
+$$\begin{gather} \text{Tr}(AB) = \text{Tr}(BA)\end{gather}$$
+#### Bra-ket Notation:
+
+$$\begin{gather} \text{Tr}\hat\rho = \sum_n \bra{e_n}\hat \rho\ket{e_n} \end{gather}$$
+
+
 ## System's Hilbert Space
 A state vector is defined as: 
 $$\begin{gather} \ket{\psi} = \sum_n c_n\ket{e_n} & c_n = \braket{e_n|\psi}\end{gather}$$
@@ -47,10 +58,13 @@ Where $\hat \rho^{(new)}$ is defined as:
 $$\begin{gather} \hat\rho^{(new)} \frac{\hat P_\lambda \hat \rho \hat P_\lambda}{\text{Tr}\hat P_\lambda\hat\rho \hat P_\lambda} 
  = \frac{\hat P_\lambda \hat\rho\hat P_\lambda}{p_\lambda}\end{gather}$$
  ## Probability
+
+### Pure State
  If the state $\hat \rho$ is pure $\hat \rho = \ket{\psi}\bra{\psi}$ and $\lambda$ is non-degenerate, the probability of finding $\lambda$ is: 
-
  $$\begin{gather} p_\lambda = |\braket{e_\lambda|\psi}|^2 \end{gather}$$
-
+### Mixed State
+If $\hat \rho$ is a mixed state the probability can be found by:
+ $$\begin{gather} p_\lambda = \sum_j \sum_\nu w_j|\braket{e_{\lambda,\nu}|\psi}|^2 \end{gather}$$
 ## Expectation Value and Variance
 Assume we have some observable $A$:
 
