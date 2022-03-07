@@ -16,4 +16,3 @@ If the eigenvalue $\lambda$ is degenerate then the system keeps evolving. The la
 $$\begin{gather} i\hbar \frac{\partial}{\partial t}\hat \rho = [H^{(\lambda)},\hat \rho] \\ H^{(\lambda)} = \hat P_\lambda H \hat P_\lambda \end{gather}$$
 The second line is the projected onto the $\lambda$ subspace Hamiltonian. In the case of non-degenerate $\lambda$ $H^{(\lambda)}$ is just a number making $[H^{(\lambda)}, \hat \rho] \equiv 0$ and thus the suppression of any evolution. 
 
-## Negative Measurement
