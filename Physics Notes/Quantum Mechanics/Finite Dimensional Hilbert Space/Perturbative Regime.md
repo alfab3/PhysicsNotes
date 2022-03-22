@@ -1,0 +1,1 @@
+The case of the $\Delta/xi \ll 1$ corresponds to the so-called perturbative regime. In this regime, is is natural to look for the solution of the eigenvalue/eigenvector problem as an expansion in powers of the dimensionless parameter $\Delta/\xi$ 

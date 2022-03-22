@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Permanent Measurement.md",
+            "file": "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Permanent Measurement.md",
+                "file": "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Higher Dimensional Systems.md",
+    "Eigenenergies.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Perturbative Regime.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Two Level Systems.md",
+    "Quantum Mechanics/Two Level Systems/Untitled.md",
     "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Permanent Measurement.md",
     "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Measurement.md",
     "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Basics.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Hamiltonian.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Gibbs Distribution.md",
-    "Math Methods/Statistics/Normalization.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Entropy.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Composition.md",
-    "Quantum Mechanics/Language and Axions/Schmidt Decomposition.md",
-    "Quantum Mechanics/Language and Axions/Composition Postulate.md"
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Hamiltonian.md"
   ]
 }
