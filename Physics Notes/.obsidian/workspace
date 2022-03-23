@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relativity/Special Relativity/Simultaneity.md",
+            "file": "Relativity/Special Relativity/4-Vectors.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relativity/Special Relativity/Simultaneity.md",
+                "file": "Relativity/Special Relativity/4-Vectors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "Relativity/Special Relativity/Simultaneity.md",
-    "Relativity/Special Relativity/Vectors in Minkowski Space.md",
-    "Relativity/Special Relativity/Lorentz Vector Space.md",
-    "Relativity/Special Relativity/Length Contraction and Time Dilation.md",
-    "Lorentz Boost.md",
+    "Relativity/Special Relativity/4-Vectors.md",
+    "Relativity/Special Relativity/Relativistic Addition of Velocities.md",
+    "Relativity/Special Relativity/Boost along a general direction.md",
+    "Relativity/Special Relativity/Frames in uniform relative motion.md",
     "Relativity/Special Relativity/Lorentz Transformation.md",
-    "Math Methods/Vector Spaces/Subspace.md",
-    "Math Methods/Vector Spaces/Tensor Products.md",
-    "Math Methods/Vector Spaces/Gram-Schmidt Orthonormalization.md",
-    "Math Methods/Vector Spaces/Adjoint.md"
+    "Tensor Formulation.md",
+    "Relativity/Special Relativity/Lorentz Vector Space.md",
+    "Relativity/Special Relativity/Lorentz Basis.md",
+    "Relativity/Special Relativity/Relativistic Distance.md",
+    "Relativity/Special Relativity/Properties of the Scalar Product.md"
   ]
 }
