@@ -9,4 +9,4 @@ If: $\Delta s^2 > 0$: the two events can be causally connected, there exists a f
 
 Examples:
 
-![[Screenshot from 2022-03-23 09-45-36.png]]
+![[spacetime intervals.png]]

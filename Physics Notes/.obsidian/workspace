@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relativity/Special Relativity/4-Vectors.md",
+            "file": "Relativity/Special Relativity/The World Line.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relativity/Special Relativity/4-Vectors.md",
+                "file": "Relativity/Special Relativity/The World Line.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
+    "Relativity/Special Relativity/The World Line.md",
+    "Relativity/Special Relativity/4 - Velocity.md",
+    "Relativity/Special Relativity/Proper Time.md",
+    "Relativity/Special Relativity/Index Contraction.md",
+    "Relativity/Special Relativity/Covariant - Contravariant Vectors.md",
     "Relativity/Special Relativity/4-Vectors.md",
-    "Relativity/Special Relativity/Relativistic Addition of Velocities.md",
     "Relativity/Special Relativity/Boost along a general direction.md",
     "Relativity/Special Relativity/Frames in uniform relative motion.md",
-    "Relativity/Special Relativity/Lorentz Transformation.md",
-    "Tensor Formulation.md",
-    "Relativity/Special Relativity/Lorentz Vector Space.md",
-    "Relativity/Special Relativity/Lorentz Basis.md",
-    "Relativity/Special Relativity/Relativistic Distance.md",
-    "Relativity/Special Relativity/Properties of the Scalar Product.md"
+    "Relativity/Special Relativity/Length Contraction and Time Dilation.md",
+    "Images/relative frames.png"
   ]
 }

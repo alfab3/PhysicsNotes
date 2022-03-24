@@ -1,4 +1,4 @@
-![[Screenshot from 2022-03-23 13-57-42.png]]
+![[velocity addition.png]]
 
 Galileo: $u + v + u'$
 Special relativity: 

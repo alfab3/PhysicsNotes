@@ -1,6 +1,6 @@
 If we have a system:
 
-![[Screenshot from 2022-03-23 12-48-19.png]]
+![[relative frames.png]]
 
 Where $k_1$ is moving with relative velocity $\vec w$ w.r.t. $k_0$
 
