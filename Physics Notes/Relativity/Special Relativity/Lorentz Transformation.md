@@ -1,22 +1,10 @@
-Reconcile the constancy of $c$ [[Speed of Light]] across inertial frames with space-time coordinate transformations.
+## Tensor Notation
+In [[Contravariant]] form:
+$$\begin{gather} x'^\mu = \sum_\nu \Lambda^\mu_\nu x^\nu & \mu,\nu = 0,1,2,3 \end{gather}$$ Where: $$\begin{gather} \Lambda^\mu_\nu = \begin{bmatrix} \gamma & -\gamma\beta & 0 & 0\\ -\gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
+such  that: 
 
-Embedded in the structure of Maxwell's which are not invariant under Galilean transformations
-
-Space and time are no longer independent.
-
-Consider a light signal propagating from the origin of reference system $\{\vec x,t\}$ at velocity $c$, starting at time $t = 0$ 
-
-At time t the sphere in $4D$ takes the form:
-
-$$\begin{gather} x^2+y^2+z^2 = (ct)^2\\ (ct)^2 - x^2-y^2 -z^2 = 0\end{gather}$$
-
-Consider another inertial reference frame $\{\vec x', t'\}$ that coincides with $\{x,t\}$ at t = t' = 0. Light propagates at velocity $c$ in $\{x'\}$: 
-
-$$\begin{gather} (ct')^2-x'^2-y'^2-z'^2 = 0 \end{gather}$$
-Define $x_0 = ct$:
-
-$$\begin{gather}x_0^2 - \vec x^2 = 0\Leftrightarrow x _0^2\ ' - \vec x^2\ ' = 0 \end{gather}$$
-The light-like relationship between time and space coordinates defines the Lorentz transformation
+$$\begin{gather} \sum_{\mu = 0}^3x^\mu x_\mu = c^2t^2 - \vec{r}^2 \end{gather}$$
+The reverse Lorentz transformation: $$\begin{gather} \Lambda^\mu_\nu = \begin{bmatrix} \gamma & \gamma\beta & 0 & 0\\ \gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
 
 ## Properties
 Leaves scalar product invariant: 
