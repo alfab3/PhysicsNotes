@@ -1,10 +1,10 @@
 ## Tensor Notation
 In [[Contravariant]] form:
-$$\begin{gather} x'^\mu = \sum_\nu \Lambda^\mu_\nu x^\nu & \mu,\nu = 0,1,2,3 \end{gather}$$ Where: $$\begin{gather} \Lambda^\mu_\nu = \begin{bmatrix} \gamma & -\gamma\beta & 0 & 0\\ -\gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
+$$\begin{gather} x'^\mu = \sum_\nu \Lambda^\mu_{\ \nu} x^\nu & \mu,\nu = 0,1,2,3 \end{gather}$$ Where: $$\begin{gather} \Lambda^\mu_{\ \nu} = \begin{bmatrix} \gamma & -\gamma\beta & 0 & 0\\ -\gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
 such  that: 
 
 $$\begin{gather} \sum_{\mu = 0}^3x^\mu x_\mu = c^2t^2 - \vec{r}^2 \end{gather}$$
-The reverse Lorentz transformation: $$\begin{gather} \Lambda^\mu_\nu = \begin{bmatrix} \gamma & \gamma\beta & 0 & 0\\ \gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
+The reverse Lorentz transformation: $$\begin{gather} \Lambda^\mu_{\ \nu} = \begin{bmatrix} \gamma & \gamma\beta & 0 & 0\\ \gamma\beta &\gamma & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix} \end{gather}$$
 
 ## Properties
 Leaves scalar product invariant: 
