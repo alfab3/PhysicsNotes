@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Relativity/Special Relativity/Covariant Differentiation.md",
+            "file": "School Work/Exams/EM/Final/Retardation and Radiation/Electric Dipole Fields and Radiation.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 401
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Relativity/Special Relativity/Covariant Differentiation.md",
+                "file": "School Work/Exams/EM/Final/Retardation and Radiation/Electric Dipole Fields and Radiation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "Relativity/Special Relativity/Covariant Differentiation.md",
-    "Math Methods/Tensors/Levi-Cevita Tensor.md",
-    "Relativity/Special Relativity/Lorentz Tensor.md",
-    "Relativity/Special Relativity/Length Contraction and Time Dilation.md",
-    "Relativity/Special Relativity/Lorentz Basis.md",
-    "Relativity/Special Relativity/Lorentz Transformation.md",
-    "Relativity/Special Relativity/Lorentz Vector Space.md",
-    "Relativity/Special Relativity/Lorentz-Scalars.md",
-    "Relativity/Special Relativity/Lorentz-Vectors.md",
-    "Relativity/Special Relativity/Proper Time.md"
+    "School Work/Exams/EM/Final/Retardation and Radiation/Electric Dipole Fields and Radiation.md",
+    "School Work/Exams/EM/Final/Retardation and Radiation/Fields and Potentials and Sources.md",
+    "School Work/Exams/EM/Final/Maxwells Equations and Conservation Laws.md",
+    "School Work/Exams/EM/Final/General Info.md",
+    "Electricity and Magnetism/Electrostatics/Gauss's Law.md",
+    "Electricity and Magnetism/Electrostatics/Electric Charge.md",
+    "Electricity and Magnetism/Electrostatics/Method of Images.md",
+    "Electricity and Magnetism/Electrostatics/Electric Potential Energy.md",
+    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
+    "Electricity and Magnetism/Electrostatics/Conservation of Charge.md"
   ]
 }
