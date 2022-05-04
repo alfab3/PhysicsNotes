@@ -1,4 +1,4 @@
-## Vector Potential 
+ ## Vector Potential 
 $$\begin{gather} \vec A (\vec x) = \frac{\mu_0}{4\pi} \frac{e^{ikr}}{r}\int \vec J ( \vec x' ) d^3x' \end{gather}$$
 Note: this is the $l=0$ part of the series and is valid everywhere outside the source.
 
