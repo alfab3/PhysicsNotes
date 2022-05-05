@@ -30,3 +30,6 @@ $$\begin{gather} \hat r \times \vec E_{\text{rad}} = c \vec B_\text{rad} \\ \vec
 So our power radiated can be written as: 
 
 $$\begin{gather} \frac{dP}{d\Omega} = \frac{r^2}{c\mu_0}|\vec E_\text{rad}|^2 = \frac{1}{c\mu_0}\left|\vec r \times \frac{\partial \vec A_\text{rad}(\vec r,t)}{\partial t}\right|^2\end{gather}$$
+We can also use: 
+
+$$\begin{gather} \frac{Z_0}{} \end{gather}$$

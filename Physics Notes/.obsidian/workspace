@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "School Work/Exams/EM/Final/Relevant Material/Qual Problems.md",
+            "file": "School Work/Exams/EM/Final/Maxwells Equations and Conservation Laws.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School Work/Exams/EM/Final/Relevant Material/Qual Problems.md",
+                "file": "School Work/Exams/EM/Final/Maxwells Equations and Conservation Laws.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "School Work/Exams/EM/Final/Relevant Material/Qual Problems.md",
-    "School Work/Exams/EM/Final/Relevant Material/Jackson.md",
     "School Work/Exams/EM/Final/Maxwells Equations and Conservation Laws.md",
     "School Work/Exams/EM/Final/General Info.md",
-    "School Work/Exams/EM/Final/Retardation and Radiation/Electric Dipole Fields and Radiation.md",
-    "School Work/Exams/EM/Final/Retardation and Radiation/Fields and Potentials and Sources.md",
-    "School Work/Exams/EM/Final/Retardation and Radiation/Power from Fields.md",
+    "School Work/Exams/EM/Final/Retardation and Radiation/Poynting Vector.md",
     "School Work/Exams/EM/Final/Retardation and Radiation/Magnetic Dipole and Electric Quadrupole Fields.md",
-    "School Work/Exams/EM/Final/Multipole/Electric Quadrupole.md",
-    "School Work/Exams/EM/Final/Multipole/Magnetic Dipole.md"
+    "School Work/Exams/EM/Final/Retardation and Radiation/Fields and Potentials and Sources.md",
+    "School Work/Exams/EM/Final/Retardation and Radiation/Electric Dipole Fields and Radiation.md",
+    "School Work/Exams/EM/Final/Relevant Material/Qual Problems.md",
+    "School Work/Exams/EM/Final/Multipole/Magnetic Dipole.md",
+    "School Work/Exams/EM/Final/Multipole/Expansion.md",
+    "School Work/Exams/EM/Final/Multipole/Electric Quadrupole.md"
   ]
 }
