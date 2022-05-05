@@ -1,3 +1,5 @@
+## Relation of the Different Magnetic Fields
+$$\begin{gather} \vec B = \mu_0(\vec H + \vec M) \;\; \text{SI} \\ \vec B = \vec H + 4\pi\vec M \;\;  \text{Gauss}\end{gather}$$
 ## Continuity Equation (for a conserved quantity)
 $$\begin{gather} \frac{\partial \rho}{\partial t} + \nabla\cdot \vec j =0 \end{gather}$$
 ## Relation of Magnetic and Electric Fields for Dipole Sources

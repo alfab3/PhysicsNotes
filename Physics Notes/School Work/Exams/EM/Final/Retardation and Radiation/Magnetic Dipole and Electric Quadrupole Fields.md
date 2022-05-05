@@ -9,7 +9,6 @@ $$\begin{gather} (\hat n \cdot \vec x')\vec J= \frac{1}{2}[(\hat n \cdot \vec x'
 The second term is the magnetization term: 
 
 $$\begin{gather} \mathcal M = \frac{1}{2}(\vec x \times \vec J) \end{gather}$$
-
 Which gives us: 
 
 $$\begin{gather} A(\vec x) = \frac{ik\mu_0}{4\pi} (\hat n \times\vec m) \frac{e^{ikr}}{r} \left(1-\frac{1}{ikr}\right) \\ \vec m = \int \mathcal Md^3x = \frac{1}{2}\int(\vec x \times \vec J) d^3x\end{gather}$$
@@ -27,7 +26,7 @@ $$\begin{gather} Q_\alpha = \sum_\beta Q_{\alpha \beta} n_\beta\end{gather}$$
 $$\begin{gather} \vec H = -\frac{ick^3}{24\pi}\frac{e^{ikr}}{r}\hat n \times \vec Q(\hat n) \end{gather}$$
 
 #### Time Averaged power radiated per unit solid angle
-$$\begin{gather} \frac{dP}{d\Omega} = \frac{c^2 Z_0k^6}{1152\pi^2}|[\hat n \times \vec Q(\hat n )\times\hat n]|^2 \\ |[\hat n \times\vec Q(\hat n)]\times\hat n|^2 = \vec Q^* \cdot \vec Q - |\hat n \cdot\vec Q|^2 \end{gather}$$
+$$\begin{gather} \frac{dP}{d\Omega} = \frac{c^2 Z_0k^6}{1152\pi^2}|[\hat n \times \vec Q(\hat n )]\times\hat n]^2 \\ |[\hat n \times\vec Q(\hat n)]\times\hat n|^2 = \vec Q^* \cdot \vec Q - |\hat n \cdot\vec Q|^2 \end{gather}$$
 
 However the Quadrupole Tensor is traceless so: 
 
