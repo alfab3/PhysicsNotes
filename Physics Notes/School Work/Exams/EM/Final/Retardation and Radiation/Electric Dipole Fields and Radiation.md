@@ -19,6 +19,9 @@ $$\begin{gather} \vec H = \frac{ck^2}{4\pi}(\hat n\times \vec p)\frac{e^{ikr}}{r
 $$\begin{gather} H = \frac{i\omega}{4\pi} (n \times \vec p) \frac{1}{r^2} \\ \vec E = \frac{1}{4\pi\epsilon_0} [3\hat n(\hat n \cdot \vec p)-\vec p]\frac{1}{r^3} \end{gather}$$
 #### Power Radiated per unit solid angle
 $$\begin{gather} \frac{dP}{d\Omega} = \frac{1}{2} \text{Re}[r^2 \hat n \cdot \vec E \times \vec H^*]  \\ \frac{dP}{d\Omega} = \frac{c^2 Z_0}{32 \pi^2}k^4 |(\hat n \times \vec p) \times \hat n|^2\end{gather}$$
+#### Summary of Radiation-Zone Results
+$$\begin{gather} \vec A _{\text{rad}}(\vec r, t) = \frac{\mu_0}{4\pi r} \int d^3r' \vec j(\vec r', t - r/c + \hat r \cdot \vec r' /c)\end{gather}$$
+Where the radiation fields $$\begin{gather} c \vec B_{\text{rad}} = -\hat r \times \frac{\partial \vec A_{\text{rad}}(\vec r, t)}{\partial t} \\ E_\text{rad} (\vec r,t) = - \hat r\times c \vec B_\text{rad}\end{gather}$$
 
 We can use the Geometry of the Right Handed Triad:
 
@@ -32,4 +35,4 @@ So our power radiated can be written as:
 $$\begin{gather} \frac{dP}{d\Omega} = \frac{r^2}{c\mu_0}|\vec E_\text{rad}|^2 = \frac{1}{c\mu_0}\left|\vec r \times \frac{\partial \vec A_\text{rad}(\vec r,t)}{\partial t}\right|^2\end{gather}$$
 We can also use: 
 
-$$\begin{gather} \frac{Z_0}{} \end{gather}$$
+$$\begin{gather} \frac{dP}{d\Omega} = \frac{Z_0}{2}r^2 |\vec H|^2 \end{gather}$$
