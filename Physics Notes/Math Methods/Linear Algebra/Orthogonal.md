@@ -1,0 +1,1 @@
+Refers to two vectors being normal (90 degrees or $\pi/2$) angle between them. 

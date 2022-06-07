@@ -23,7 +23,7 @@ Depending on the structure of the Hamiltonian, the two systems either interact w
 $$\begin{gather} H = H^{(I)}+H^{(II)} \end{gather}$$
 
 ## Entanglement
-A distinctively different from the issue of interaction is the notion of entanglement between the two subsystems. The notion of entanglement applies to the density matrix of the composite system. The two subsystems are called disentangled (with respect to each other) if the [[Density Matrix]] $\hat \rho$ of their composite state reduces to a direct product of individual density matrices: 
+A distinctively different from the issue of interaction is the notion of entanglement between the two subsystems. The notion of entanglement applies to the [[Density Matrix]] of the composite system. The two subsystems are called disentangled (with respect to each other) if the [[Density Matrix]] $\hat \rho$ of their composite state reduces to a direct product of individual density matrices: 
 
 $$\begin{gather} \hat \rho = \hat \rho^{(I)}\hat \rho^{II}\end{gather}$$ 
 
