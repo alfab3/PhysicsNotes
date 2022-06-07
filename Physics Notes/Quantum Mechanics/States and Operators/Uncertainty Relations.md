@@ -11,4 +11,8 @@ For the case where the operators no longer commute one can find an uncertainty r
 $$\begin{gather} [\mathcal A, \mathcal B] = i\mathcal C \end{gather}$$
 The operator $\mathcal C$ must be [[Hermitian]] because the commutation of two Hermitian operators must be anti-Hermitian.
 
-Two derive the Uncertainty Relation
+To derive the Uncertainty Relation, one begins with [[Cauchy-Schwarz Inequality]]
+
+Leads to: 
+
+$$\begin{gather} \braket{\psi|\delta X^2|\psi}\braket{\psi|\delta P^2|\psi} \geq \frac{\hbar^2}{4} \\ \delta \mathcal A \equiv \mathcal A-\braket{\psi|\mathcal A|\psi} \end{gather}$$

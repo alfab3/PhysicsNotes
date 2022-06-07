@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "density matrix",
+                "query": "cauchy sc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,6 +91,7 @@
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
     "Quantum Mechanics/States and Operators/Uncertainty Relations.md",
+    "Cauchy-Schwarz Inequality.md",
     "Quantum Mechanics/States and Operators/Heisenberg and Schrodinger representations.md",
     "Quantum Mechanics/States and Operators/States.md",
     "Quantum Mechanics/States and Operators/Unitary Operators and Transformations.md",
@@ -97,7 +99,6 @@
     "Quantum Mechanics/Language and Axioms/Evolution Postulate - Hamiltonian and Evolution Operator.md",
     "Quantum Mechanics/Finite Dimensional Hilbert Space/Higher Dimensional Systems.md",
     "Quantum Mechanics/Finite Dimensional Hilbert Space/Perturbative Regime.md",
-    "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Hamiltonian.md"
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md"
   ]
 }
