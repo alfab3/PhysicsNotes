@@ -1,0 +1,1 @@
+A time-to-digital converter (TDC) is a device for recognizing events and providing a digital representation of the time they occurred. For example, a TDC might output the time of arrival for each incoming pulse. 

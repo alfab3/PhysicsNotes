@@ -1,0 +1,1 @@
+A preamplifier, also known as a preamp, is an [[Electronic Amplifier]] that converts a weak electrical signal into an output signal strong enough to be noise tolerant and strong enough for further processing, without this the final signal would be noisy or distorted. 

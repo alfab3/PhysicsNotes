@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/States and Operators/Uncertainty Relations.md",
+            "file": "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cauchy sc",
+                "query": "dirac del",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,12 +49,11 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 342
+    "width": 285
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -70,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/States and Operators/Uncertainty Relations.md",
+                "file": "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "Quantum Mechanics/States and Operators/Uncertainty Relations.md",
-    "Cauchy-Schwarz Inequality.md",
-    "Quantum Mechanics/States and Operators/Heisenberg and Schrodinger representations.md",
-    "Quantum Mechanics/States and Operators/States.md",
-    "Quantum Mechanics/States and Operators/Unitary Operators and Transformations.md",
-    "Quantum Mechanics/States and Operators/Evolution in Time.md",
-    "Quantum Mechanics/Language and Axioms/Evolution Postulate - Hamiltonian and Evolution Operator.md",
-    "Quantum Mechanics/Finite Dimensional Hilbert Space/Higher Dimensional Systems.md",
-    "Quantum Mechanics/Finite Dimensional Hilbert Space/Perturbative Regime.md",
-    "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md"
+    "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
+    "Electricity and Magnetism/Electronics/Preamplifier.md",
+    "Electronic Amplifier.md",
+    "To Do/Strong Interaction.md",
+    "Particle Physics/Quantum Chromodynamics/Quantum Chromodynamics (QCD).md",
+    "To Do/Chiral Symmetry Breaking.md",
+    "To Do/Asymptotic Freedom.md",
+    "To Do/Color Confinement.md",
+    "To Do/Color.md",
+    "To Do/Gluons.md"
   ]
 }
