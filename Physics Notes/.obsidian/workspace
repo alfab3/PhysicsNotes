@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
+            "file": "To Do/Subatomic Particles.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
+                "file": "To Do/Subatomic Particles.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "Electricity and Magnetism/Electronics/Time-to-digital converter (TDC).md",
-    "Electricity and Magnetism/Electronics/Preamplifier.md",
-    "Electronic Amplifier.md",
+    "To Do/Subatomic Particles.md",
     "To Do/Strong Interaction.md",
-    "Particle Physics/Quantum Chromodynamics/Quantum Chromodynamics (QCD).md",
-    "To Do/Chiral Symmetry Breaking.md",
-    "To Do/Asymptotic Freedom.md",
-    "To Do/Color Confinement.md",
-    "To Do/Color.md",
-    "To Do/Gluons.md"
+    "To Do/Spin.md",
+    "To Do/Self-Adjoint Operator.md",
+    "To Do/Schrodinger Picture.md",
+    "To Do/Lorentz Force Law.md",
+    "To Do/Lorentz Boost.md",
+    "To Do/Linear Transformation.md",
+    "To Do/Ampere.md",
+    "To Do/Asymptotic Freedom.md"
   ]
 }
