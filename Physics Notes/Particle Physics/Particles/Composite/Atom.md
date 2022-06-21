@@ -1,0 +1,1 @@
+An atom is the smallest unit of ordinary matter that forms a chemical element. Atoms are approximately 100 picometers across. Each atom consists of [[Protons]] and [[Neutrons]] bound within the [[Atomic Nucleus]] and one or more electrons bound around the nucleus.

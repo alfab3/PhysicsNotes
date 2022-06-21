@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/Subatomic Particles.md",
+            "file": "To Do/Baryons.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 285
+    "width": 382
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do/Subatomic Particles.md",
+                "file": "To Do/Baryons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "To Do/Subatomic Particles.md",
-    "To Do/Strong Interaction.md",
-    "To Do/Spin.md",
-    "To Do/Self-Adjoint Operator.md",
-    "To Do/Schrodinger Picture.md",
-    "To Do/Lorentz Force Law.md",
-    "To Do/Lorentz Boost.md",
-    "To Do/Linear Transformation.md",
-    "To Do/Ampere.md",
-    "To Do/Asymptotic Freedom.md"
+    "To Do/Baryons.md",
+    "Isospin.md",
+    "To Do/Angular Momentum Operator.md",
+    "To Do/Neutrons.md",
+    "To Do/Leptons.md",
+    "To Do/Fermion.md",
+    "Particle Physics/Particles/Composite/Atomic Nucleus.md",
+    "Particle Physics/Particles/Composite/Atom.md",
+    "Particle Physics/Particles/Fermions/Antiquark.md",
+    "To Do/Flavor.md"
   ]
 }
