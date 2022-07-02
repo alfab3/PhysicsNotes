@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/Baryons.md",
+            "file": "To Do/Magnetic Field.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do/Baryons.md",
+                "file": "To Do/Magnetic Field.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "To Do/Baryons.md",
-    "Isospin.md",
-    "To Do/Angular Momentum Operator.md",
-    "To Do/Neutrons.md",
-    "To Do/Leptons.md",
-    "To Do/Fermion.md",
-    "Particle Physics/Particles/Composite/Atomic Nucleus.md",
-    "Particle Physics/Particles/Composite/Atom.md",
-    "Particle Physics/Particles/Fermions/Antiquark.md",
-    "To Do/Flavor.md"
+    "To Do/Magnetic Field.md",
+    "Electricity and Magnetism/Magnetostatics/Untitled.md",
+    "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
+    "Electricity and Magnetism/Magnetostatics/Magnetic Vector Potential.md",
+    "Electricity and Magnetism/Magnetostatics/Force Between Currents.md",
+    "Electricity and Magnetism/Charge Distribution.md",
+    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
+    "Electricity and Magnetism/Electrostatics/Method of Images.md",
+    "Electricity and Magnetism/Electrostatics/Point Charge.md",
+    "Electricity and Magnetism/Electrostatics/Motivation of Electrostatics.md"
   ]
 }
