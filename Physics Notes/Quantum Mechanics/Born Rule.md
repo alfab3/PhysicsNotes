@@ -1,2 +1,2 @@
 # Definition
-A key postulate of [[Quantum Mechanics]] which gives the probability that a measurement of a [[Quantum System]] will yield a given result. In its simplest form, it states that the [[Probability Density]] of finding a particle at a given point when measured is proportional to the square of the magnitude of the particle's [[Wavefunction]] at that point.
+A key postulate of [[Quantum Mechanics]] which gives the probability that a measurement of a [[Quantum System]] will yield a given result. In its simplest form, it states that the [[Probability Density]] of finding a particle at a given point when measured is proportional to the square of the magnitude of the particle's [[Wave function]] at that point.

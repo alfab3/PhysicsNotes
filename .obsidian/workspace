@@ -7,11 +7,8 @@
         "id": "80f94fe641b5bd74",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "40447df51074b66e"
       },
@@ -19,11 +16,8 @@
         "id": "561e2ab6668fcb5c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         },
         "group": "40447df51074b66e"
       }
@@ -81,7 +75,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Notes/Quantum Mechanics/Language and Axions/Statistical interpretation of mixed states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",

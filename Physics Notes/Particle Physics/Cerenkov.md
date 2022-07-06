@@ -1,0 +1,1 @@
+Cerenkov radiation is [[Electromagnetic Radiation]] emitted when a [[Charged Particles]] passes through a [[Dielectric]] medium at a speed greater than the [[Phase Velocity]] 

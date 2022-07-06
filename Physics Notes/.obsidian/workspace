@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "To Do/Magnetic Field.md",
+            "file": "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dirac del",
+                "query": "Fourier ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Do/Magnetic Field.md",
+                "file": "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "To Do/Magnetic Field.md",
-    "Electricity and Magnetism/Magnetostatics/Untitled.md",
-    "Electricity and Magnetism/Magnetostatics/Biot-Savart Law.md",
-    "Electricity and Magnetism/Magnetostatics/Magnetic Vector Potential.md",
-    "Electricity and Magnetism/Magnetostatics/Force Between Currents.md",
-    "Electricity and Magnetism/Charge Distribution.md",
-    "Electricity and Magnetism/Electrostatics/Electric Potential.md",
-    "Electricity and Magnetism/Electrostatics/Method of Images.md",
-    "Electricity and Magnetism/Electrostatics/Point Charge.md",
-    "Electricity and Magnetism/Electrostatics/Motivation of Electrostatics.md"
+    "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
+    "Quantum Mechanics/Coordinate and Momentum Space/Wave Packets.md",
+    "To Do/Compton Effect.md",
+    "To Do/Heisenberg Picture.md",
+    "To Do/Observables.md",
+    "To Do/Neutrinos.md",
+    "To Do/Microwaves.md",
+    "To Do/Photons.md",
+    "To Do/Power.md",
+    "To Do/Protons.md"
   ]
 }
