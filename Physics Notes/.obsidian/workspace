@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
+            "file": "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 382
+    "width": 224
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
+                "file": "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
-    "Quantum Mechanics/Coordinate and Momentum Space/Harmonic Oscillator (QM).md",
-    "Quantum Mechanics/Coordinate and Momentum Space/Wave Packets.md",
-    "To Do/Compton Effect.md",
-    "To Do/Heisenberg Picture.md",
-    "To Do/Observables.md",
-    "To Do/Neutrinos.md",
-    "To Do/Microwaves.md",
-    "To Do/Photons.md",
-    "To Do/Power.md",
-    "To Do/Protons.md"
+    "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Measurement.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Hamiltonian.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Gibbs Distribution.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Entropy.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Composition.md",
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Basics.md",
+    "School Work/Exams/Quantum Mechanics 1/Final/Quantum Harmonic Oscillator.md",
+    "School Work/Exams/Quantum Mechanics 1/Final/Qual Problems.md",
+    "School Work/Exams/Quantum Mechanics 1/Final/Creation and Annihilation Operators.md"
   ]
 }
