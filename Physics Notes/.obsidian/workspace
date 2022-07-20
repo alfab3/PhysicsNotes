@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
+            "file": "Quantum Mechanics/Language and Axioms/Statistical interpretation of mixed states.md",
             "mode": "source",
             "source": false
           }
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 224
+    "width": 366.5
   },
   "right": {
     "id": "863f615f124e0a34",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
+                "file": "Quantum Mechanics/Language and Axioms/Statistical interpretation of mixed states.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "a16bdf8d7565d7f8",
   "lastOpenFiles": [
+    "Quantum Mechanics/Language and Axioms/Projection Operator.md",
+    "Quantum Mechanics/Language and Axioms/Measurement Postulate.md",
+    "Quantum Mechanics/Language and Axioms/Expectation Value.md",
+    "Quantum Mechanics/Language and Axioms/Entropy. Entanglement entropy.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Two Level Systems.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Rotating frame and Rabi Oscillations.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Perturbative Regime.md",
+    "Quantum Mechanics/Finite Dimensional Hilbert Space/Higher Dimensional Systems.md",
     "Quantum Mechanics/Charged Particles in Electromagnetic Fields/Vector and Scalar Potentials.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Measurement.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Hamiltonian.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Gibbs Distribution.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Entropy.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Composition.md",
-    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Basics.md",
-    "School Work/Exams/Quantum Mechanics 1/Final/Quantum Harmonic Oscillator.md",
-    "School Work/Exams/Quantum Mechanics 1/Final/Qual Problems.md",
-    "School Work/Exams/Quantum Mechanics 1/Final/Creation and Annihilation Operators.md"
+    "School Work/Exams/Quantum Mechanics 1/Midterm/QM Midterm Study Guide Measurement.md"
   ]
 }
